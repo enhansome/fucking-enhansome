@@ -110,47 +110,47 @@
 
 ## Platforms
 
-* <b><code> 66584⭐</code></b> <b><code>  6228🍴</code></b> [Node.js](https://github.com/sindresorhus/awesome-nodejs#readme) ⭐ 66,594 | 🐛 26 | 📅 2026-05-03) - Async non-blocking event-driven JavaScript runtime built on Chrome's V8 JavaScript engine.
+* <b><code> 66610⭐</code></b> <b><code>  6228🍴</code></b> [Node.js](https://github.com/sindresorhus/awesome-nodejs#readme) ⭐ 66,610 | 🐛 26 | 📅 2026-05-03) - Async non-blocking event-driven JavaScript runtime built on Chrome's V8 JavaScript engine.
   * <b><code>  1207⭐</code></b> <b><code>    80🍴</code></b> [Cross-Platform](https://github.com/bcoe/awesome-cross-platform-nodejs#readme) ⭐ 1,207 | 🐛 1 | 📅 2023-02-07) - Writing cross-platform code on Node.js.
-* <b><code> 60970⭐</code></b> <b><code>  6912🍴</code></b> [Flutter](https://github.com/Solido/awesome-flutter#readme) ⭐ 60,977 | 🐛 39 | 🌐 Dart | 📅 2026-04-21) - Google's mobile SDK for building native iOS and Android apps from a single codebase written in Dart.
-* <b><code> 53124⭐</code></b> <b><code>  6997🍴</code></b> [iOS](https://github.com/vsouza/awesome-ios#readme) ⭐ 53,134 | 🐛 24 | 🌐 Swift | 📅 2026-06-24) - Mobile operating system for Apple phones and tablets.
-* <b><code> 47410⭐</code></b> <b><code>  5144🍴</code></b> [Frontend Development](https://github.com/dypsilon/frontend-dev-bookmarks#readme) ⭐ 47,412 | 🐛 133 | 📅 2024-05-21)
-* <b><code> 35692⭐</code></b> <b><code>  4036🍴</code></b> [React Native](https://github.com/jondot/awesome-react-native#readme) ⭐ 35,692 | 🐛 151 | 🌐 JavaScript | 📅 2024-07-05) - JavaScript framework for writing natively rendering mobile apps for iOS and Android.
-* <b><code> 27260⭐</code></b> <b><code>  2065🍴</code></b> [Electron](https://github.com/sindresorhus/awesome-electron#readme) ⭐ 27,260 | 🐛 7 | 📅 2026-05-03) - Cross-platform native desktop apps using JavaScript/HTML/CSS.
-* <b><code> 21565⭐</code></b> <b><code>  2922🍴</code></b> [.NET](https://github.com/quozd/awesome-dotnet#readme) ⭐ 21,569 | 🐛 139 | 📅 2026-03-26)
-  * <b><code> 21364⭐</code></b> <b><code>  2954🍴</code></b> [Core](https://github.com/thangchung/awesome-dotnet-core#readme) ⭐ 21,367 | 🐛 211 | 🌐 C# | 📅 2026-02-27)
+* <b><code> 60984⭐</code></b> <b><code>  6909🍴</code></b> [Flutter](https://github.com/Solido/awesome-flutter#readme) ⭐ 60,984 | 🐛 39 | 🌐 Dart | 📅 2026-04-21) - Google's mobile SDK for building native iOS and Android apps from a single codebase written in Dart.
+* <b><code> 53144⭐</code></b> <b><code>  6998🍴</code></b> [iOS](https://github.com/vsouza/awesome-ios#readme) ⭐ 53,144 | 🐛 24 | 🌐 Swift | 📅 2026-06-24) - Mobile operating system for Apple phones and tablets.
+* <b><code> 47414⭐</code></b> <b><code>  5143🍴</code></b> [Frontend Development](https://github.com/dypsilon/frontend-dev-bookmarks#readme) ⭐ 47,415 | 🐛 133 | 📅 2024-05-21)
+* <b><code> 35691⭐</code></b> <b><code>  4034🍴</code></b> [React Native](https://github.com/jondot/awesome-react-native#readme) ⭐ 35,690 | 🐛 151 | 🌐 JavaScript | 📅 2024-07-05) - JavaScript framework for writing natively rendering mobile apps for iOS and Android.
+* <b><code> 27263⭐</code></b> <b><code>  2065🍴</code></b> [Electron](https://github.com/sindresorhus/awesome-electron#readme) ⭐ 27,263 | 🐛 7 | 📅 2026-05-03) - Cross-platform native desktop apps using JavaScript/HTML/CSS.
+* <b><code> 21574⭐</code></b> <b><code>  2921🍴</code></b> [.NET](https://github.com/quozd/awesome-dotnet#readme) ⭐ 21,574 | 🐛 139 | 📅 2026-03-26)
+  * <b><code> 21369⭐</code></b> <b><code>  2953🍴</code></b> [Core](https://github.com/thangchung/awesome-dotnet-core#readme) ⭐ 21,369 | 🐛 211 | 🌐 C# | 📅 2026-02-27)
   * <b><code>   735⭐</code></b> <b><code>    62🍴</code></b> [Roslyn](https://github.com/ironcev/awesome-roslyn#readme) ⭐ 735 | 🐛 15 | 📅 2024-01-16) - Open-source compilers and code analysis APIs for C# and VB.NET languages.
-* <b><code> 16770⭐</code></b> <b><code>  1129🍴</code></b> [Raspberry Pi](https://github.com/thibmaek/awesome-raspberry-pi#readme) ⭐ 16,776 | 🐛 18 | 🌐 Shell | 📅 2026-07-27) - Credit card-sized computer aimed at teaching kids programming, but capable of a lot more.
-* <b><code> 14127⭐</code></b> <b><code>  1902🍴</code></b> [Amazon Web Services](https://github.com/donnemartin/awesome-aws#readme) ⭐ 14,124 | 🐛 100 | 🌐 Python | 📅 2024-03-12)
-* <b><code> 12292⭐</code></b> <b><code>  1779🍴</code></b> [Android](https://github.com/JStumpp/awesome-android#readme) ⭐ 12,293 | 🐛 93 | 📅 2025-10-27) - Mobile operating system developed by Google.
-* <b><code>  8364⭐</code></b> <b><code>   421🍴</code></b> [Home Assistant](https://github.com/frenck/awesome-home-assistant#readme) ⭐ 8,366 | 🐛 20 | 🌐 Python | 📅 2026-08-21) - Open source home automation that puts local control and privacy first.
+* <b><code> 16781⭐</code></b> <b><code>  1129🍴</code></b> [Raspberry Pi](https://github.com/thibmaek/awesome-raspberry-pi#readme) ⭐ 16,781 | 🐛 18 | 🌐 Shell | 📅 2026-07-27) - Credit card-sized computer aimed at teaching kids programming, but capable of a lot more.
+* <b><code> 14126⭐</code></b> <b><code>  1902🍴</code></b> [Amazon Web Services](https://github.com/donnemartin/awesome-aws#readme) ⭐ 14,126 | 🐛 100 | 🌐 Python | 📅 2024-03-12)
+* <b><code> 12295⭐</code></b> <b><code>  1777🍴</code></b> [Android](https://github.com/JStumpp/awesome-android#readme) ⭐ 12,295 | 🐛 93 | 📅 2025-10-27) - Mobile operating system developed by Google.
+* <b><code>  8370⭐</code></b> <b><code>   421🍴</code></b> [Home Assistant](https://github.com/frenck/awesome-home-assistant#readme) ⭐ 8,370 | 🐛 20 | 🌐 Python | 📅 2026-08-21) - Open source home automation that puts local control and privacy first.
 * <b><code>  5406⭐</code></b> <b><code>   199🍴</code></b> [Nix](https://github.com/nix-community/awesome-nix#readme) ⭐ 5,406 | 🐛 22 | 📅 2026-07-23) - Package manager for Linux and other Unix systems that makes package management reliable and reproducible.
 * <b><code>  4603⭐</code></b> <b><code>   549🍴</code></b> [IPFS](https://github.com/ipfs/awesome-ipfs#readme) ⭐ 4,603 | 🐛 19 | 🌐 JavaScript | 📅 2025-11-13) - P2P hypermedia protocol.
-* <b><code>  4411⭐</code></b> <b><code>   250🍴</code></b> [Deno](https://github.com/denolib/awesome-deno#readme) ⭐ 4,410 | 🐛 2 | 📅 2026-08-14) - A secure runtime for JavaScript and TypeScript that uses V8 and is built in Rust.
-* <b><code>  2756⭐</code></b> <b><code>   223🍴</code></b> [Windows](https://github.com/0pandadev/awesome-windows#readme) ⭐ 2,766 | 🐛 52 | 📅 2026-08-18) - Consumer desktop operating system.
+* <b><code>  4409⭐</code></b> <b><code>   250🍴</code></b> [Deno](https://github.com/denolib/awesome-deno#readme) ⭐ 4,409 | 🐛 2 | 📅 2026-08-14) - A secure runtime for JavaScript and TypeScript that uses V8 and is built in Rust.
+* <b><code>  2768⭐</code></b> <b><code>   223🍴</code></b> [Windows](https://github.com/0pandadev/awesome-windows#readme) ⭐ 2,769 | 🐛 52 | 📅 2026-08-18) - Consumer desktop operating system.
   * <b><code>   597⭐</code></b> <b><code>    27🍴</code></b> [PowerToys Run Plugins](https://github.com/hlaueriksson/awesome-powertoys-run-plugins#readme) ⭐ 597 | 🐛 7 | 📅 2025-09-08) - Community plugins for the Windows quick launcher.
-* <b><code>  2630⭐</code></b> <b><code>   159🍴</code></b> [ESP](https://github.com/agucova/awesome-esp#readme) ⭐ 2,632 | 🐛 22 | 📅 2026-05-09) - Low-cost microcontrollers with WiFi and broad IoT applications.
-* <b><code>  2174⭐</code></b> <b><code>   225🍴</code></b> [JVM](https://github.com/deephacks/awesome-jvm#readme) ⭐ 2,175 | 🐛 17 | 📅 2022-08-30)
+* <b><code>  2633⭐</code></b> <b><code>   160🍴</code></b> [ESP](https://github.com/agucova/awesome-esp#readme) ⭐ 2,633 | 🐛 22 | 📅 2026-05-09) - Low-cost microcontrollers with WiFi and broad IoT applications.
+* <b><code>  2175⭐</code></b> <b><code>   225🍴</code></b> [JVM](https://github.com/deephacks/awesome-jvm#readme) ⭐ 2,175 | 🐛 17 | 📅 2022-08-30)
 * <b><code>  1585⭐</code></b> <b><code>    67🍴</code></b> [GNOME](https://github.com/Kazhnuz/awesome-gnome#readme) ⭐ 1,585 | 🐛 24 | 📅 2025-12-27) - Simple and distraction-free desktop environment for Linux.
-* <b><code>  1507⭐</code></b> <b><code>    96🍴</code></b> [WebExtensions](https://github.com/fregante/Awesome-WebExtensions#readme) ⭐ 1,507 | 🐛 0 | 📅 2026-07-04) - Cross-browser extension system.
-* <b><code>  1405⭐</code></b> <b><code>   110🍴</code></b> [Smart TV](https://github.com/vitalets/awesome-smart-tv#readme) ⭐ 1,404 | 🐛 3 | 📅 2026-07-26) - Create apps for different TV platforms.
-* <b><code>  1222⭐</code></b> <b><code>   107🍴</code></b> [Cloudflare](https://github.com/irazasyed/awesome-cloudflare#readme) ⭐ 1,222 | 🐛 37 | 📅 2026-01-29) - CDN, DNS, DDoS protection, and security for your site.
-* <b><code>   828⭐</code></b> <b><code>    26🍴</code></b> [KDE](https://github.com/francoism90/awesome-kde#readme) ⭐ 831 | 🐛 3 | 📅 2026-07-23) - A free software community dedicated to creating an open and user-friendly computing experience.
-* <b><code>   801⭐</code></b> <b><code>   205🍴</code></b> [Salesforce](https://github.com/mailtoharshit/awesome-salesforce#readme) ⭐ 802 | 🐛 6 | 📅 2023-07-20)
+* <b><code>  1508⭐</code></b> <b><code>    96🍴</code></b> [WebExtensions](https://github.com/fregante/Awesome-WebExtensions#readme) ⭐ 1,508 | 🐛 0 | 📅 2026-07-04) - Cross-browser extension system.
+* <b><code>  1405⭐</code></b> <b><code>   110🍴</code></b> [Smart TV](https://github.com/vitalets/awesome-smart-tv#readme) ⭐ 1,405 | 🐛 3 | 📅 2026-07-26) - Create apps for different TV platforms.
+* <b><code>  1224⭐</code></b> <b><code>   108🍴</code></b> [Cloudflare](https://github.com/irazasyed/awesome-cloudflare#readme) ⭐ 1,224 | 🐛 38 | 📅 2026-01-29) - CDN, DNS, DDoS protection, and security for your site.
+* <b><code>   832⭐</code></b> <b><code>    26🍴</code></b> [KDE](https://github.com/francoism90/awesome-kde#readme) ⭐ 832 | 🐛 3 | 📅 2026-07-23) - A free software community dedicated to creating an open and user-friendly computing experience.
+* <b><code>   803⭐</code></b> <b><code>   205🍴</code></b> [Salesforce](https://github.com/mailtoharshit/awesome-salesforce#readme) ⭐ 803 | 🐛 6 | 📅 2023-07-20)
 * <b><code>   794⭐</code></b> <b><code>    74🍴</code></b> [Firebase](https://github.com/jthegedus/awesome-firebase#readme) ⭐ 794 | 🐛 9 | 📅 2024-04-06) - App development platform built on Google Cloud.
 * <b><code>   637⭐</code></b> <b><code>    53🍴</code></b> [Capacitor](https://github.com/riderx/awesome-capacitor#readme) ⭐ 637 | 🐛 1 | 🌐 HTML | 📅 2026-08-20) - Cross-platform open source runtime for building Web Native apps.
 * <b><code>   627⭐</code></b> <b><code>    37🍴</code></b> [DOS](https://github.com/balintkissdev/awesome-dos#readme) ⭐ 627 | 🐛 1 | 📅 2025-08-25) - Operating system for x86-based personal computers that was popular during the 1980s and early 1990s.
-* <b><code>   611⭐</code></b> <b><code>    74🍴</code></b> [IoT & Hybrid Apps](https://github.com/weblancaster/awesome-IoT-hybrid#readme) ⭐ 611 | 🐛 6 | 📅 2021-09-01)
+* <b><code>   612⭐</code></b> <b><code>    74🍴</code></b> [IoT & Hybrid Apps](https://github.com/weblancaster/awesome-IoT-hybrid#readme) ⭐ 612 | 🐛 6 | 📅 2021-09-01)
 * <b><code>   555⭐</code></b> <b><code>    92🍴</code></b> [Integration](https://github.com/stn1slv/awesome-integration#readme) ⭐ 555 | 🐛 1 | 🌐 Markdown | 📅 2026-08-21) - Linking together different IT systems (components) to functionally cooperate as a whole.
-* <b><code>   547⭐</code></b> <b><code>    34🍴</code></b> [Node-RED](https://github.com/naimo84/awesome-nodered#readme) ⭐ 548 | 🐛 1 | 📅 2023-02-23) - A programming tool for wiring together hardware devices, APIs, and online services.
-* <b><code>   501⭐</code></b> <b><code>    41🍴</code></b> [watchOS](https://github.com/yenchenlin/awesome-watchos#readme) ⭐ 501 | 🐛 4 | 🌐 Ruby | 📅 2018-07-05) - Operating system for the Apple Watch.
+* <b><code>   548⭐</code></b> <b><code>    34🍴</code></b> [Node-RED](https://github.com/naimo84/awesome-nodered#readme) ⭐ 548 | 🐛 1 | 📅 2023-02-23) - A programming tool for wiring together hardware devices, APIs, and online services.
+* <b><code>   502⭐</code></b> <b><code>    41🍴</code></b> [watchOS](https://github.com/yenchenlin/awesome-watchos#readme) ⭐ 502 | 🐛 4 | 🌐 Ruby | 📅 2018-07-05) - Operating system for the Apple Watch.
 * <b><code>   454⭐</code></b> <b><code>    55🍴</code></b> [Low Code](https://github.com/zenitysec/awesome-low-code#readme) ⭐ 454 | 🐛 12 | 📅 2026-04-05) - Allowing business professionals to address their needs on their own with little to no coding skills.
 * <b><code>   379⭐</code></b> <b><code>    27🍴</code></b> [DigitalOcean](https://github.com/jonleibowitz/awesome-digitalocean#readme) ⭐ 379 | 🐛 3 | 📅 2021-04-30) - Cloud computing platform designed for developers.
 * <b><code>   363⭐</code></b> <b><code>    50🍴</code></b> [Fuse](https://github.com/fuse-compound/awesome-fuse#readme) ⭐ 363 | 🐛 0 | 📅 2019-02-25) - Mobile development tools.
 * <b><code>   330⭐</code></b> <b><code>    36🍴</code></b> [ArcGIS Developer](https://github.com/Esri/awesome-arcgis-developer#readme) ⭐ 330 | 🐛 9 | 📅 2026-04-14) - Mapping and location analysis platform for developers.
 * <b><code>   322⭐</code></b> <b><code>    35🍴</code></b> [Heroku](https://github.com/ianstormtaylor/awesome-heroku#readme) ⭐ 322 | 🐛 1 | 📅 2021-07-06) - Cloud platform as a service.
 * <b><code>   309⭐</code></b> <b><code>    40🍴</code></b> [Cordova](https://github.com/busterc/awesome-cordova#readme) ⭐ 309 | 🐛 0 | 🌐 Ruby | 📅 2019-10-25) - JavaScript API for hybrid apps.
-* <b><code>   146⭐</code></b> <b><code>    11🍴</code></b> [Bluetooth Low Energy](https://github.com/dotintent/awesome-ble#readme) ⭐ 146 | 🐛 2 | 📅 2025-05-30) - Low-power wireless communication protocol ideal for IoT, wearables, and other battery-powered applications.
+* <b><code>   147⭐</code></b> <b><code>    11🍴</code></b> [Bluetooth Low Energy](https://github.com/dotintent/awesome-ble#readme) ⭐ 147 | 🐛 2 | 📅 2025-05-30) - Low-power wireless communication protocol ideal for IoT, wearables, and other battery-powered applications.
 * <b><code>   134⭐</code></b> <b><code>    18🍴</code></b> [Firebase Genkit](https://github.com/xavidop/awesome-firebase-genkit#readme) ⭐ 134 | 🐛 1 | 📅 2026-07-20) - An open-source framework for building AI-powered apps and features.
 * <b><code>   114⭐</code></b> <b><code>    18🍴</code></b> [Actions on Google](https://github.com/ravirupareliya/awesome-actions-on-google#readme) ⭐ 114 | 🐛 2 | 📅 2020-10-31) - Developer platform for Google Assistant.
 * <b><code>   109⭐</code></b> <b><code>    11🍴</code></b> [IBM Cloud](https://github.com/victorshinya/awesome-ibmcloud#readme) ⭐ 109 | 🐛 1 | 🌐 HTML | 📅 2021-07-05) - Cloud platform for developers and companies.
@@ -158,41 +158,41 @@
 * <b><code>    96⭐</code></b> <b><code>    12🍴</code></b> [Backstage](https://github.com/shano/awesome-backstage#readme) ⭐ 96 | 🐛 1 | 📅 2026-08-20) - Open-source platform for building Internal Developer Portals that unify tools and workflows.
 * <b><code>    81⭐</code></b> <b><code>    12🍴</code></b> [Uno Platform](https://github.com/MartinZikmund/awesome-uno-platform#readme) ⭐ 81 | 🐛 1 | 📅 2025-05-20) - Open-source .NET UI platform for building cross-platform apps.
 * Linux
-  * <b><code>  5150⭐</code></b> <b><code>   441🍴</code></b> [eBPF](https://github.com/zoidbergwill/awesome-ebpf#readme) ⭐ 5,150 | 🐛 13 | 📅 2026-08-12) - Virtual machine that allows you to write more efficient and powerful tracing and monitoring for Linux systems.
+  * <b><code>  5151⭐</code></b> <b><code>   440🍴</code></b> [eBPF](https://github.com/zoidbergwill/awesome-ebpf#readme) ⭐ 5,151 | 🐛 13 | 📅 2026-08-12) - Virtual machine that allows you to write more efficient and powerful tracing and monitoring for Linux systems.
   * <b><code>  2090⭐</code></b> <b><code>   181🍴</code></b> [Containers](https://github.com/Friz-zy/awesome-linux-containers#readme) ⭐ 2,090 | 🐛 11 | 📅 2024-04-09)
   * <b><code>   599⭐</code></b> <b><code>    43🍴</code></b> [AppImage](https://github.com/AppImageCommunity/awesome-appimage#readme) ⭐ 599 | 🐛 11 | 📅 2025-12-07) - Package apps in a single file that works on various mainstream Linux distributions.
-  * <b><code>   587⭐</code></b> <b><code>    28🍴</code></b> [Arch-based Projects](https://github.com/PandaFoss/Awesome-Arch#readme) ⭐ 587 | 🐛 3 | 🌐 HTML | 📅 2026-07-11) - Linux distributions and projects based on Arch Linux.
-  * <b><code>   424⭐</code></b> <b><code>    33🍴</code></b> [Omarchy](https://github.com/aorumbayev/awesome-omarchy#readme) ⭐ 428 | 🐛 0 | 🌐 HTML | 📅 2026-08-22) - Opinionated Arch Linux and Hyprland desktop environment from the creator of Ruby on Rails.
+  * <b><code>   588⭐</code></b> <b><code>    28🍴</code></b> [Arch-based Projects](https://github.com/PandaFoss/Awesome-Arch#readme) ⭐ 588 | 🐛 3 | 🌐 HTML | 📅 2026-07-11) - Linux distributions and projects based on Arch Linux.
+  * <b><code>   433⭐</code></b> <b><code>    35🍴</code></b> [Omarchy](https://github.com/aorumbayev/awesome-omarchy#readme) ⭐ 433 | 🐛 0 | 🌐 HTML | 📅 2026-08-22) - Opinionated Arch Linux and Hyprland desktop environment from the creator of Ruby on Rails.
 * macOS - Operating system for Apple's Mac computers.
-  * <b><code>111552⭐</code></b> <b><code>  8539🍴</code></b> [Apps](https://github.com/jaywcjlove/awesome-mac#readme) ⭐ 111,619 | 🐛 715 | 🌐 Swift | 📅 2026-08-21)
-  * <b><code> 50113⭐</code></b> <b><code>  2724🍴</code></b> [Open Source Apps](https://github.com/serhii-londar/open-source-mac-os-apps#readme) ⭐ 50,131 | 🐛 231 | 📅 2026-08-22)
-  * <b><code>  4407⭐</code></b> <b><code>   165🍴</code></b> [Screensavers](https://github.com/agarrharr/awesome-macos-screensavers#readme) ⭐ 4,406 | 🐛 5 | 📅 2025-10-27)
+  * <b><code>111671⭐</code></b> <b><code>  8548🍴</code></b> [Apps](https://github.com/jaywcjlove/awesome-mac#readme) ⭐ 111,679 | 🐛 716 | 🌐 Swift | 📅 2026-08-21)
+  * <b><code> 50142⭐</code></b> <b><code>  2724🍴</code></b> [Open Source Apps](https://github.com/serhii-londar/open-source-mac-os-apps#readme) ⭐ 50,143 | 🐛 232 | 📅 2026-08-22)
+  * <b><code>  4406⭐</code></b> <b><code>   165🍴</code></b> [Screensavers](https://github.com/agarrharr/awesome-macos-screensavers#readme) ⭐ 4,406 | 🐛 5 | 📅 2025-10-27)
 
 ## Programming Languages
 
-* <b><code>315350⭐</code></b> <b><code> 28556🍴</code></b> [Python](https://github.com/vinta/awesome-python#readme) ⭐ 315,548 | 🐛 23 | 🌐 Python | 📅 2026-08-22) - General-purpose programming language designed for readability.
-  * <b><code>  5117⭐</code></b> <b><code>   356🍴</code></b> [Asyncio](https://github.com/timofurrer/awesome-asyncio#readme) ⭐ 5,117 | 🐛 22 | 📅 2025-12-01) - Asynchronous I/O in Python 3.
-  * <b><code>  3567⭐</code></b> <b><code>   460🍴</code></b> [Data Science](https://github.com/krzjoa/awesome-python-data-science#readme) ⭐ 3,567 | 🐛 16 | 📅 2026-04-13) - Data analysis and machine learning.
+* <b><code>315694⭐</code></b> <b><code> 28559🍴</code></b> [Python](https://github.com/vinta/awesome-python#readme) ⭐ 315,715 | 🐛 16 | 🌐 Python | 📅 2026-08-23) - General-purpose programming language designed for readability.
+  * <b><code>  5118⭐</code></b> <b><code>   356🍴</code></b> [Asyncio](https://github.com/timofurrer/awesome-asyncio#readme) ⭐ 5,118 | 🐛 22 | 📅 2025-12-01) - Asynchronous I/O in Python 3.
+  * <b><code>  3567⭐</code></b> <b><code>   459🍴</code></b> [Data Science](https://github.com/krzjoa/awesome-python-data-science#readme) ⭐ 3,567 | 🐛 16 | 📅 2026-04-13) - Data analysis and machine learning.
   * <b><code>  1978⭐</code></b> <b><code>    77🍴</code></b> [Typing](https://github.com/typeddjango/awesome-python-typing#readme) ⭐ 1,978 | 🐛 7 | 📅 2026-06-19) - Optional static typing for Python.
-  * <b><code>  1801⭐</code></b> <b><code>   220🍴</code></b> [MicroPython](https://github.com/mcauser/awesome-micropython#readme) ⭐ 1,802 | 🐛 9 | 🌐 HTML | 📅 2026-07-20) - A lean and efficient implementation of Python 3 for microcontrollers.
+  * <b><code>  1802⭐</code></b> <b><code>   220🍴</code></b> [MicroPython](https://github.com/mcauser/awesome-micropython#readme) ⭐ 1,802 | 🐛 9 | 🌐 HTML | 📅 2026-07-20) - A lean and efficient implementation of Python 3 for microcontrollers.
   * <b><code>  1707⭐</code></b> <b><code>   185🍴</code></b> [Scientific Audio](https://github.com/faroit/awesome-python-scientific-audio#readme) ⭐ 1,707 | 🐛 35 | 📅 2026-06-11) - Scientific research in audio/music.
   * <b><code>   741⭐</code></b> <b><code>    72🍴</code></b> [CircuitPython](https://github.com/adafruit/awesome-circuitpython#readme) ⭐ 741 | 🐛 1 | 📅 2025-07-21) - A version of Python for microcontrollers.
-* <b><code>181864⭐</code></b> <b><code> 13506🍴</code></b> [Go](https://github.com/avelino/awesome-go#readme) ⭐ 181,988 | 🐛 215 | 🌐 Go | 📅 2026-08-21)
-* <b><code> 72868⭐</code></b> <b><code>  8322🍴</code></b> [C/C++](https://github.com/fffaraz/awesome-cpp#readme) ⭐ 72,879 | 🐛 311 | 📅 2026-08-22) - General-purpose language with a bias toward system programming and embedded, resource-constrained software.
-* <b><code> 58924⭐</code></b> <b><code>  3553🍴</code></b> [Rust](https://github.com/rust-unofficial/awesome-rust#readme) ⭐ 58,945 | 🐛 8 | 🌐 Rust | 📅 2026-08-22)
+* <b><code>182052⭐</code></b> <b><code> 13504🍴</code></b> [Go](https://github.com/avelino/awesome-go#readme) ⭐ 182,062 | 🐛 215 | 🌐 Go | 📅 2026-08-21)
+* <b><code> 72896⭐</code></b> <b><code>  8323🍴</code></b> [C/C++](https://github.com/fffaraz/awesome-cpp#readme) ⭐ 72,898 | 🐛 311 | 📅 2026-08-22) - General-purpose language with a bias toward system programming and embedded, resource-constrained software.
+* <b><code> 58950⭐</code></b> <b><code>  3559🍴</code></b> [Rust](https://github.com/rust-unofficial/awesome-rust#readme) ⭐ 58,950 | 🐛 9 | 🌐 Rust | 📅 2026-08-22)
   * <b><code>   151⭐</code></b> <b><code>    13🍴</code></b> [Pest](https://github.com/pest-parser/awesome-pest#readme) ⭐ 151 | 🐛 0 | 📅 2026-08-08) - Parser generator.
-* <b><code> 48808⭐</code></b> <b><code>  7710🍴</code></b> [Java](https://github.com/akullpp/awesome-java#readme) ⭐ 48,818 | 🐛 3 | 📅 2026-08-19) - Popular secure object-oriented language designed for flexibility to "write once, run anywhere".
-  * <b><code>   409⭐</code></b> <b><code>    14🍴</code></b> [J2ME](https://github.com/hstsethi/awesome-j2me#readme) ⭐ 409 | 🐛 1 | 🌐 Java | 📅 2026-07-28) - Java specification designed for old keypad phones and PDAs..
+* <b><code> 48829⭐</code></b> <b><code>  7710🍴</code></b> [Java](https://github.com/akullpp/awesome-java#readme) ⭐ 48,830 | 🐛 3 | 📅 2026-08-24) - Popular secure object-oriented language designed for flexibility to "write once, run anywhere".
+  * <b><code>   410⭐</code></b> <b><code>    14🍴</code></b> [J2ME](https://github.com/hstsethi/awesome-j2me#readme) ⭐ 410 | 🐛 1 | 🌐 Java | 📅 2026-07-28) - Java specification designed for old keypad phones and PDAs..
   * <b><code>   306⭐</code></b> <b><code>    30🍴</code></b> [RxJava](https://github.com/eleventigers/awesome-rxjava#readme) ⭐ 306 | 🐛 1 | 📅 2019-01-09)
-* <b><code> 35016⭐</code></b> <b><code>  4550🍴</code></b> [JavaScript](https://github.com/sorrycc/awesome-javascript#readme) ⭐ 35,017 | 🐛 30 | 📅 2026-08-19)
-  * <b><code>128783⭐</code></b> <b><code> 12485🍴</code></b> [30 Seconds of Code](https://github.com/30-seconds/30-seconds-of-code#readme) ⭐ 128,792 | 🐛 0 | 🌐 JavaScript | 📅 2026-08-19) - Code snippets you can understand in 30 seconds.
+* <b><code> 35019⭐</code></b> <b><code>  4552🍴</code></b> [JavaScript](https://github.com/sorrycc/awesome-javascript#readme) ⭐ 35,019 | 🐛 29 | 📅 2026-08-19)
+  * <b><code>128802⭐</code></b> <b><code> 12485🍴</code></b> [30 Seconds of Code](https://github.com/30-seconds/30-seconds-of-code#readme) ⭐ 128,804 | 🐛 0 | 🌐 JavaScript | 📅 2026-08-19) - Code snippets you can understand in 30 seconds.
   * <b><code> 13606⭐</code></b> <b><code>   878🍴</code></b> [Must Watch Talks](https://github.com/bolshchikov/js-must-watch#readme) ⭐ 13,606 | 🐛 0 | 📅 2022-01-20)
-  * <b><code> 12434⭐</code></b> <b><code>   781🍴</code></b> [Tips](https://github.com/loverajoel/jstips#readme) ⭐ 12,432 | 🐛 9 | 📅 2025-04-26)
+  * <b><code> 12432⭐</code></b> <b><code>   781🍴</code></b> [Tips](https://github.com/loverajoel/jstips#readme) ⭐ 12,432 | 🐛 9 | 📅 2025-04-26)
   * <b><code>  6035⭐</code></b> <b><code>   389🍴</code></b> [Functional Programming](https://github.com/stoeffel/awesome-fp-js#readme) ⭐ 6,035 | 🐛 1 | 📅 2026-01-15)
-  * <b><code>  4749⭐</code></b> <b><code>   251🍴</code></b> [ESLint](https://github.com/dustinspecker/awesome-eslint#readme) ⭐ 4,749 | 🐛 13 | 📅 2026-05-13) - Linter.
+  * <b><code>  4750⭐</code></b> <b><code>   251🍴</code></b> [ESLint](https://github.com/dustinspecker/awesome-eslint#readme) ⭐ 4,750 | 🐛 13 | 📅 2026-05-13) - Linter.
   * <b><code>  4734⭐</code></b> <b><code>   280🍴</code></b> [npm](https://github.com/sindresorhus/awesome-npm#readme) ⭐ 4,734 | 🐛 1 | 📅 2026-04-20) - Package manager.
   * <b><code>  4624⭐</code></b> <b><code>   454🍴</code></b> [Micro npm Packages](https://github.com/parro-it/awesome-micro-npm-packages#readme) ⭐ 4,624 | 🐛 6 | 📅 2023-12-18)
-  * <b><code>  1748⭐</code></b> <b><code>   121🍴</code></b> [Promises](https://github.com/wbinnssmith/awesome-promises#readme) ⭐ 1,750 | 🐛 8 | 📅 2023-12-15)
+  * <b><code>  1750⭐</code></b> <b><code>   121🍴</code></b> [Promises](https://github.com/wbinnssmith/awesome-promises#readme) ⭐ 1,750 | 🐛 8 | 📅 2023-12-15)
   * <b><code>  1215⭐</code></b> <b><code>    62🍴</code></b> [Mad Science npm Packages](https://github.com/feross/awesome-mad-science#readme) ⭐ 1,215 | 🐛 11 | 📅 2022-05-01) - Impossible sounding projects that exist.
   * <b><code>   742⭐</code></b> <b><code>    38🍴</code></b> [npm scripts](https://github.com/RyanZim/awesome-npm-scripts#readme) ⭐ 742 | 🐛 1 | 📅 2026-07-23) - Task runner.
   * <b><code>   582⭐</code></b> <b><code>    26🍴</code></b> [Network Layer](https://github.com/Kikobeats/awesome-network-js#readme) ⭐ 582 | 🐛 0 | 📅 2020-10-12)
@@ -201,38 +201,38 @@
   * <b><code>   356⭐</code></b> <b><code>    31🍴</code></b> [AVA](https://github.com/avajs/awesome-ava#readme) ⭐ 356 | 🐛 1 | 📅 2022-09-12) - Test runner.
   * <b><code>   352⭐</code></b> <b><code>    15🍴</code></b> [Observables](https://github.com/sindresorhus/awesome-observables#readme) ⭐ 352 | 🐛 0 | 📅 2021-10-13)
   * <b><code>    66⭐</code></b> <b><code>     3🍴</code></b> [Ponyfills](https://github.com/Richienb/awesome-ponyfills#readme) ⭐ 66 | 🐛 0 | 📅 2020-10-21) - Like polyfills but without overriding native APIs.
-* <b><code> 32666⭐</code></b> <b><code>  5143🍴</code></b> [PHP](https://github.com/ziadoz/awesome-php#readme) ⭐ 32,667 | 🐛 86 | 📅 2026-07-13) - Server-side scripting language.
+* <b><code> 32671⭐</code></b> <b><code>  5142🍴</code></b> [PHP](https://github.com/ziadoz/awesome-php#readme) ⭐ 32,671 | 🐛 85 | 📅 2026-07-13) - Server-side scripting language.
   * <b><code>   907⭐</code></b> <b><code>    62🍴</code></b> [Composer](https://github.com/jakoch/awesome-composer#readme) ⭐ 907 | 🐛 0 | 📅 2026-07-26) - Package manager.
-* <b><code> 26218⭐</code></b> <b><code>  3140🍴</code></b> [Swift](https://github.com/matteocrippa/awesome-swift#readme) ⭐ 26,220 | 🐛 10 | 🌐 Ruby | 📅 2026-08-03) - Apple's compiled programming language that is secure, modern, programmer-friendly, and fast.
-  * <b><code>  5792⭐</code></b> <b><code>   469🍴</code></b> [Education](https://github.com/hsavit1/Awesome-Swift-Education#readme) ⭐ 5,792 | 🐛 2 | 📅 2018-07-01)
+* <b><code> 26223⭐</code></b> <b><code>  3141🍴</code></b> [Swift](https://github.com/matteocrippa/awesome-swift#readme) ⭐ 26,223 | 🐛 11 | 🌐 Ruby | 📅 2026-08-03) - Apple's compiled programming language that is secure, modern, programmer-friendly, and fast.
+  * <b><code>  5793⭐</code></b> <b><code>   469🍴</code></b> [Education](https://github.com/hsavit1/Awesome-Swift-Education#readme) ⭐ 5,793 | 🐛 2 | 📅 2018-07-01)
   * <b><code>  4386⭐</code></b> <b><code>   344🍴</code></b> [Playgrounds](https://github.com/uraimo/Awesome-Swift-Playgrounds#readme) ⭐ 4,386 | 🐛 1 | 🌐 Swift | 📅 2026-04-02)
-* <b><code> 14141⭐</code></b> <b><code>  1763🍴</code></b> [Ruby](https://github.com/markets/awesome-ruby#readme) ⭐ 14,142 | 🐛 8 | 📅 2026-08-13)
-* <b><code> 13164⭐</code></b> <b><code>  1192🍴</code></b> [Elixir](https://github.com/h4cc/awesome-elixir#readme) ⭐ 13,164 | 🐛 29 | 🌐 Elixir | 📅 2025-10-12)
-* <b><code> 11374⭐</code></b> <b><code>  1279🍴</code></b> [Kotlin](https://github.com/KotlinBy/awesome-kotlin#readme) ⭐ 11,375 | 🐛 56 | 🌐 Kotlin | 📅 2026-07-03)
-* <b><code>  9235⭐</code></b> <b><code>  1261🍴</code></b> [Scala](https://github.com/lauris/awesome-scala#readme) ⭐ 9,236 | 🐛 14 | 🌐 Python | 📅 2024-09-20)
+* <b><code> 14144⭐</code></b> <b><code>  1763🍴</code></b> [Ruby](https://github.com/markets/awesome-ruby#readme) ⭐ 14,144 | 🐛 8 | 📅 2026-08-13)
+* <b><code> 13163⭐</code></b> <b><code>  1191🍴</code></b> [Elixir](https://github.com/h4cc/awesome-elixir#readme) ⭐ 13,163 | 🐛 29 | 🌐 Elixir | 📅 2025-10-12)
+* <b><code> 11376⭐</code></b> <b><code>  1277🍴</code></b> [Kotlin](https://github.com/KotlinBy/awesome-kotlin#readme) ⭐ 11,376 | 🐛 20 | 🌐 Kotlin | 📅 2026-08-23)
+* <b><code>  9237⭐</code></b> <b><code>  1261🍴</code></b> [Scala](https://github.com/lauris/awesome-scala#readme) ⭐ 9,237 | 🐛 14 | 🌐 Python | 📅 2024-09-20)
   * <b><code>   276⭐</code></b> <b><code>    20🍴</code></b> [Scala Native](https://github.com/tindzk/awesome-scala-native#readme) ⭐ 276 | 🐛 2 | 📅 2025-06-05) - Optimizing ahead-of-time compiler for Scala based on LLVM.
-* <b><code>  6503⭐</code></b> <b><code>  1516🍴</code></b> [R](https://github.com/qinwf/awesome-R#readme) ⭐ 6,503 | 🐛 29 | 🌐 R | 📅 2025-09-18) - Functional programming language and environment for statistical computing and graphics.
-  * <b><code>   656⭐</code></b> <b><code>   105🍴</code></b> [Learning](https://github.com/iamericfletcher/awesome-r-learning-resources#readme) ⭐ 656 | 🐛 0 | 📅 2024-12-19)
-* <b><code>  5418⭐</code></b> <b><code>   489🍴</code></b> [CMake](https://github.com/onqtam/awesome-cmake#readme) ⭐ 5,417 | 🐛 4 | 📅 2026-08-13) - Build, test, and package software.
+* <b><code>  6506⭐</code></b> <b><code>  1516🍴</code></b> [R](https://github.com/qinwf/awesome-R#readme) ⭐ 6,506 | 🐛 29 | 🌐 R | 📅 2025-09-18) - Functional programming language and environment for statistical computing and graphics.
+  * <b><code>   657⭐</code></b> <b><code>   104🍴</code></b> [Learning](https://github.com/iamericfletcher/awesome-r-learning-resources#readme) ⭐ 657 | 🐛 0 | 📅 2024-12-19)
+* <b><code>  5418⭐</code></b> <b><code>   489🍴</code></b> [CMake](https://github.com/onqtam/awesome-cmake#readme) ⭐ 5,418 | 🐛 4 | 📅 2026-08-13) - Build, test, and package software.
 * <b><code>  4555⭐</code></b> <b><code>   343🍴</code></b> [Lua](https://github.com/LewisJEllis/awesome-lua#readme) ⭐ 4,555 | 🐛 47 | 📅 2024-08-11)
 * <b><code>  3685⭐</code></b> <b><code>   219🍴</code></b> [Elm](https://github.com/sporto/awesome-elm#readme) ⭐ 3,685 | 🐛 3 | 📅 2026-07-21)
-* <b><code>  3557⭐</code></b> <b><code>   329🍴</code></b> [Crystal](https://github.com/veelenga/awesome-crystal#readme) ⭐ 3,558 | 🐛 1 | 🌐 Crystal | 📅 2026-08-19)
-* <b><code>  3284⭐</code></b> <b><code>   172🍴</code></b> [Haskell](https://github.com/krispo/awesome-haskell#readme) ⭐ 3,284 | 🐛 17 | 🌐 Python | 📅 2026-08-03)
+* <b><code>  3558⭐</code></b> <b><code>   329🍴</code></b> [Crystal](https://github.com/veelenga/awesome-crystal#readme) ⭐ 3,558 | 🐛 1 | 🌐 Crystal | 📅 2026-08-19)
+* <b><code>  3284⭐</code></b> <b><code>   173🍴</code></b> [Haskell](https://github.com/krispo/awesome-haskell#readme) ⭐ 3,284 | 🐛 17 | 🌐 Python | 📅 2026-08-03)
 * <b><code>  3108⭐</code></b> <b><code>   175🍴</code></b> [OCaml](https://github.com/ocaml-community/awesome-ocaml#readme) ⭐ 3,108 | 🐛 4 | 📅 2026-06-15)
-* <b><code>  3067⭐</code></b> <b><code>   279🍴</code></b> [AutoHotkey](https://github.com/ahkscript/awesome-AutoHotkey#readme) ⭐ 3,070 | 🐛 26 | 📅 2023-01-24)
-* <b><code>  2968⭐</code></b> <b><code>   218🍴</code></b> [Common Lisp](https://github.com/CodyReichert/awesome-cl#readme) ⭐ 2,969 | 🐛 47 | 🌐 Makefile | 📅 2026-08-17) - Powerful dynamic multiparadigm language that facilitates iterative and interactive development.
+* <b><code>  3071⭐</code></b> <b><code>   279🍴</code></b> [AutoHotkey](https://github.com/ahkscript/awesome-AutoHotkey#readme) ⭐ 3,071 | 🐛 26 | 📅 2023-01-24)
+* <b><code>  2970⭐</code></b> <b><code>   219🍴</code></b> [Common Lisp](https://github.com/CodyReichert/awesome-cl#readme) ⭐ 2,970 | 🐛 47 | 🌐 Makefile | 📅 2026-08-17) - Powerful dynamic multiparadigm language that facilitates iterative and interactive development.
   * <b><code>   240⭐</code></b> <b><code>    14🍴</code></b> [Learning](https://github.com/GustavBertram/awesome-common-lisp-learning#readme) ⭐ 240 | 🐛 1 | 📅 2023-10-04)
 * <b><code>  2841⭐</code></b> <b><code>   215🍴</code></b> [Clojure](https://github.com/razum2um/awesome-clojure#readme) ⭐ 2,841 | 🐛 0 | 🌐 Clojure | 📅 2026-08-06)
-* <b><code>  2489⭐</code></b> <b><code>   220🍴</code></b> [Dart](https://github.com/yissachar/awesome-dart#readme) ⭐ 2,489 | 🐛 24 | 📅 2026-05-24)
-* <b><code>  2102⭐</code></b> <b><code>   144🍴</code></b> [V](https://github.com/vlang/awesome-v#readme) ⭐ 2,102 | 🐛 4 | 📅 2026-08-15) - Simple, fast, safe, compiled language for developing maintainable software.
-* <b><code>  2079⭐</code></b> <b><code>   407🍴</code></b> [Pascal](https://github.com/Fr0sT-Brutal/awesome-pascal#readme) ⭐ 2,079 | 🐛 18 | 🌐 Pascal | 📅 2026-02-27)
+* <b><code>  2489⭐</code></b> <b><code>   220🍴</code></b> [Dart](https://github.com/yissachar/awesome-dart#readme) ⭐ 2,489 | 🐛 25 | 📅 2026-05-24)
+* <b><code>  2104⭐</code></b> <b><code>   143🍴</code></b> [V](https://github.com/vlang/awesome-v#readme) ⭐ 2,104 | 🐛 4 | 📅 2026-08-15) - Simple, fast, safe, compiled language for developing maintainable software.
+* <b><code>  2079⭐</code></b> <b><code>   408🍴</code></b> [Pascal](https://github.com/Fr0sT-Brutal/awesome-pascal#readme) ⭐ 2,079 | 🐛 18 | 🌐 Pascal | 📅 2026-02-27)
 * <b><code>  1708⭐</code></b> <b><code>   207🍴</code></b> [Erlang](https://github.com/drobakowski/awesome-erlang#readme) ⭐ 1,708 | 🐛 23 | 📅 2022-11-17)
 * <b><code>  1513⭐</code></b> <b><code>   204🍴</code></b> [Julia](https://github.com/svaksha/Julia.jl#readme) ⭐ 1,513 | 🐛 23 | 🌐 Julia | 📅 2023-12-07) - High-level dynamic programming language designed to address the needs of high-performance numerical analysis and computational science.
 * <b><code>  1496⭐</code></b> <b><code>   270🍴</code></b> [Move](https://github.com/MystenLabs/awesome-move#readme) ⭐ 1,496 | 🐛 24 | 📅 2024-08-14) - Domain-specific programming language for writing safe smart contracts.
 * <b><code>  1431⭐</code></b> <b><code>   105🍴</code></b> [F#](https://github.com/fsprojects/awesome-fsharp#readme) ⭐ 1,431 | 🐛 6 | 🌐 F# | 📅 2026-03-21) - A .NET-based language with focus on functional programming.
 * <b><code>  1087⭐</code></b> <b><code>    61🍴</code></b> [ClojureScript](https://github.com/hantuzun/awesome-clojurescript#readme) ⭐ 1,087 | 🐛 4 | 📅 2024-03-10)
-* <b><code>   923⭐</code></b> <b><code>   168🍴</code></b> [AutoIt](https://github.com/J2TeaM/awesome-AutoIt#readme) ⭐ 923 | 🐛 0 | 📅 2022-08-21)
-* <b><code>   861⭐</code></b> <b><code>    90🍴</code></b> [Ada/SPARK](https://github.com/ohenley/awesome-ada#readme) ⭐ 861 | 🐛 2 | 📅 2026-05-31) - Modern programming language designed for large, long-lived apps where reliability and efficiency are essential.
+* <b><code>   923⭐</code></b> <b><code>   167🍴</code></b> [AutoIt](https://github.com/J2TeaM/awesome-AutoIt#readme) ⭐ 923 | 🐛 0 | 📅 2022-08-21)
+* <b><code>   862⭐</code></b> <b><code>    90🍴</code></b> [Ada/SPARK](https://github.com/ohenley/awesome-ada#readme) ⭐ 862 | 🐛 2 | 📅 2026-05-31) - Modern programming language designed for large, long-lived apps where reliability and efficiency are essential.
 * <b><code>   762⭐</code></b> <b><code>    94🍴</code></b> [D](https://github.com/dlang-community/awesome-d#readme) ⭐ 762 | 🐛 3 | 🌐 D | 📅 2026-06-28)
 * <b><code>   740⭐</code></b> <b><code>   101🍴</code></b> [Groovy](https://github.com/kdabir/awesome-groovy#readme) ⭐ 740 | 🐛 2 | 🌐 Groovy | 📅 2024-10-26)
 * <b><code>   709⭐</code></b> <b><code>   103🍴</code></b> [Perl](https://github.com/hachiojipm/awesome-perl#readme) ⭐ 709 | 🐛 5 | 🌐 Perl | 📅 2024-08-07)
@@ -262,63 +262,63 @@
 
 ## Front-End Development
 
-* <b><code> 74360⭐</code></b> <b><code>  7626🍴</code></b> [React](https://github.com/enaqx/awesome-react#readme) ⭐ 74,365 | 🐛 82 | 📅 2026-08-20) - JavaScript library for building user interfaces.
+* <b><code> 74375⭐</code></b> <b><code>  7624🍴</code></b> [React](https://github.com/enaqx/awesome-react#readme) ⭐ 74,377 | 🐛 82 | 📅 2026-08-20) - JavaScript library for building user interfaces.
   * <b><code>  1230⭐</code></b> <b><code>    88🍴</code></b> [React Hooks](https://github.com/glauberfc/awesome-react-hooks#readme) ⭐ 1,230 | 🐛 13 | 📅 2024-03-16) - Lets you use state and other React features without writing a class.
   * <b><code>   290⭐</code></b> <b><code>    28🍴</code></b> [Relay](https://github.com/expede/awesome-relay#readme) ⭐ 290 | 🐛 2 | 📅 2021-10-18) - Framework for building data-driven React apps.
-* <b><code> 73541⭐</code></b> <b><code>  9453🍴</code></b> [Vue.js](https://github.com/vuejs/awesome-vue#readme) ⭐ 73,540 | 🐛 98 | 📅 2026-07-24) - App framework.
-* <b><code> 57268⭐</code></b> <b><code> 10247🍴</code></b> [Android UI](https://github.com/wasabeef/awesome-android-ui#readme) ⭐ 57,293 | 🐛 39 | 📅 2026-06-05)
-* <b><code> 15157⭐</code></b> <b><code>  1026🍴</code></b> [Tailwind CSS](https://github.com/aniftyco/awesome-tailwindcss#readme) ⭐ 15,157 | 🐛 0 | 📅 2026-08-14) - Utility-first CSS framework for rapid UI development.
-* <b><code> 11218⭐</code></b> <b><code>  1326🍴</code></b> [iOS UI](https://github.com/cjwirth/awesome-ios-ui#readme) ⭐ 11,217 | 🐛 12 | 📅 2018-03-08)
+* <b><code> 73537⭐</code></b> <b><code>  9452🍴</code></b> [Vue.js](https://github.com/vuejs/awesome-vue#readme) ⭐ 73,536 | 🐛 98 | 📅 2026-07-24) - App framework.
+* <b><code> 57311⭐</code></b> <b><code> 10254🍴</code></b> [Android UI](https://github.com/wasabeef/awesome-android-ui#readme) ⭐ 57,313 | 🐛 39 | 📅 2026-06-05)
+* <b><code> 15161⭐</code></b> <b><code>  1028🍴</code></b> [Tailwind CSS](https://github.com/aniftyco/awesome-tailwindcss#readme) ⭐ 15,161 | 🐛 0 | 📅 2026-08-14) - Utility-first CSS framework for rapid UI development.
+* <b><code> 11216⭐</code></b> <b><code>  1326🍴</code></b> [iOS UI](https://github.com/cjwirth/awesome-ios-ui#readme) ⭐ 11,216 | 🐛 12 | 📅 2018-03-08)
 * <b><code> 11109⭐</code></b> <b><code>  1149🍴</code></b> [Next.js](https://github.com/unicodeveloper/awesome-nextjs#readme) ⭐ 11,109 | 🐛 254 | 📅 2026-07-29) - Framework for server-rendered React apps.
-* <b><code> 10062⭐</code></b> <b><code>  1418🍴</code></b> [Angular](https://github.com/PatrickJS/awesome-angular#readme) ⭐ 10,062 | 🐛 0 | 🌐 HTML | 📅 2026-08-22) - App framework.
-* <b><code>  9371⭐</code></b> <b><code>  1012🍴</code></b> [Blazor](https://github.com/AdrienTorris/awesome-blazor#readme) ⭐ 9,372 | 🐛 96 | 📅 2026-07-25) - .NET web framework using C#/Razor and HTML that runs in the browser with WebAssembly.
-* <b><code>  9042⭐</code></b> <b><code>   585🍴</code></b> [Web Performance Optimization](https://github.com/davidsonfellipe/awesome-wpo#readme) ⭐ 9,046 | 🐛 16 | 📅 2026-07-28)
-* <b><code>  7118⭐</code></b> <b><code>   442🍴</code></b> [Chrome DevTools](https://github.com/ChromeDevTools/awesome-chrome-devtools#readme) ⭐ 7,119 | 🐛 23 | 📅 2026-03-27)
-* <b><code>  5615⭐</code></b> <b><code>   449🍴</code></b> [CSS](https://github.com/awesome-css-group/awesome-css#readme) ⭐ 5,615 | 🐛 25 | 📅 2024-10-30) - Style sheet language that specifies how HTML elements are displayed on screen.
-  * <b><code> 30253⭐</code></b> <b><code>  2210🍴</code></b> [Protips](https://github.com/AllThingsSmitty/css-protips#readme) ⭐ 30,253 | 🐛 2 | 📅 2025-03-20)
-  * <b><code>  9480⭐</code></b> <b><code>   499🍴</code></b> [Frameworks](https://github.com/troxler/awesome-css-frameworks#readme) ⭐ 9,485 | 🐛 5 | 🌐 CSS | 📅 2026-06-08)
-  * <b><code>  4882⭐</code></b> <b><code>   241🍴</code></b> [Must-Watch Talks](https://github.com/AllThingsSmitty/must-watch-css#readme) ⭐ 4,882 | 🐛 2 | 📅 2025-12-05)
+* <b><code> 10064⭐</code></b> <b><code>  1420🍴</code></b> [Angular](https://github.com/PatrickJS/awesome-angular#readme) ⭐ 10,064 | 🐛 1 | 🌐 HTML | 📅 2026-08-23) - App framework.
+* <b><code>  9372⭐</code></b> <b><code>  1012🍴</code></b> [Blazor](https://github.com/AdrienTorris/awesome-blazor#readme) ⭐ 9,372 | 🐛 96 | 📅 2026-07-25) - .NET web framework using C#/Razor and HTML that runs in the browser with WebAssembly.
+* <b><code>  9048⭐</code></b> <b><code>   585🍴</code></b> [Web Performance Optimization](https://github.com/davidsonfellipe/awesome-wpo#readme) ⭐ 9,048 | 🐛 17 | 📅 2026-07-28)
+* <b><code>  7121⭐</code></b> <b><code>   442🍴</code></b> [Chrome DevTools](https://github.com/ChromeDevTools/awesome-chrome-devtools#readme) ⭐ 7,121 | 🐛 23 | 📅 2026-03-27)
+* <b><code>  5616⭐</code></b> <b><code>   449🍴</code></b> [CSS](https://github.com/awesome-css-group/awesome-css#readme) ⭐ 5,616 | 🐛 25 | 📅 2024-10-30) - Style sheet language that specifies how HTML elements are displayed on screen.
+  * <b><code> 30254⭐</code></b> <b><code>  2210🍴</code></b> [Protips](https://github.com/AllThingsSmitty/css-protips#readme) ⭐ 30,254 | 🐛 2 | 📅 2025-03-20)
+  * <b><code>  9492⭐</code></b> <b><code>   499🍴</code></b> [Frameworks](https://github.com/troxler/awesome-css-frameworks#readme) ⭐ 9,492 | 🐛 5 | 🌐 CSS | 📅 2026-06-08)
+  * <b><code>  4883⭐</code></b> <b><code>   241🍴</code></b> [Must-Watch Talks](https://github.com/AllThingsSmitty/must-watch-css#readme) ⭐ 4,883 | 🐛 2 | 📅 2025-12-05)
   * <b><code>  1546⭐</code></b> <b><code>    79🍴</code></b> [Scalability](https://github.com/davidtheclark/scalable-css-reading-list#readme) ⭐ 1,546 | 🐛 3 | 📅 2024-06-21)
   * <b><code>  1164⭐</code></b> <b><code>    48🍴</code></b> [Critical-Path Tools](https://github.com/addyosmani/critical-path-css-tools#readme) ⭐ 1,164 | 🐛 5 | 📅 2022-07-18)
-* <b><code>  5315⭐</code></b> <b><code>   311🍴</code></b> [D3](https://github.com/wbkd/awesome-d3#readme) ⭐ 5,316 | 🐛 5 | 📅 2023-01-13) - Library for producing dynamic, interactive data visualizations.
-* <b><code>  4648⭐</code></b> <b><code>   398🍴</code></b> [SVG](https://github.com/willianjusten/awesome-svg#readme) ⭐ 4,648 | 🐛 38 | 🌐 Shell | 📅 2026-07-16) - XML-based vector image format.
+* <b><code>  5316⭐</code></b> <b><code>   311🍴</code></b> [D3](https://github.com/wbkd/awesome-d3#readme) ⭐ 5,316 | 🐛 5 | 📅 2023-01-13) - Library for producing dynamic, interactive data visualizations.
+* <b><code>  4647⭐</code></b> <b><code>   399🍴</code></b> [SVG](https://github.com/willianjusten/awesome-svg#readme) ⭐ 4,647 | 🐛 38 | 🌐 Shell | 📅 2026-07-16) - XML-based vector image format.
 * <b><code>  3972⭐</code></b> <b><code>   252🍴</code></b> [ES6 Tools](https://github.com/addyosmani/es6-tools#readme) ⭐ 3,972 | 🐛 14 | 📅 2019-10-31)
-* <b><code>  3563⭐</code></b> <b><code>   199🍴</code></b> [Web Components](https://github.com/web-padawan/awesome-web-components#readme) ⭐ 3,563 | 🐛 25 | 📅 2026-08-17)
+* <b><code>  3563⭐</code></b> <b><code>   200🍴</code></b> [Web Components](https://github.com/web-padawan/awesome-web-components#readme) ⭐ 3,563 | 🐛 26 | 📅 2026-08-17)
 * <b><code>  3318⭐</code></b> <b><code>   194🍴</code></b> [Offline-First](https://github.com/pazguille/offline-first#readme) ⭐ 3,318 | 🐛 7 | 📅 2022-11-23)
-* <b><code>  3299⭐</code></b> <b><code>   219🍴</code></b> [Ant Design](https://github.com/websemantics/awesome-ant-design#readme) ⭐ 3,298 | 🐛 31 | 📅 2025-07-29) - Enterprise-class UI design language.
-* <b><code>  2801⭐</code></b> <b><code>   260🍴</code></b> [HTML5](https://github.com/diegocard/awesome-html5#readme) ⭐ 2,802 | 🐛 18 | 📅 2023-09-26) - Markup language used for websites & web apps.
+* <b><code>  3298⭐</code></b> <b><code>   219🍴</code></b> [Ant Design](https://github.com/websemantics/awesome-ant-design#readme) ⭐ 3,298 | 🐛 31 | 📅 2025-07-29) - Enterprise-class UI design language.
+* <b><code>  2802⭐</code></b> <b><code>   260🍴</code></b> [HTML5](https://github.com/diegocard/awesome-html5#readme) ⭐ 2,802 | 🐛 18 | 📅 2023-09-26) - Markup language used for websites & web apps.
 * <b><code>  2731⭐</code></b> <b><code>   262🍴</code></b> [Emails](https://github.com/jonathandion/awesome-emails#readme) ⭐ 2,731 | 🐛 46 | 📅 2024-10-03)
 * <b><code>  2521⭐</code></b> <b><code>   136🍴</code></b> [Draft.js](https://github.com/nikgraf/awesome-draft-js#readme) ⭐ 2,521 | 🐛 0 | 📅 2022-05-04) - Rich text editor framework for React.
-* <b><code>  2153⭐</code></b> <b><code>   195🍴</code></b> [Svelte](https://github.com/TheComputerM/awesome-svelte#readme) ⭐ 2,153 | 🐛 49 | 📅 2026-05-30) - App framework.
+* <b><code>  2155⭐</code></b> <b><code>   196🍴</code></b> [Svelte](https://github.com/TheComputerM/awesome-svelte#readme) ⭐ 2,155 | 🐛 49 | 📅 2026-05-30) - App framework.
 * <b><code>  2106⭐</code></b> <b><code>   114🍴</code></b> [Charting](https://github.com/zingchart/awesome-charting#readme) ⭐ 2,106 | 🐛 11 | 📅 2024-02-18)
 * <b><code>  1982⭐</code></b> <b><code>   184🍴</code></b> [Static Website Services](https://github.com/agarrharr/awesome-static-website-services#readme) ⭐ 1,982 | 🐛 36 | 📅 2026-04-20)
-* <b><code>  1980⭐</code></b> <b><code>   214🍴</code></b> [Web Accessibility](https://github.com/brunopulis/awesome-a11y#readme) ⭐ 1,980 | 🐛 60 | 📅 2026-08-03)
-* <b><code>  1961⭐</code></b> <b><code>   108🍴</code></b> [WebGPU](https://github.com/mikbry/awesome-webgpu#readme) ⭐ 1,961 | 🐛 20 | 📅 2026-01-21) - JavaScript API for rendering and compute on GPUs.
+* <b><code>  1980⭐</code></b> <b><code>   215🍴</code></b> [Web Accessibility](https://github.com/brunopulis/awesome-a11y#readme) ⭐ 1,980 | 🐛 60 | 📅 2026-08-03)
+* <b><code>  1963⭐</code></b> <b><code>   109🍴</code></b> [WebGPU](https://github.com/mikbry/awesome-webgpu#readme) ⭐ 1,963 | 🐛 20 | 📅 2026-01-21) - JavaScript API for rendering and compute on GPUs.
 * <b><code>  1902⭐</code></b> <b><code>   129🍴</code></b> [Sass](https://github.com/Famolus/awesome-sass#readme) ⭐ 1,902 | 🐛 9 | 📅 2023-10-16) - CSS preprocessor.
 * <b><code>  1858⭐</code></b> <b><code>   173🍴</code></b> [Canvas](https://github.com/raphamorim/awesome-canvas#readme) ⭐ 1,858 | 🐛 12 | 🌐 Markdown | 📅 2026-06-14)
-* <b><code>  1730⭐</code></b> <b><code>   105🍴</code></b> [lit](https://github.com/web-padawan/awesome-lit#readme) ⭐ 1,731 | 🐛 7 | 📅 2026-08-18) - Library for building web components with a declarative template system.
+* <b><code>  1731⭐</code></b> <b><code>   105🍴</code></b> [lit](https://github.com/web-padawan/awesome-lit#readme) ⭐ 1,731 | 🐛 7 | 📅 2026-08-18) - Library for building web components with a declarative template system.
 * <b><code>  1667⭐</code></b> <b><code>    66🍴</code></b> [Service Workers](https://github.com/TalAter/awesome-service-workers#readme) ⭐ 1,667 | 🐛 8 | 📅 2019-06-07)
 * <b><code>  1612⭐</code></b> <b><code>    70🍴</code></b> [Yew](https://github.com/jetli/awesome-yew#readme) ⭐ 1,612 | 🐛 3 | 📅 2026-02-28) - Rust framework inspired by Elm and React for creating multi-threaded frontend web apps with WebAssembly.
 * <b><code>  1578⭐</code></b> <b><code>    93🍴</code></b> [Progressive Web Apps](https://github.com/TalAter/awesome-progressive-web-apps#readme) ⭐ 1,578 | 🐛 14 | 📅 2021-01-13)
-* <b><code>  1567⭐</code></b> <b><code>    83🍴</code></b> [Web Animation](https://github.com/sergey-pimenov/awesome-web-animation#readme) ⭐ 1,568 | 🐛 7 | 🌐 JavaScript | 📅 2023-07-12) - Animations in the browser with JavaScript, CSS, SVG, etc.
+* <b><code>  1570⭐</code></b> <b><code>    84🍴</code></b> [Web Animation](https://github.com/sergey-pimenov/awesome-web-animation#readme) ⭐ 1,570 | 🐛 7 | 🌐 JavaScript | 📅 2023-07-12) - Animations in the browser with JavaScript, CSS, SVG, etc.
 * <b><code>  1527⭐</code></b> <b><code>   105🍴</code></b> [WebGL](https://github.com/sjfricke/awesome-webgl#readme) ⭐ 1,527 | 🐛 16 | 📅 2026-04-02) - JavaScript API for rendering 3D graphics.
 * <b><code>  1412⭐</code></b> <b><code>   150🍴</code></b> [Meteor](https://github.com/Urigo/awesome-meteor#readme) ⭐ 1,412 | 🐛 1 | 📅 2022-03-31)
-* <b><code>  1396⭐</code></b> <b><code>   127🍴</code></b> [Web Audio](https://github.com/notthetup/awesome-webaudio#readme) ⭐ 1,396 | 🐛 10 | 📅 2026-06-05)
-* <b><code>  1371⭐</code></b> <b><code>   181🍴</code></b> [JAMstack](https://github.com/automata/awesome-jamstack#readme) ⭐ 1,371 | 🐛 21 | 📅 2026-08-17) - Modern web development architecture based on client-side JavaScript, reusable APIs, and prebuilt markup.
+* <b><code>  1395⭐</code></b> <b><code>   128🍴</code></b> [Web Audio](https://github.com/notthetup/awesome-webaudio#readme) ⭐ 1,396 | 🐛 11 | 📅 2026-06-05)
+* <b><code>  1371⭐</code></b> <b><code>   180🍴</code></b> [JAMstack](https://github.com/automata/awesome-jamstack#readme) ⭐ 1,371 | 🐛 21 | 📅 2026-08-17) - Modern web development architecture based on client-side JavaScript, reusable APIs, and prebuilt markup.
 * <b><code>  1325⭐</code></b> <b><code>    78🍴</code></b> [Inspiration](https://github.com/NoahBuscher/Inspire#readme) ⭐ 1,325 | 🐛 4 | 📅 2024-03-15)
 * <b><code>  1286⭐</code></b> <b><code>    65🍴</code></b> [Mobile Web Development](https://github.com/myshov/awesome-mobile-web-development#readme) ⭐ 1,286 | 🐛 3 | 📅 2023-12-15) - Creating a great mobile web experience.
 * <b><code>  1263⭐</code></b> <b><code>   119🍴</code></b> [Flexbox](https://github.com/afonsopacifer/awesome-flexbox#readme) ⭐ 1,263 | 🐛 4 | 📅 2023-09-07)
-* <b><code>  1258⭐</code></b> <b><code>   118🍴</code></b> [Web Tools](https://github.com/lvwzhen/tools#readme) ⭐ 1,258 | 🐛 15 | 📅 2026-07-28)
+* <b><code>  1259⭐</code></b> <b><code>   118🍴</code></b> [Web Tools](https://github.com/lvwzhen/tools#readme) ⭐ 1,259 | 🐛 15 | 📅 2026-07-28)
 * <b><code>  1002⭐</code></b> <b><code>    86🍴</code></b> [Preact](https://github.com/preactjs/awesome-preact#readme) ⭐ 1,002 | 🐛 0 | 📅 2026-08-05) - App framework.
 * <b><code>   981⭐</code></b> <b><code>   139🍴</code></b> [jQuery](https://github.com/petk/awesome-jquery#readme) ⭐ 981 | 🐛 0 | 📅 2026-01-01) - Easy to use JavaScript library for DOM manipulation.
   * <b><code>  4311⭐</code></b> <b><code>   421🍴</code></b> [Tips](https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know#readme) ⭐ 4,311 | 🐛 0 | 📅 2025-03-20)
-* <b><code>   916⭐</code></b> <b><code>    81🍴</code></b> [Motion UI Design](https://github.com/fliptheweb/motion-ui-design#readme) ⭐ 916 | 🐛 3 | 📅 2026-05-15)
-* <b><code>   882⭐</code></b> <b><code>    62🍴</code></b> [Design systems](https://github.com/klaufel/awesome-design-systems#readme) ⭐ 882 | 🐛 6 | 📅 2026-08-05) - Collection of reusable components, guided by rules that ensure consistency and speed.
+* <b><code>   917⭐</code></b> <b><code>    81🍴</code></b> [Motion UI Design](https://github.com/fliptheweb/motion-ui-design#readme) ⭐ 917 | 🐛 3 | 📅 2026-05-15)
+* <b><code>   883⭐</code></b> <b><code>    63🍴</code></b> [Design systems](https://github.com/klaufel/awesome-design-systems#readme) ⭐ 883 | 🐛 6 | 📅 2026-08-05) - Collection of reusable components, guided by rules that ensure consistency and speed.
 * <b><code>   864⭐</code></b> <b><code>   172🍴</code></b> [Ionic Framework](https://github.com/candelibas/awesome-ionic#readme) ⭐ 864 | 🐛 0 | 📅 2026-08-18)
 * <b><code>   847⭐</code></b> <b><code>    63🍴</code></b> [Frontend GIS](https://github.com/joewdavies/awesome-frontend-gis#readme) ⭐ 847 | 🐛 8 | 📅 2026-08-18) - Geographic Information Systems (GIS) for web browsers.
 * <b><code>   822⭐</code></b> <b><code>    69🍴</code></b> [Cycle.js](https://github.com/cyclejs-community/awesome-cyclejs#readme) ⭐ 822 | 🐛 1 | 📅 2020-12-07) - Functional and reactive JavaScript framework.
 * <b><code>   776⭐</code></b> <b><code>    13🍴</code></b> [Tiny JS](https://github.com/thoughtspile/awesome-tiny-js#readme) ⭐ 776 | 🐛 5 | 🌐 JavaScript | 📅 2024-09-24) - Frontend libraries that fit into 2 kB with dependencies.
-* <b><code>   708⭐</code></b> <b><code>    30🍴</code></b> [Web Typography](https://github.com/deanhume/typography#readme) ⭐ 709 | 🐛 0 | 📅 2026-08-09)
+* <b><code>   709⭐</code></b> <b><code>    30🍴</code></b> [Web Typography](https://github.com/deanhume/typography#readme) ⭐ 709 | 🐛 0 | 📅 2026-08-09)
 * <b><code>   692⭐</code></b> <b><code>    27🍴</code></b> [PageSpeed Metrics](https://github.com/csabapalfi/awesome-pagespeed-metrics#readme) ⭐ 692 | 🐛 12 | 📅 2024-02-17) - Metrics to help understand page speed and user experience.
 * <b><code>   656⭐</code></b> <b><code>    55🍴</code></b> [Material Design](https://github.com/sachin1092/awesome-material#readme) ⭐ 656 | 🐛 1 | 📅 2026-08-21)
 * <b><code>   500⭐</code></b> <b><code>    26🍴</code></b> [BEM](https://github.com/sturobson/BEM-resources#readme) ⭐ 500 | 🐛 1 | 📅 2023-10-14)
@@ -345,32 +345,32 @@
 * <b><code>    98⭐</code></b> <b><code>    15🍴</code></b> [Dojo Toolkit](https://github.com/petk/awesome-dojo#readme) ⭐ 98 | 🐛 0 | 📅 2020-09-25) - JavaScript toolkit.
 * <b><code>    68⭐</code></b> <b><code>     7🍴</code></b> [Less](https://github.com/LucasBassetti/awesome-less#readme) ⭐ 68 | 🐛 1 | 📅 2022-08-16) - CSS preprocessor.
 * <b><code>    62⭐</code></b> <b><code>     0🍴</code></b> [MDBootstrap](https://github.com/mdbootstrap/awesome-mdbootstrap#readme) ⭐ 62 | 🐛 0 | 📅 2024-04-11) - Templates, layouts, components, and widgets to rapidly build websites.
-* <b><code>    39⭐</code></b> <b><code>     5🍴</code></b> [WebAssembly](https://github.com/idematos/awesome-webassembly#readme) ⭐ 39 | 🐛 1 | 📅 2026-08-22) - A portable binary format for running code efficiently across platforms.
+* <b><code>    39⭐</code></b> <b><code>     7🍴</code></b> [WebAssembly](https://github.com/idematos/awesome-webassembly#readme) ⭐ 39 | 🐛 1 | 📅 2026-08-23) - A portable binary format for running code efficiently across platforms.
 * <b><code>    37⭐</code></b> <b><code>     0🍴</code></b> [Master CSS](https://github.com/master-co/awesome-master-css#readme) ⭐ 37 | 🐛 0 | 📅 2022-12-02) - A virtual CSS language with enhanced syntax.
 
 ## Back-End Development
 
-* <b><code> 36681⭐</code></b> <b><code>  3352🍴</code></b> [Docker](https://github.com/veggiemonk/awesome-docker#readme) ⭐ 36,692 | 🐛 17 | 📅 2026-08-19)
+* <b><code> 36698⭐</code></b> <b><code>  3352🍴</code></b> [Docker](https://github.com/veggiemonk/awesome-docker#readme) ⭐ 36,698 | 🐛 16 | 📅 2026-08-19)
 * <b><code> 16056⭐</code></b> <b><code>  2481🍴</code></b> [Kubernetes](https://github.com/ramitsurana/awesome-kubernetes#readme) ⭐ 16,056 | 🐛 81 | 🌐 Shell | 📅 2026-06-23) - Open-source platform that automates Linux container operations.
-* <b><code> 13179⭐</code></b> <b><code>  1288🍴</code></b> [Useful `.htaccess` Snippets](https://github.com/phanan/htaccess#readme) ⭐ 13,179 | 🐛 11 | 📅 2026-03-06)
-* <b><code> 13097⭐</code></b> <b><code>  2345🍴</code></b> [Laravel](https://github.com/chiraggude/awesome-laravel#readme) ⭐ 13,093 | 🐛 88 | 📅 2024-07-03) - PHP framework.
+* <b><code> 13181⭐</code></b> <b><code>  1287🍴</code></b> [Useful `.htaccess` Snippets](https://github.com/phanan/htaccess#readme) ⭐ 13,181 | 🐛 11 | 📅 2026-03-06)
+* <b><code> 13094⭐</code></b> <b><code>  2344🍴</code></b> [Laravel](https://github.com/chiraggude/awesome-laravel#readme) ⭐ 13,094 | 🐛 87 | 📅 2024-07-03) - PHP framework.
   * <b><code>   399⭐</code></b> <b><code>    60🍴</code></b> [Education](https://github.com/fukuball/Awesome-Laravel-Education#readme) ⭐ 399 | 🐛 4 | 🌐 PHP | 📅 2022-09-03)
-* <b><code> 11615⭐</code></b> <b><code>   888🍴</code></b> [FastAPI](https://github.com/mjhea0/awesome-fastapi#readme) ⭐ 11,617 | 🐛 19 | 📅 2026-06-24) - Python web app framework.
-* <b><code>  6576⭐</code></b> <b><code>  1048🍴</code></b> [Terraform](https://github.com/shuaibiyy/awesome-terraform#readme) ⭐ 6,576 | 🐛 13 | 📅 2026-07-27) - Tool for building, changing, and versioning infrastructure.
+* <b><code> 11618⭐</code></b> <b><code>   888🍴</code></b> [FastAPI](https://github.com/mjhea0/awesome-fastapi#readme) ⭐ 11,618 | 🐛 19 | 📅 2026-06-24) - Python web app framework.
+* <b><code>  6580⭐</code></b> <b><code>  1049🍴</code></b> [Terraform](https://github.com/shuaibiyy/awesome-terraform#readme) ⭐ 6,580 | 🐛 14 | 📅 2026-07-27) - Tool for building, changing, and versioning infrastructure.
 * <b><code>  3924⭐</code></b> <b><code>   440🍴</code></b> [Rails](https://github.com/gramantin/awesome-rails#readme) ⭐ 3,924 | 🐛 0 | 📅 2026-08-19) - Web app framework for Ruby.
   * <b><code>  2806⭐</code></b> <b><code>   281🍴</code></b> [Gems](https://github.com/hothero/awesome-rails-gem#readme) ⭐ 2,806 | 🐛 27 | 🌐 Ruby | 📅 2024-03-12) - Packages.
-* <b><code>  3804⭐</code></b> <b><code>   328🍴</code></b> [nginx](https://github.com/fcambus/nginx-resources#readme) ⭐ 3,804 | 🐛 0 | 📅 2026-08-04) - Web server.
+* <b><code>  3805⭐</code></b> <b><code>   328🍴</code></b> [nginx](https://github.com/fcambus/nginx-resources#readme) ⭐ 3,805 | 🐛 0 | 📅 2026-08-04) - Web server.
 * <b><code>  2268⭐</code></b> <b><code>   261🍴</code></b> [Dash](https://github.com/ucg8j/awesome-dash#readme) ⭐ 2,268 | 🐛 1 | 🌐 Python | 📅 2024-12-30) - Python web app framework.
 * <b><code>  2258⭐</code></b> <b><code>   187🍴</code></b> [IAM](https://github.com/kdeldycke/awesome-iam#readme) ⭐ 2,258 | 🐛 4 | 📅 2026-08-14) - User accounts, authentication and authorization.
 * <b><code>  2223⭐</code></b> <b><code>   281🍴</code></b> [Vert.x](https://github.com/vert-x3/vertx-awesome#readme) ⭐ 2,223 | 🐛 0 | 📅 2026-06-27) - Toolkit for building reactive apps on the JVM.
 * <b><code>  2151⭐</code></b> <b><code>   237🍴</code></b> [Serverless Framework](https://github.com/pmuens/awesome-serverless#readme) ⭐ 2,151 | 🐛 11 | 📅 2022-11-23) - Serverless computing and serverless architectures.
 * <b><code>  2125⭐</code></b> <b><code>   190🍴</code></b> [CDK](https://github.com/kolomied/awesome-cdk#readme) ⭐ 2,125 | 🐛 10 | 📅 2024-03-12) - Open-source software development framework for defining cloud infrastructure in code.
-* <b><code>  1766⭐</code></b> <b><code>   171🍴</code></b> [Flask](https://github.com/mjhea0/awesome-flask#readme) ⭐ 1,766 | 🐛 0 | 📅 2026-05-13) - Python framework.
-* <b><code>  1573⭐</code></b> <b><code>   223🍴</code></b> [Symfony](https://github.com/sitepoint-editors/awesome-symfony#readme) ⭐ 1,573 | 🐛 10 | 📅 2023-02-22) - PHP framework.
+* <b><code>  1767⭐</code></b> <b><code>   171🍴</code></b> [Flask](https://github.com/mjhea0/awesome-flask#readme) ⭐ 1,767 | 🐛 0 | 📅 2026-05-13) - Python framework.
+* <b><code>  1573⭐</code></b> <b><code>   222🍴</code></b> [Symfony](https://github.com/sitepoint-editors/awesome-symfony#readme) ⭐ 1,573 | 🐛 9 | 📅 2023-02-22) - PHP framework.
   * <b><code>   318⭐</code></b> <b><code>    32🍴</code></b> [Education](https://github.com/pehapkari/awesome-symfony-education#readme) ⭐ 318 | 🐛 1 | 📅 2020-10-08)
 * <b><code>  1286⭐</code></b> <b><code>    66🍴</code></b> [Vapor](https://github.com/vapor-community/awesome-vapor#readme) ⭐ 1,286 | 🐛 8 | 🌐 Ruby | 📅 2023-10-14) - Server-side development in Swift.
 * <b><code>   937⭐</code></b> <b><code>   225🍴</code></b> [CakePHP](https://github.com/friendsofcake/awesome-cakephp#readme) ⭐ 937 | 🐛 1 | 📅 2026-08-21) - PHP framework.
-* <b><code>   834⭐</code></b> <b><code>    57🍴</code></b> [Fiber](https://github.com/gofiber/awesome-fiber#readme) ⭐ 834 | 🐛 0 | 📅 2026-08-15) - Web framework built on top of Fasthttp, the fastest HTTP engine for Go.
+* <b><code>   835⭐</code></b> <b><code>    58🍴</code></b> [Fiber](https://github.com/gofiber/awesome-fiber#readme) ⭐ 835 | 🐛 0 | 📅 2026-08-15) - Web framework built on top of Fasthttp, the fastest HTTP engine for Go.
 * <b><code>   631⭐</code></b> <b><code>    57🍴</code></b> [Vagrant](https://github.com/iJackUA/awesome-vagrant#readme) ⭐ 631 | 🐛 2 | 📅 2020-10-08) - Automation virtual machine environment.
 * <b><code>   612⭐</code></b> <b><code>   106🍴</code></b> [Phalcon](https://github.com/phalcon/awesome-phalcon#readme) ⭐ 612 | 🐛 0 | 🌐 Ruby | 📅 2024-02-16) - PHP framework.
 * <b><code>   576⭐</code></b> <b><code>    55🍴</code></b> [Pyramid](https://github.com/uralbash/awesome-pyramid#readme) ⭐ 576 | 🐛 0 | 📅 2021-07-08) - Python framework.
@@ -385,117 +385,117 @@
 
 ## Computer Science
 
-* <b><code>208303⭐</code></b> <b><code> 25777🍴</code></b> [Open Source Society University](https://github.com/ossu/computer-science#readme) ⭐ 208,332 | 🐛 25 | 🌐 HTML | 📅 2026-07-14)
-* <b><code> 74099⭐</code></b> <b><code> 15616🍴</code></b> [Machine Learning](https://github.com/josephmisiti/awesome-machine-learning#readme) ⭐ 74,120 | 🐛 26 | 🌐 Python | 📅 2026-08-21)
-  * <b><code> 18128⭐</code></b> <b><code>  3969🍴</code></b> [Tutorials](https://github.com/ujjwalkarn/Machine-Learning-Tutorials#readme) ⭐ 18,136 | 🐛 47 | 📅 2024-06-12)
-  * <b><code>  7042⭐</code></b> <b><code>   508🍴</code></b> [Core ML Models](https://github.com/likedan/Awesome-CoreML-Models#readme) ⭐ 7,042 | 🐛 15 | 🌐 Python | 📅 2025-06-17) - Models for Apple's machine learning framework.
-  * <b><code>  6424⭐</code></b> <b><code>   777🍴</code></b> [AI in Finance](https://github.com/georgezouq/awesome-ai-in-finance#readme) ⭐ 6,428 | 🐛 40 | 📅 2026-08-04) - Solving problems in finance with machine learning.
+* <b><code>208368⭐</code></b> <b><code> 25783🍴</code></b> [Open Source Society University](https://github.com/ossu/computer-science#readme) ⭐ 208,369 | 🐛 25 | 🌐 HTML | 📅 2026-07-14)
+* <b><code> 74132⭐</code></b> <b><code> 15621🍴</code></b> [Machine Learning](https://github.com/josephmisiti/awesome-machine-learning#readme) ⭐ 74,131 | 🐛 26 | 🌐 Python | 📅 2026-08-21)
+  * <b><code> 18140⭐</code></b> <b><code>  3969🍴</code></b> [Tutorials](https://github.com/ujjwalkarn/Machine-Learning-Tutorials#readme) ⭐ 18,141 | 🐛 47 | 📅 2024-06-12)
+  * <b><code>  7043⭐</code></b> <b><code>   508🍴</code></b> [Core ML Models](https://github.com/likedan/Awesome-CoreML-Models#readme) ⭐ 7,043 | 🐛 15 | 🌐 Python | 📅 2025-06-17) - Models for Apple's machine learning framework.
+  * <b><code>  6430⭐</code></b> <b><code>   777🍴</code></b> [AI in Finance](https://github.com/georgezouq/awesome-ai-in-finance#readme) ⭐ 6,430 | 🐛 40 | 📅 2026-08-04) - Solving problems in finance with machine learning.
   * <b><code>  2221⭐</code></b> <b><code>   183🍴</code></b> [ML with Ruby](https://github.com/arbox/machine-learning-with-ruby#readme) ⭐ 2,221 | 🐛 6 | 🌐 Ruby | 📅 2024-12-26) - Learning, implementing, and applying Machine Learning using Ruby.
-  * <b><code>  2153⭐</code></b> <b><code>   169🍴</code></b> [JAX](https://github.com/n2cholas/awesome-jax#readme) ⭐ 2,154 | 🐛 27 | 📅 2026-01-20) - Automatic differentiation and XLA compilation brought together for high-performance machine learning research.
-  * <b><code>  1368⭐</code></b> <b><code>   125🍴</code></b> [Software Engineering for Machine Learning](https://github.com/SE-ML/awesome-seml#readme) ⭐ 1,368 | 🐛 10 | 📅 2024-03-26) - From experiment to production-level machine learning.
+  * <b><code>  2154⭐</code></b> <b><code>   169🍴</code></b> [JAX](https://github.com/n2cholas/awesome-jax#readme) ⭐ 2,154 | 🐛 27 | 📅 2026-01-20) - Automatic differentiation and XLA compilation brought together for high-performance machine learning research.
+  * <b><code>  1368⭐</code></b> <b><code>   124🍴</code></b> [Software Engineering for Machine Learning](https://github.com/SE-ML/awesome-seml#readme) ⭐ 1,368 | 🐛 10 | 📅 2024-03-26) - From experiment to production-level machine learning.
   * <b><code>   393⭐</code></b> <b><code>    72🍴</code></b> [H2O](https://github.com/h2oai/awesome-h2o#readme) ⭐ 393 | 🐛 1 | 📅 2023-05-18) - Open source distributed machine learning platform written in Java with APIs in R, Python, and Scala.
   * <b><code>   195⭐</code></b> <b><code>    15🍴</code></b> [XAI](https://github.com/altamiracorp/awesome-xai#readme) ⭐ 195 | 🐛 1 | 📅 2021-05-04) - Providing insight, explanations, and interpretability to machine learning methods.
-* <b><code> 70576⭐</code></b> <b><code>  8398🍴</code></b> [University Courses](https://github.com/prakhar1989/awesome-courses#readme) ⭐ 70,599 | 🐛 65 | 📅 2023-05-04)
-* <b><code> 29850⭐</code></b> <b><code>  6610🍴</code></b> [Data Science](https://github.com/academic/awesome-datascience#readme) ⭐ 29,851 | 🐛 8 | 📅 2026-08-22)
+* <b><code> 70624⭐</code></b> <b><code>  8397🍴</code></b> [University Courses](https://github.com/prakhar1989/awesome-courses#readme) ⭐ 70,625 | 🐛 65 | 📅 2023-05-04)
+* <b><code> 29857⭐</code></b> <b><code>  6610🍴</code></b> [Data Science](https://github.com/academic/awesome-datascience#readme) ⭐ 29,857 | 🐛 8 | 📅 2026-08-22)
   * <b><code>   789⭐</code></b> <b><code>    87🍴</code></b> [Tutorials](https://github.com/siboehm/awesome-learn-datascience#readme) ⭐ 789 | 🐛 9 | 📅 2024-06-07)
-* <b><code> 28789⭐</code></b> <b><code>  6358🍴</code></b> [Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning#readme) ⭐ 28,797 | 🐛 84 | 📅 2025-05-26) - Neural networks.
-  * <b><code> 26176⭐</code></b> <b><code>  4417🍴</code></b> [Papers](https://github.com/terryum/awesome-deep-learning-papers#readme) ⭐ 26,179 | 🐛 37 | 🌐 TeX | 📅 2024-01-18) - The most cited deep learning papers.
-  * <b><code> 17553⭐</code></b> <b><code>  2968🍴</code></b> [TensorFlow](https://github.com/jtoy/awesome-tensorflow#readme) ⭐ 17,554 | 🐛 34 | 📅 2026-02-08) - Library for machine intelligence.
+* <b><code> 28800⭐</code></b> <b><code>  6357🍴</code></b> [Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning#readme) ⭐ 28,801 | 🐛 84 | 📅 2025-05-26) - Neural networks.
+  * <b><code> 26179⭐</code></b> <b><code>  4417🍴</code></b> [Papers](https://github.com/terryum/awesome-deep-learning-papers#readme) ⭐ 26,179 | 🐛 37 | 🌐 TeX | 📅 2024-01-18) - The most cited deep learning papers.
+  * <b><code> 17554⭐</code></b> <b><code>  2968🍴</code></b> [TensorFlow](https://github.com/jtoy/awesome-tensorflow#readme) ⭐ 17,553 | 🐛 34 | 📅 2026-02-08) - Library for machine intelligence.
   * <b><code>  1814⭐</code></b> <b><code>   294🍴</code></b> [Education](https://github.com/guillaume-chevalier/awesome-deep-learning-resources#readme) ⭐ 1,814 | 🐛 15 | 📅 2024-01-18)
   * <b><code>  1389⭐</code></b> <b><code>   190🍴</code></b> [TensorFlow Lite](https://github.com/margaretmz/awesome-tensorflow-lite#readme) ⭐ 1,389 | 🐛 1 | 📅 2022-03-01) - Framework that optimizes TensorFlow models for on-device machine learning.
   * <b><code>   188⭐</code></b> <b><code>    16🍴</code></b> [TensorFlow.js](https://github.com/aaronhma/awesome-tensorflow-js#readme) ⭐ 188 | 🐛 0 | 📅 2025-07-12) - WebGL-accelerated machine learning JavaScript library for training and deploying models.
-* <b><code> 23509⭐</code></b> <b><code>  4435🍴</code></b> [Computer Vision](https://github.com/jbhuang0604/awesome-computer-vision#readme) ⭐ 23,511 | 🐛 91 | 📅 2024-05-17)
-* <b><code> 14743⭐</code></b> <b><code>  1507🍴</code></b> [Static Analysis & Code Quality](https://github.com/analysis-tools-dev/static-analysis#readme) ⭐ 14,745 | 🐛 27 | 🌐 Rust | 📅 2026-06-10)
-* <b><code> 12526⭐</code></b> <b><code>  2008🍴</code></b> [Generative AI](https://github.com/steven2358/awesome-generative-ai#readme) ⭐ 12,527 | 🐛 597 | 📅 2026-08-03) - Automatically generates a wide range of unique content in text, image, and audio format.
-* <b><code> 11184⭐</code></b> <b><code>  2769🍴</code></b> [Deep Vision](https://github.com/kjw0612/awesome-deep-vision#readme) ⭐ 11,185 | 🐛 47 | 📅 2023-08-15)
-* <b><code>  7084⭐</code></b> <b><code>   776🍴</code></b> [Cryptography](https://github.com/sobolevn/awesome-cryptography#readme) ⭐ 7,084 | 🐛 72 | 📅 2026-07-15)
-  * <b><code>  2092⭐</code></b> <b><code>   147🍴</code></b> [Papers](https://github.com/pFarb/awesome-crypto-papers#readme) ⭐ 2,091 | 🐛 4 | 📅 2024-10-17) - Theory basics for using cryptography by non-cryptographers.
-* <b><code>  3259⭐</code></b> <b><code>   474🍴</code></b> [Quantum Computing](https://github.com/desireevl/awesome-quantum-computing#readme) ⭐ 3,260 | 🐛 27 | 📅 2024-07-24) - Computing that utilizes quantum mechanics and qubits on quantum computers.
+* <b><code> 23512⭐</code></b> <b><code>  4436🍴</code></b> [Computer Vision](https://github.com/jbhuang0604/awesome-computer-vision#readme) ⭐ 23,512 | 🐛 91 | 📅 2024-05-17)
+* <b><code> 14746⭐</code></b> <b><code>  1507🍴</code></b> [Static Analysis & Code Quality](https://github.com/analysis-tools-dev/static-analysis#readme) ⭐ 14,746 | 🐛 27 | 🌐 Rust | 📅 2026-06-10)
+* <b><code> 12528⭐</code></b> <b><code>  2018🍴</code></b> [Generative AI](https://github.com/steven2358/awesome-generative-ai#readme) ⭐ 12,528 | 🐛 603 | 📅 2026-08-03) - Automatically generates a wide range of unique content in text, image, and audio format.
+* <b><code> 11185⭐</code></b> <b><code>  2769🍴</code></b> [Deep Vision](https://github.com/kjw0612/awesome-deep-vision#readme) ⭐ 11,185 | 🐛 47 | 📅 2023-08-15)
+* <b><code>  7086⭐</code></b> <b><code>   775🍴</code></b> [Cryptography](https://github.com/sobolevn/awesome-cryptography#readme) ⭐ 7,086 | 🐛 71 | 📅 2026-07-15)
+  * <b><code>  2092⭐</code></b> <b><code>   147🍴</code></b> [Papers](https://github.com/pFarb/awesome-crypto-papers#readme) ⭐ 2,092 | 🐛 4 | 📅 2024-10-17) - Theory basics for using cryptography by non-cryptographers.
+* <b><code>  3259⭐</code></b> <b><code>   474🍴</code></b> [Quantum Computing](https://github.com/desireevl/awesome-quantum-computing#readme) ⭐ 3,259 | 🐛 27 | 📅 2024-07-24) - Computing that utilizes quantum mechanics and qubits on quantum computers.
 * <b><code>  2225⭐</code></b> <b><code>   289🍴</code></b> [Speech and Natural Language Processing](https://github.com/edobashira/speech-language-processing#readme) ⭐ 2,225 | 🐛 19 | 📅 2019-04-02)
   * <b><code>  1076⭐</code></b> <b><code>    71🍴</code></b> [NLP with Ruby](https://github.com/arbox/nlp-with-ruby#readme) ⭐ 1,076 | 🐛 7 | 🌐 Ruby | 📅 2023-06-27)
   * <b><code>   768⭐</code></b> <b><code>   104🍴</code></b> [Question Answering](https://github.com/seriousran/awesome-qa#readme) ⭐ 768 | 🐛 1 | 📅 2022-01-13) - The science of asking and answering in natural language with a machine.
   * <b><code>   482⭐</code></b> <b><code>    59🍴</code></b> [Natural Language Generation](https://github.com/accelerated-text/awesome-nlg#readme) ⭐ 482 | 🐛 1 | 📅 2023-09-03) - Generation of text used in data-to-text, conversational agents, and narrative generation applications.
   * <b><code>   351⭐</code></b> <b><code>    42🍴</code></b> [Spanish](https://github.com/dav009/awesome-spanish-nlp#readme) ⭐ 351 | 🐛 7 | 📅 2024-01-09)
-* <b><code>  1202⭐</code></b> <b><code>    72🍴</code></b> [Theoretical Computer Science](https://github.com/mostafatouny/awesome-theoretical-computer-science#readme) ⭐ 1,203 | 🐛 0 | 🌐 Python | 📅 2026-01-30) - The interplay of computer science and pure mathematics, distinguished by its emphasis on mathematical rigour and technique.
+* <b><code>  1205⭐</code></b> <b><code>    72🍴</code></b> [Theoretical Computer Science](https://github.com/mostafatouny/awesome-theoretical-computer-science#readme) ⭐ 1,205 | 🐛 0 | 🌐 Python | 📅 2026-01-30) - The interplay of computer science and pure mathematics, distinguished by its emphasis on mathematical rigour and technique.
 * <b><code>  1199⭐</code></b> <b><code>   142🍴</code></b> [Information Retrieval](https://github.com/harpribot/awesome-information-retrieval#readme) ⭐ 1,199 | 🐛 8 | 📅 2023-04-20) - Learn to develop your own search engine.
 * <b><code>  1009⭐</code></b> <b><code>    64🍴</code></b> [Functional Programming](https://github.com/lucasviola/awesome-functional-programming#readme) ⭐ 1,009 | 🐛 1 | 📅 2024-04-22)
 * <b><code>   489⭐</code></b> <b><code>    73🍴</code></b> [Empirical Software Engineering](https://github.com/dspinellis/awesome-msr#readme) ⭐ 489 | 🐛 0 | 📅 2026-06-01) - Evidence-based research on software systems.
-* <b><code>   451⭐</code></b> <b><code>    34🍴</code></b> [Linguistics](https://github.com/theimpossibleastronaut/awesome-linguistics#readme) ⭐ 450 | 🐛 0 | 📅 2026-02-12)
+* <b><code>   450⭐</code></b> <b><code>    35🍴</code></b> [Linguistics](https://github.com/theimpossibleastronaut/awesome-linguistics#readme) ⭐ 450 | 🐛 0 | 📅 2026-02-12)
 * <b><code>   312⭐</code></b> <b><code>    23🍴</code></b> [Conversational AI](https://github.com/jyguyomarch/awesome-conversational-ai#readme) ⭐ 312 | 🐛 8 | 📅 2022-01-23) - Build awesome chatbots and digital assistants.
 * <b><code>    23⭐</code></b> <b><code>     2🍴</code></b> [Position-Based Quantum Cryptography](https://github.com/Renaller/awesome-position-based-quantum-cryptography#readme) ⭐ 23 | 🐛 0 | 📅 2025-08-25) - Theory on quantum cryptography that utilizes special relativistic constraints to achieve quantum-security under certain conditions.
 
 ## Big Data
 
-* <b><code> 78381⭐</code></b> <b><code> 11781🍴</code></b> [Public Datasets](https://github.com/awesomedata/awesome-public-datasets#readme) ⭐ 78,493 | 🐛 159 | 📅 2026-08-21)
-* <b><code> 14538⭐</code></b> <b><code>  2583🍴</code></b> [Big Data](https://github.com/0xnr/awesome-bigdata#readme) ⭐ 14,539 | 🐛 3 | 📅 2026-07-31)
-* <b><code>  8976⭐</code></b> <b><code>  1594🍴</code></b> [Data Engineering](https://github.com/igorbarinov/awesome-data-engineering#readme) ⭐ 8,977 | 🐛 29 | 📅 2026-07-18)
+* <b><code> 78546⭐</code></b> <b><code> 11803🍴</code></b> [Public Datasets](https://github.com/awesomedata/awesome-public-datasets#readme) ⭐ 78,559 | 🐛 159 | 📅 2026-08-23)
+* <b><code> 14540⭐</code></b> <b><code>  2583🍴</code></b> [Big Data](https://github.com/0xnr/awesome-bigdata#readme) ⭐ 14,540 | 🐛 3 | 📅 2026-07-31)
+* <b><code>  8980⭐</code></b> <b><code>  1596🍴</code></b> [Data Engineering](https://github.com/igorbarinov/awesome-data-engineering#readme) ⭐ 8,980 | 🐛 29 | 📅 2026-07-18)
 * <b><code>  4099⭐</code></b> <b><code>   639🍴</code></b> [Network Analysis](https://github.com/briatte/awesome-network-analysis#readme) ⭐ 4,099 | 🐛 17 | 🌐 R | 📅 2026-08-20)
-* <b><code>  3006⭐</code></b> <b><code>   322🍴</code></b> [Streaming](https://github.com/manuzhang/awesome-streaming#readme) ⭐ 3,007 | 🐛 5 | 🌐 JavaScript | 📅 2026-08-22)
-* <b><code>  1890⭐</code></b> <b><code>   345🍴</code></b> [Apache Spark](https://github.com/awesome-spark/awesome-spark#readme) ⭐ 1,890 | 🐛 24 | 🌐 Shell | 📅 2026-02-27) - Unified engine for large-scale data processing.
+* <b><code>  3007⭐</code></b> <b><code>   322🍴</code></b> [Streaming](https://github.com/manuzhang/awesome-streaming#readme) ⭐ 3,007 | 🐛 5 | 🌐 JavaScript | 📅 2026-08-23)
+* <b><code>  1891⭐</code></b> <b><code>   345🍴</code></b> [Apache Spark](https://github.com/awesome-spark/awesome-spark#readme) ⭐ 1,891 | 🐛 24 | 🌐 Shell | 📅 2026-02-27) - Unified engine for large-scale data processing.
 * <b><code>  1116⭐</code></b> <b><code>   254🍴</code></b> [Hadoop](https://github.com/youngwookim/awesome-hadoop#readme) ⭐ 1,116 | 🐛 2 | 📅 2024-05-07) - Framework for distributed storage and processing of very large data sets.
 * <b><code>   157⭐</code></b> <b><code>    18🍴</code></b> [Splunk](https://github.com/sduff/awesome-splunk#readme) ⭐ 157 | 🐛 1 | 📅 2020-09-11) - Platform for searching, monitoring, and analyzing structured and unstructured machine-generated big data in real time.
 * <b><code>    78⭐</code></b> <b><code>     8🍴</code></b> [Qlik](https://github.com/ambster-public/awesome-qlik#readme) ⭐ 78 | 🐛 1 | 📅 2019-11-15) - Business intelligence platform for data visualization, analytics, and reporting apps.
 
 ## Theory
 
-* <b><code>108902⭐</code></b> <b><code>  6416🍴</code></b> [Papers We Love](https://github.com/papers-we-love/papers-we-love#readme) ⭐ 108,927 | 🐛 3 | 🌐 Shell | 📅 2026-07-01)
-* <b><code> 25468⭐</code></b> <b><code>  2960🍴</code></b> [Algorithms](https://github.com/tayllan/awesome-algorithms#readme) ⭐ 25,472 | 🐛 0 | 📅 2026-04-18)
-  * <b><code>   901⭐</code></b> <b><code>    64🍴</code></b> [Education](https://github.com/gaerae/awesome-algorithms-education#readme) ⭐ 902 | 🐛 6 | 📅 2022-11-15) - Learning and practicing.
-* <b><code> 16137⭐</code></b> <b><code>  1584🍴</code></b> [Math](https://github.com/rossant/awesome-math#readme) ⭐ 16,143 | 🐛 0 | 🌐 Python | 📅 2026-08-14)
-* <b><code> 15959⭐</code></b> <b><code>  2486🍴</code></b> [Artificial Intelligence](https://github.com/owainlewis/awesome-artificial-intelligence#readme) ⭐ 16,066 | 🐛 68 | 🌐 Python | 📅 2026-08-15)
-* <b><code> 14131⭐</code></b> <b><code>  2619🍴</code></b> [Competitive Programming](https://github.com/lnishan/awesome-competitive-programming#readme) ⭐ 14,134 | 🐛 28 | 📅 2024-12-08)
+* <b><code>108952⭐</code></b> <b><code>  6416🍴</code></b> [Papers We Love](https://github.com/papers-we-love/papers-we-love#readme) ⭐ 108,952 | 🐛 3 | 🌐 Shell | 📅 2026-07-01)
+* <b><code> 25473⭐</code></b> <b><code>  2960🍴</code></b> [Algorithms](https://github.com/tayllan/awesome-algorithms#readme) ⭐ 25,473 | 🐛 0 | 📅 2026-04-18)
+  * <b><code>   902⭐</code></b> <b><code>    64🍴</code></b> [Education](https://github.com/gaerae/awesome-algorithms-education#readme) ⭐ 902 | 🐛 6 | 📅 2022-11-15) - Learning and practicing.
+* <b><code> 16151⭐</code></b> <b><code>  1584🍴</code></b> [Math](https://github.com/rossant/awesome-math#readme) ⭐ 16,151 | 🐛 0 | 🌐 Python | 📅 2026-08-14)
+* <b><code> 16098⭐</code></b> <b><code>  2498🍴</code></b> [Artificial Intelligence](https://github.com/owainlewis/awesome-artificial-intelligence#readme) ⭐ 16,100 | 🐛 68 | 🌐 Python | 📅 2026-08-15)
+* <b><code> 14136⭐</code></b> <b><code>  2620🍴</code></b> [Competitive Programming](https://github.com/lnishan/awesome-competitive-programming#readme) ⭐ 14,136 | 🐛 28 | 📅 2024-12-08)
 * <b><code>  6197⭐</code></b> <b><code>   416🍴</code></b> [Talks](https://github.com/JanVanRyswyck/awesome-talks#readme) ⭐ 6,197 | 🐛 29 | 📅 2026-06-25)
-* <b><code>  2767⭐</code></b> <b><code>   325🍴</code></b> [Search Engine Optimization](https://github.com/marcobiedermann/search-engine-optimization#readme) ⭐ 2,767 | 🐛 33 | 📅 2025-02-24)
-* <b><code>  1765⭐</code></b> <b><code>   114🍴</code></b> [Algorithm Visualizations](https://github.com/enjalot/algovis#readme) ⭐ 1,765 | 🐛 8 | 📅 2022-12-05)
-* <b><code>  1306⭐</code></b> <b><code>    57🍴</code></b> [Recursion Schemes](https://github.com/passy/awesome-recursion-schemes#readme) ⭐ 1,307 | 🐛 6 | 📅 2024-04-25) - Traversing nested data structures.
+* <b><code>  2767⭐</code></b> <b><code>   325🍴</code></b> [Search Engine Optimization](https://github.com/marcobiedermann/search-engine-optimization#readme) ⭐ 2,768 | 🐛 33 | 📅 2025-02-24)
+* <b><code>  1765⭐</code></b> <b><code>   114🍴</code></b> [Algorithm Visualizations](https://github.com/enjalot/algovis#readme) ⭐ 1,764 | 🐛 8 | 📅 2022-12-05)
+* <b><code>  1307⭐</code></b> <b><code>    57🍴</code></b> [Recursion Schemes](https://github.com/passy/awesome-recursion-schemes#readme) ⭐ 1,307 | 🐛 6 | 📅 2024-04-25) - Traversing nested data structures.
 * <b><code>  1306⭐</code></b> <b><code>    55🍴</code></b> [VLM Architectures](https://github.com/gokayfem/awesome-vlm-architectures#readme) ⭐ 1,306 | 🐛 0 | 🌐 Markdown | 📅 2026-07-31) - Vision Language Model architectures.
-* <b><code>   393⭐</code></b> <b><code>    29🍴</code></b> [AGI & CoCoSci](https://github.com/YuzheSHI/awesome-agi-cocosci#readme) ⭐ 393 | 🐛 1 | 🌐 TeX | 📅 2026-04-04) - The reciprocation of Artificial General Intelligence (AGI) and Computational Cognitive Sciences (CoCoSci).
-* <b><code>   295⭐</code></b> <b><code>    20🍴</code></b> [Complex Systems](https://github.com/sellisd/awesome-complexity#readme) ⭐ 296 | 🐛 0 | 📅 2025-03-20) - The scientific field studying systems with multiple interacting parts and emergent properties.
+* <b><code>   395⭐</code></b> <b><code>    29🍴</code></b> [AGI & CoCoSci](https://github.com/YuzheSHI/awesome-agi-cocosci#readme) ⭐ 395 | 🐛 1 | 🌐 TeX | 📅 2026-04-04) - The reciprocation of Artificial General Intelligence (AGI) and Computational Cognitive Sciences (CoCoSci).
+* <b><code>   296⭐</code></b> <b><code>    21🍴</code></b> [Complex Systems](https://github.com/sellisd/awesome-complexity#readme) ⭐ 296 | 🐛 0 | 📅 2025-03-20) - The scientific field studying systems with multiple interacting parts and emergent properties.
 * <b><code>   121⭐</code></b> <b><code>     9🍴</code></b> [Audit Algorithms](https://github.com/erwanlemerrer/awesome-audit-algorithms#readme) ⭐ 121 | 🐛 0 | 📅 2026-06-17) - Algorithmic audits of algorithms.
 
 ## Books
 
-* <b><code>394950⭐</code></b> <b><code> 66676🍴</code></b> [Free Programming Books](https://github.com/EbookFoundation/free-programming-books#readme) ⭐ 395,037 | 🐛 83 | 🌐 Python | 📅 2026-08-18)
-* <b><code> 19634⭐</code></b> <b><code>  2249🍴</code></b> [Go Books](https://github.com/dariubs/GoBooks#readme) ⭐ 19,636 | 🐛 0 | 🌐 Go | 📅 2026-07-13)
-* <b><code> 14165⭐</code></b> <b><code>  1175🍴</code></b> [Mind Expanding Books](https://github.com/hackerkid/Mind-Expanding-Books#readme) ⭐ 14,173 | 🐛 33 | 🌐 JavaScript | 📅 2024-11-09)
-* <b><code>  1486⭐</code></b> <b><code>   116🍴</code></b> [Elixir Books](https://github.com/sger/ElixirBooks#readme) ⭐ 1,486 | 🐛 0 | 📅 2022-08-14)
+* <b><code>395086⭐</code></b> <b><code> 66684🍴</code></b> [Free Programming Books](https://github.com/EbookFoundation/free-programming-books#readme) ⭐ 395,091 | 🐛 85 | 🌐 Python | 📅 2026-08-18)
+* <b><code> 19634⭐</code></b> <b><code>  2249🍴</code></b> [Go Books](https://github.com/dariubs/GoBooks#readme) ⭐ 19,634 | 🐛 0 | 🌐 Go | 📅 2026-07-13)
+* <b><code> 14177⭐</code></b> <b><code>  1174🍴</code></b> [Mind Expanding Books](https://github.com/hackerkid/Mind-Expanding-Books#readme) ⭐ 14,177 | 🐛 33 | 🌐 JavaScript | 📅 2024-11-09)
+* <b><code>  1485⭐</code></b> <b><code>   116🍴</code></b> [Elixir Books](https://github.com/sger/ElixirBooks#readme) ⭐ 1,485 | 🐛 0 | 📅 2022-08-14)
 * <b><code>   426⭐</code></b> <b><code>    26🍴</code></b> [Book Authoring](https://github.com/TalAter/awesome-book-authoring#readme) ⭐ 426 | 🐛 1 | 📅 2019-12-06)
 * <b><code>   281⭐</code></b> <b><code>    29🍴</code></b> [R Books](https://github.com/RomanTsegelskyi/rbooks#readme) ⭐ 281 | 🐛 3 | 🌐 R | 📅 2017-11-02)
 
 ## Editors
 
-* <b><code> 28965⭐</code></b> <b><code>  1406🍴</code></b> [Visual Studio Code](https://github.com/viatsko/awesome-vscode#readme) ⭐ 28,965 | 🐛 50 | 🌐 JavaScript | 📅 2026-06-21) - Cross-platform open-source text editor.
-* <b><code> 21300⭐</code></b> <b><code>  1044🍴</code></b> [Neovim](https://github.com/rockerBOO/awesome-neovim#readme) ⭐ 21,301 | 🐛 4 | 🌐 Shell | 📅 2026-08-20) - Vim-fork focused on extensibility and usability.
-* <b><code> 17955⭐</code></b> <b><code>   627🍴</code></b> [Vim](https://github.com/mhinz/vim-galore#readme) ⭐ 17,956 | 🐛 13 | 🌐 Vim script | 📅 2023-12-22)
-* <b><code>  9362⭐</code></b> <b><code>   599🍴</code></b> [Emacs](https://github.com/emacs-tw/awesome-emacs#readme) ⭐ 9,363 | 🐛 38 | 📅 2026-05-13)
-* <b><code>  1075⭐</code></b> <b><code>    69🍴</code></b> [Sublime Text](https://github.com/dreikanter/sublime-bookmarks#readme) ⭐ 1,075 | 🐛 1 | 📅 2024-01-15)
+* <b><code> 28971⭐</code></b> <b><code>  1409🍴</code></b> [Visual Studio Code](https://github.com/viatsko/awesome-vscode#readme) ⭐ 28,971 | 🐛 50 | 🌐 JavaScript | 📅 2026-06-21) - Cross-platform open-source text editor.
+* <b><code> 21301⭐</code></b> <b><code>  1044🍴</code></b> [Neovim](https://github.com/rockerBOO/awesome-neovim#readme) ⭐ 21,301 | 🐛 4 | 🌐 Shell | 📅 2026-08-20) - Vim-fork focused on extensibility and usability.
+* <b><code> 17958⭐</code></b> <b><code>   627🍴</code></b> [Vim](https://github.com/mhinz/vim-galore#readme) ⭐ 17,959 | 🐛 13 | 🌐 Vim script | 📅 2023-12-22)
+* <b><code>  9364⭐</code></b> <b><code>   599🍴</code></b> [Emacs](https://github.com/emacs-tw/awesome-emacs#readme) ⭐ 9,365 | 🐛 38 | 📅 2026-05-13)
+* <b><code>  1074⭐</code></b> <b><code>    69🍴</code></b> [Sublime Text](https://github.com/dreikanter/sublime-bookmarks#readme) ⭐ 1,074 | 🐛 1 | 📅 2024-01-15)
 
 ## Gaming
 
-* <b><code> 17174⭐</code></b> <b><code>  1226🍴</code></b> [Game Development](https://github.com/ellisonleao/magictools#readme) ⭐ 17,180 | 🐛 14 | 🌐 Markdown | 📅 2026-08-17)
-* <b><code> 10594⭐</code></b> <b><code>   577🍴</code></b> [Godot](https://github.com/godotengine/awesome-godot#readme) ⭐ 10,600 | 🐛 66 | 📅 2026-07-09) - Game engine.
-* <b><code>  4488⭐</code></b> <b><code>   193🍴</code></b> [Game Boy Development](https://github.com/gbdev/awesome-gbdev#readme) ⭐ 4,489 | 🐛 21 | 📅 2026-07-22)
-* <b><code>  4471⭐</code></b> <b><code>   242🍴</code></b> [LÖVE](https://github.com/love2d-community/awesome-love2d#readme) ⭐ 4,472 | 🐛 2 | 🌐 PowerShell | 📅 2026-06-18) - Game engine.
+* <b><code> 17190⭐</code></b> <b><code>  1226🍴</code></b> [Game Development](https://github.com/ellisonleao/magictools#readme) ⭐ 17,191 | 🐛 14 | 🌐 Markdown | 📅 2026-08-17)
+* <b><code> 10609⭐</code></b> <b><code>   577🍴</code></b> [Godot](https://github.com/godotengine/awesome-godot#readme) ⭐ 10,609 | 🐛 66 | 📅 2026-07-09) - Game engine.
+* <b><code>  4491⭐</code></b> <b><code>   193🍴</code></b> [Game Boy Development](https://github.com/gbdev/awesome-gbdev#readme) ⭐ 4,491 | 🐛 21 | 📅 2026-07-22)
+* <b><code>  4474⭐</code></b> <b><code>   242🍴</code></b> [LÖVE](https://github.com/love2d-community/awesome-love2d#readme) ⭐ 4,474 | 🐛 0 | 🌐 PowerShell | 📅 2026-08-23) - Game engine.
 * <b><code>  3574⭐</code></b> <b><code>   214🍴</code></b> [Discord Communities](https://github.com/mhxion/awesome-discord-communities#readme) ⭐ 3,574 | 🐛 25 | 🌐 Python | 📅 2026-04-25) - Chat with friends and communities.
-* <b><code>  3521⭐</code></b> <b><code>   133🍴</code></b> [Learn Gamedev](https://github.com/notpresident35/awesome-learn-gamedev#readme) ⭐ 3,521 | 🐛 3 | 📅 2026-06-01) - The craft of video game creation.
+* <b><code>  3525⭐</code></b> <b><code>   133🍴</code></b> [Learn Gamedev](https://github.com/notpresident35/awesome-learn-gamedev#readme) ⭐ 3,525 | 🐛 3 | 📅 2026-06-01) - The craft of video game creation.
 * <b><code>  3069⭐</code></b> <b><code>   103🍴</code></b> [PICO-8](https://github.com/pico-8/awesome-PICO-8#readme) ⭐ 3,069 | 🐛 0 | 📅 2026-07-28) - Fantasy console.
-* <b><code>  3021⭐</code></b> <b><code>   263🍴</code></b> [Open Source Games](https://github.com/michelpereira/awesome-open-source-games#readme) ⭐ 3,024 | 🐛 8 | 📅 2026-08-14)
-* <b><code>  2142⭐</code></b> <b><code>   105🍴</code></b> [Games of Coding](https://github.com/michelpereira/awesome-games-of-coding#readme) ⭐ 2,144 | 🐛 6 | 📅 2026-03-25) - Learn a programming language by making games.
+* <b><code>  3026⭐</code></b> <b><code>   263🍴</code></b> [Open Source Games](https://github.com/michelpereira/awesome-open-source-games#readme) ⭐ 3,026 | 🐛 8 | 📅 2026-08-14)
+* <b><code>  2144⭐</code></b> <b><code>   105🍴</code></b> [Games of Coding](https://github.com/michelpereira/awesome-games-of-coding#readme) ⭐ 2,144 | 🐛 6 | 📅 2026-03-25) - Learn a programming language by making games.
 * <b><code>  1435⭐</code></b> <b><code>    68🍴</code></b> [Game Remakes](https://github.com/radek-sprta/awesome-game-remakes#readme) ⭐ 1,435 | 🐛 0 | 📅 2026-08-17) - Actively maintained open-source game remakes.
-* <b><code>  1399⭐</code></b> <b><code>   107🍴</code></b> [Game Engine Development](https://github.com/stevinz/awesome-game-engine-dev#readme) ⭐ 1,399 | 🐛 0 | 📅 2026-08-17) - Building software to speed up game creation.
-* <b><code>  1377⭐</code></b> <b><code>   116🍴</code></b> [Flame](https://github.com/flame-engine/awesome-flame#readme) ⭐ 1,378 | 🐛 0 | 📅 2026-07-02) - Game engine for Flutter.
-* <b><code>  1272⭐</code></b> <b><code>    84🍴</code></b> [libGDX](https://github.com/rafaskb/awesome-libgdx#readme) ⭐ 1,271 | 🐛 9 | 📅 2024-12-03) - Java game framework.
-* <b><code>  1179⭐</code></b> <b><code>    52🍴</code></b> [Game Talks](https://github.com/hzoo/awesome-gametalks#readme) ⭐ 1,180 | 🐛 6 | 📅 2024-05-09)
-* <b><code>  1106⭐</code></b> <b><code>    81🍴</code></b> [Game Datasets](https://github.com/leomaurodesenv/game-datasets#readme) ⭐ 1,106 | 🐛 3 | 📅 2026-08-08) - Materials and datasets for Artificial Intelligence in games.
+* <b><code>  1399⭐</code></b> <b><code>   106🍴</code></b> [Game Engine Development](https://github.com/stevinz/awesome-game-engine-dev#readme) ⭐ 1,399 | 🐛 0 | 📅 2026-08-17) - Building software to speed up game creation.
+* <b><code>  1378⭐</code></b> <b><code>   116🍴</code></b> [Flame](https://github.com/flame-engine/awesome-flame#readme) ⭐ 1,378 | 🐛 0 | 📅 2026-07-02) - Game engine for Flutter.
+* <b><code>  1270⭐</code></b> <b><code>    84🍴</code></b> [libGDX](https://github.com/rafaskb/awesome-libgdx#readme) ⭐ 1,270 | 🐛 9 | 📅 2024-12-03) - Java game framework.
+* <b><code>  1180⭐</code></b> <b><code>    52🍴</code></b> [Game Talks](https://github.com/hzoo/awesome-gametalks#readme) ⭐ 1,180 | 🐛 6 | 📅 2024-05-09)
+* <b><code>  1107⭐</code></b> <b><code>    81🍴</code></b> [Game Datasets](https://github.com/leomaurodesenv/game-datasets#readme) ⭐ 1,107 | 🐛 3 | 📅 2026-08-08) - Materials and datasets for Artificial Intelligence in games.
 * <b><code>   642⭐</code></b> <b><code>    48🍴</code></b> [Minecraft](https://github.com/bs-community/awesome-minecraft#readme) ⭐ 642 | 🐛 21 | 📅 2025-08-23) - Sandbox video game.
 * <b><code>   527⭐</code></b> <b><code>    46🍴</code></b> [Chess](https://github.com/hkirat/awesome-chess#readme) ⭐ 527 | 🐛 16 | 📅 2020-11-20)
-* <b><code>   498⭐</code></b> <b><code>    35🍴</code></b> [GameMaker](https://github.com/bytecauldron/awesome-gamemaker#readme) ⭐ 499 | 🐛 1 | 📅 2026-08-23) - Game engine.
+* <b><code>   499⭐</code></b> <b><code>    35🍴</code></b> [GameMaker](https://github.com/bytecauldron/awesome-gamemaker#readme) ⭐ 500 | 🐛 1 | 📅 2026-08-23) - Game engine.
 * <b><code>   478⭐</code></b> <b><code>    60🍴</code></b> [PlayCanvas](https://github.com/playcanvas/awesome-playcanvas#readme) ⭐ 478 | 🐛 0 | 📅 2026-08-22) - Game engine.
 * <b><code>   421⭐</code></b> <b><code>    19🍴</code></b> [Haxe Game Development](https://github.com/Dvergar/awesome-haxe-gamedev#readme) ⭐ 421 | 🐛 0 | 🌐 Haxe | 📅 2023-11-17) - A high-level strongly typed programming language used to produce cross-platform native code.
-* <b><code>   355⭐</code></b> <b><code>    26🍴</code></b> [Babylon.js](https://github.com/Symbitic/awesome-babylonjs#readme) ⭐ 356 | 🐛 1 | 📅 2026-01-22) - Game engine for cross-platform web and native game development.
+* <b><code>   356⭐</code></b> <b><code>    26🍴</code></b> [Babylon.js](https://github.com/Symbitic/awesome-babylonjs#readme) ⭐ 356 | 🐛 1 | 📅 2026-01-22) - Game engine for cross-platform web and native game development.
 * <b><code>   318⭐</code></b> <b><code>    18🍴</code></b> [ComputerCraft](https://github.com/tomodachi94/awesome-computercraft#readme) ⭐ 318 | 🐛 4 | 🌐 Just | 📅 2026-08-02) - Minecraft mod that adds programmable computers.
 * <b><code>   249⭐</code></b> <b><code>    12🍴</code></b> [CHIP-8](https://github.com/tobiasvl/awesome-chip-8#readme) ⭐ 249 | 🐛 4 | 📅 2022-12-26) - Virtual computer game machine from the 70s.
-* <b><code>   219⭐</code></b> <b><code>     9🍴</code></b> [Game Production](https://github.com/vhladiienko/awesome-game-production#readme) ⭐ 219 | 🐛 0 | 📅 2026-05-04) - Leading the process of designing, developing, testing and distributing a video game from concept to release.
+* <b><code>   220⭐</code></b> <b><code>     9🍴</code></b> [Game Production](https://github.com/vhladiienko/awesome-game-production#readme) ⭐ 220 | 🐛 0 | 📅 2026-05-04) - Leading the process of designing, developing, testing and distributing a video game from concept to release.
 * <b><code>   105⭐</code></b> <b><code>     9🍴</code></b> [Esports](https://github.com/strift/awesome-esports#readme) ⭐ 105 | 🐛 2 | 📅 2025-06-10) - Video games played as a sport.
 * <b><code>    95⭐</code></b> <b><code>    20🍴</code></b> [Construct 2](https://github.com/ConstructCommunity/awesome-construct#readme) ⭐ 95 | 🐛 0 | 📅 2025-06-17) - Game engine.
 * <b><code>    76⭐</code></b> <b><code>     8🍴</code></b> [Roblox](https://github.com/awesome-roblox/awesome-roblox#readme) ⭐ 76 | 🐛 1 | 📅 2026-06-23) - Immersive platform for hosting millions of diverse experiences.
@@ -503,42 +503,42 @@
 
 ## Development Environment
 
-* <b><code> 37477⭐</code></b> <b><code>  2551🍴</code></b> [Shell](https://github.com/alebcay/awesome-shell#readme) ⭐ 37,483 | 🐛 183 | 📅 2025-08-28)
-* <b><code> 28150⭐</code></b> <b><code>  1753🍴</code></b> [GitHub Actions](https://github.com/sdras/awesome-actions#readme) ⭐ 28,154 | 🐛 262 | 📅 2024-09-01) - Create tasks to automate your workflow and share them with others on GitHub.
-* <b><code> 21721⭐</code></b> <b><code>  1711🍴</code></b> [Git Tips](https://github.com/git-tips/tips#readme) ⭐ 21,721 | 🐛 2 | 🌐 JavaScript | 📅 2026-08-10)
-* <b><code> 20217⭐</code></b> <b><code>  1482🍴</code></b> [Command-Line Apps](https://github.com/agarrharr/awesome-cli-apps#readme) ⭐ 20,226 | 🐛 0 | 🌐 Shell | 📅 2026-08-22)
-* <b><code> 18742⭐</code></b> <b><code>   549🍴</code></b> [Quick Look Plugins](https://github.com/sindresorhus/quick-look-plugins#readme) ⭐ 18,744 | 🐛 4 | 📅 2026-07-25) - For macOS.
-* <b><code> 17953⭐</code></b> <b><code>   608🍴</code></b> [ZSH Plugins](https://github.com/unixorn/awesome-zsh-plugins#readme) ⭐ 17,959 | 🐛 9 | 🌐 Shell | 📅 2026-08-21)
-* <b><code> 13082⭐</code></b> <b><code>   647🍴</code></b> [Terminals Are Sexy](https://github.com/k4m4/terminals-are-sexy#readme) ⭐ 13,084 | 🐛 148 | 🌐 Shell | 📅 2024-07-26)
+* <b><code> 37490⭐</code></b> <b><code>  2551🍴</code></b> [Shell](https://github.com/alebcay/awesome-shell#readme) ⭐ 37,490 | 🐛 184 | 📅 2025-08-28)
+* <b><code> 28159⭐</code></b> <b><code>  1756🍴</code></b> [GitHub Actions](https://github.com/sdras/awesome-actions#readme) ⭐ 28,158 | 🐛 263 | 📅 2024-09-01) - Create tasks to automate your workflow and share them with others on GitHub.
+* <b><code> 21722⭐</code></b> <b><code>  1711🍴</code></b> [Git Tips](https://github.com/git-tips/tips#readme) ⭐ 21,722 | 🐛 2 | 🌐 JavaScript | 📅 2026-08-10)
+* <b><code> 20230⭐</code></b> <b><code>  1486🍴</code></b> [Command-Line Apps](https://github.com/agarrharr/awesome-cli-apps#readme) ⭐ 20,230 | 🐛 1 | 🌐 Shell | 📅 2026-08-22)
+* <b><code> 18745⭐</code></b> <b><code>   548🍴</code></b> [Quick Look Plugins](https://github.com/sindresorhus/quick-look-plugins#readme) ⭐ 18,745 | 🐛 4 | 📅 2026-07-25) - For macOS.
+* <b><code> 17965⭐</code></b> <b><code>   608🍴</code></b> [ZSH Plugins](https://github.com/unixorn/awesome-zsh-plugins#readme) ⭐ 17,965 | 🐛 9 | 🌐 Shell | 📅 2026-08-21)
+* <b><code> 13085⭐</code></b> <b><code>   647🍴</code></b> [Terminals Are Sexy](https://github.com/k4m4/terminals-are-sexy#readme) ⭐ 13,085 | 🐛 148 | 🌐 Shell | 📅 2024-07-26)
 * <b><code> 11001⭐</code></b> <b><code>   374🍴</code></b> [Hyper](https://github.com/bnb/awesome-hyper#readme) ⭐ 11,001 | 🐛 23 | 📅 2022-09-20) - Cross-platform terminal app built on web technologies.
-* <b><code> 10817⭐</code></b> <b><code>   368🍴</code></b> [Dotfiles](https://github.com/webpro/awesome-dotfiles#readme) ⭐ 10,821 | 🐛 3 | 📅 2026-07-26)
-* <b><code>  7430⭐</code></b> <b><code>  1440🍴</code></b> [Git Cheat Sheet & Git Flow](https://github.com/arslanbilal/git-cheat-sheet#readme) ⭐ 7,431 | 🐛 2 | 📅 2026-03-04)
-* <b><code>  5054⭐</code></b> <b><code>   150🍴</code></b> [Fish](https://github.com/jorgebucaran/awsm.fish#readme) ⭐ 5,054 | 🐛 16 | 📅 2026-01-25) - User-friendly shell.
-* <b><code>  3333⭐</code></b> <b><code>   206🍴</code></b> [Dev Env](https://github.com/jondot/awesome-devenv#readme) ⭐ 3,333 | 🐛 41 | 📅 2024-07-29)
+* <b><code> 10826⭐</code></b> <b><code>   368🍴</code></b> [Dotfiles](https://github.com/webpro/awesome-dotfiles#readme) ⭐ 10,826 | 🐛 3 | 📅 2026-07-26)
+* <b><code>  7432⭐</code></b> <b><code>  1440🍴</code></b> [Git Cheat Sheet & Git Flow](https://github.com/arslanbilal/git-cheat-sheet#readme) ⭐ 7,432 | 🐛 2 | 📅 2026-03-04)
+* <b><code>  5056⭐</code></b> <b><code>   150🍴</code></b> [Fish](https://github.com/jorgebucaran/awsm.fish#readme) ⭐ 5,056 | 🐛 16 | 📅 2026-01-25) - User-friendly shell.
+* <b><code>  3334⭐</code></b> <b><code>   206🍴</code></b> [Dev Env](https://github.com/jondot/awesome-devenv#readme) ⭐ 3,334 | 🐛 41 | 📅 2024-07-29)
 * <b><code>  2834⭐</code></b> <b><code>   183🍴</code></b> [SSH](https://github.com/moul/awesome-ssh#readme) ⭐ 2,834 | 🐛 46 | 📅 2023-08-10)
-* <b><code>  2191⭐</code></b> <b><code>   124🍴</code></b> [Git Add-ons](https://github.com/stevemao/awesome-git-addons#readme) ⭐ 2,192 | 🐛 15 | 📅 2024-10-15) - Enhance the `git` CLI.
+* <b><code>  2194⭐</code></b> <b><code>   125🍴</code></b> [Git Add-ons](https://github.com/stevemao/awesome-git-addons#readme) ⭐ 2,194 | 🐛 15 | 📅 2024-10-15) - Enhance the `git` CLI.
 * <b><code>  1404⭐</code></b> <b><code>   104🍴</code></b> [FOSS for Developers](https://github.com/tvvocold/FOSS-for-Dev#readme) ⭐ 1,404 | 🐛 8 | 📅 2024-04-24)
-* <b><code>  1183⭐</code></b> <b><code>    58🍴</code></b> [Git Hooks](https://github.com/compscilauren/awesome-git-hooks#readme) ⭐ 1,183 | 🐛 18 | 🌐 Shell | 📅 2026-03-25) - Scripts for automating tasks during `git` workflows.
-* <b><code>   969⭐</code></b> <b><code>   118🍴</code></b> [GitHub](https://github.com/phillipadsmith/awesome-github#readme) ⭐ 968 | 🐛 12 | 📅 2024-03-04) - Hosting service for Git repositories.
-  * <b><code> 58653⭐</code></b> <b><code>  5444🍴</code></b> [Cheat Sheet](https://github.com/tiimgreen/github-cheat-sheet#readme) ⭐ 58,669 | 🐛 48 | 📅 2024-04-15)
+* <b><code>  1184⭐</code></b> <b><code>    58🍴</code></b> [Git Hooks](https://github.com/compscilauren/awesome-git-hooks#readme) ⭐ 1,184 | 🐛 18 | 🌐 Shell | 📅 2026-03-25) - Scripts for automating tasks during `git` workflows.
+* <b><code>   968⭐</code></b> <b><code>   118🍴</code></b> [GitHub](https://github.com/phillipadsmith/awesome-github#readme) ⭐ 968 | 🐛 12 | 📅 2024-03-04) - Hosting service for Git repositories.
+  * <b><code> 58686⭐</code></b> <b><code>  5444🍴</code></b> [Cheat Sheet](https://github.com/tiimgreen/github-cheat-sheet#readme) ⭐ 58,689 | 🐛 48 | 📅 2024-04-15)
   * <b><code>  3288⭐</code></b> <b><code>   203🍴</code></b> [Browser Extensions](https://github.com/stefanbuck/awesome-browser-extensions-for-github#readme) ⭐ 3,288 | 🐛 26 | 🌐 JavaScript | 📅 2024-08-18)
-  * <b><code>  2108⭐</code></b> <b><code>    96🍴</code></b> [Pinned Gists](https://github.com/matchai/awesome-pinned-gists#readme) ⭐ 2,108 | 🐛 3 | 📅 2025-08-05) - Dynamic pinned gists for your GitHub profile.
-* <b><code>   732⭐</code></b> <b><code>    30🍴</code></b> [WezTerm](https://github.com/michaelbrusegard/awesome-wezterm#readme) ⭐ 732 | 🐛 0 | 📅 2026-08-21) - Powerful cross-platform terminal emulator.
+  * <b><code>  2109⭐</code></b> <b><code>    96🍴</code></b> [Pinned Gists](https://github.com/matchai/awesome-pinned-gists#readme) ⭐ 2,109 | 🐛 3 | 📅 2025-08-05) - Dynamic pinned gists for your GitHub profile.
+* <b><code>   733⭐</code></b> <b><code>    30🍴</code></b> [WezTerm](https://github.com/michaelbrusegard/awesome-wezterm#readme) ⭐ 733 | 🐛 0 | 📅 2026-08-21) - Powerful cross-platform terminal emulator.
 
 ## Entertainment
 
-* <b><code>  5014⭐</code></b> <b><code>   274🍴</code></b> [Science Fiction](https://github.com/sindresorhus/awesome-scifi#readme) ⭐ 5,014 | 🐛 0 | 📅 2025-12-22) - Scifi.
-* <b><code>  4451⭐</code></b> <b><code>   364🍴</code></b> [Email Newsletters](https://github.com/zudochkin/awesome-newsletters#readme) ⭐ 4,452 | 🐛 43 | 📅 2026-04-17)
+* <b><code>  5015⭐</code></b> <b><code>   274🍴</code></b> [Science Fiction](https://github.com/sindresorhus/awesome-scifi#readme) ⭐ 5,015 | 🐛 0 | 📅 2025-12-22) - Scifi.
+* <b><code>  4452⭐</code></b> <b><code>   366🍴</code></b> [Email Newsletters](https://github.com/zudochkin/awesome-newsletters#readme) ⭐ 4,452 | 🐛 44 | 📅 2026-04-17)
 * <b><code>  1554⭐</code></b> <b><code>   161🍴</code></b> [Fantasy](https://github.com/RichardLitt/awesome-fantasy#readme) ⭐ 1,554 | 🐛 0 | 📅 2025-02-05)
 * <b><code>   641⭐</code></b> <b><code>    65🍴</code></b> [Podcasts](https://github.com/ayr-ton/awesome-geek-podcasts#readme) ⭐ 641 | 🐛 3 | 🌐 HTML | 📅 2026-03-22)
 * <b><code>   631⭐</code></b> <b><code>    43🍴</code></b> [IT Quotes](https://github.com/victorlaerte/awesome-it-quotes#readme) ⭐ 631 | 🐛 2 | 📅 2021-01-26)
 
 ## Databases
 
-* <b><code> 12053⭐</code></b> <b><code>  1003🍴</code></b> [PostgreSQL](https://github.com/dhamaniasad/awesome-postgres#readme) ⭐ 12,054 | 🐛 67 | 📅 2026-05-21) - Object-relational database.
-* <b><code>  5273⭐</code></b> <b><code>   484🍴</code></b> [Database Tools](https://github.com/mgramin/awesome-db-tools#readme) ⭐ 5,274 | 🐛 194 | 📅 2026-05-21) - Everything that makes working with databases easier.
+* <b><code> 12056⭐</code></b> <b><code>  1005🍴</code></b> [PostgreSQL](https://github.com/dhamaniasad/awesome-postgres#readme) ⭐ 12,056 | 🐛 68 | 📅 2026-05-21) - Object-relational database.
+* <b><code>  5275⭐</code></b> <b><code>   484🍴</code></b> [Database Tools](https://github.com/mgramin/awesome-db-tools#readme) ⭐ 5,275 | 🐛 194 | 📅 2026-05-21) - Everything that makes working with databases easier.
 * <b><code>  3055⭐</code></b> <b><code>   165🍴</code></b> [SQLAlchemy](https://github.com/dahlia/awesome-sqlalchemy#readme) ⭐ 3,055 | 🐛 10 | 🌐 Python | 📅 2026-06-08)
-* <b><code>  2672⭐</code></b> <b><code>   345🍴</code></b> [MongoDB](https://github.com/ramnes/awesome-mongodb#readme) ⭐ 2,672 | 🐛 4 | 📅 2026-08-05) - NoSQL database.
+* <b><code>  2672⭐</code></b> <b><code>   346🍴</code></b> [MongoDB](https://github.com/ramnes/awesome-mongodb#readme) ⭐ 2,672 | 🐛 5 | 📅 2026-08-05) - NoSQL database.
 * <b><code>  2608⭐</code></b> <b><code>   407🍴</code></b> [MySQL](https://github.com/shlomi-noach/awesome-mysql#readme) ⭐ 2,608 | 🐛 17 | 🌐 Python | 📅 2026-08-17)
 * <b><code>  1377⭐</code></b> <b><code>   179🍴</code></b> [Database](https://github.com/numetriclabz/awesome-db#readme) ⭐ 1,377 | 🐛 38 | 📅 2024-03-04)
 * <b><code>  1197⭐</code></b> <b><code>    67🍴</code></b> [PocketBase](https://github.com/benallfree/awesome-pocketbase#readme) ⭐ 1,197 | 🐛 0 | 📅 2026-07-08) - An open-source, Go-based backend in one file.
@@ -555,65 +555,65 @@
 
 ## Media
 
-* <b><code> 14445⭐</code></b> <b><code>   816🍴</code></b> [Stock Resources](https://github.com/neutraltone/awesome-stock-resources#readme) ⭐ 14,449 | 🐛 71 | 🌐 Ruby | 📅 2026-02-11)
-* <b><code>  6506⭐</code></b> <b><code>   415🍴</code></b> [Codeface](https://github.com/chrissimpkins/codeface#readme) ⭐ 6,506 | 🐛 25 | 🌐 Python | 📅 2020-09-19) - Text editor fonts.
-* <b><code>  5061⭐</code></b> <b><code>   348🍴</code></b> [Audio Visualization](https://github.com/willianjusten/awesome-audio-visualization#readme) ⭐ 5,061 | 🐛 13 | 🌐 Shell | 📅 2026-08-13)
-* <b><code>  2474⭐</code></b> <b><code>   166🍴</code></b> [Music](https://github.com/ciconia/awesome-music#readme) ⭐ 2,476 | 🐛 25 | 📅 2026-05-27)
-* <b><code>  2316⭐</code></b> <b><code>   164🍴</code></b> [Open Source Documents](https://github.com/44bits/awesome-opensource-documents#readme) ⭐ 2,316 | 🐛 12 | 📅 2025-10-29)
-* <b><code>  2052⭐</code></b> <b><code>  1027🍴</code></b> [Fonts](https://github.com/brabadu/awesome-fonts#readme) ⭐ 2,053 | 🐛 9 | 📅 2026-07-26)
-* <b><code>  1763⭐</code></b> <b><code>   219🍴</code></b> [Broadcasting](https://github.com/ebu/awesome-broadcasting#readme) ⭐ 1,763 | 🐛 13 | 📅 2026-04-29)
+* <b><code> 14450⭐</code></b> <b><code>   816🍴</code></b> [Stock Resources](https://github.com/neutraltone/awesome-stock-resources#readme) ⭐ 14,450 | 🐛 71 | 🌐 Ruby | 📅 2026-02-11)
+* <b><code>  6507⭐</code></b> <b><code>   415🍴</code></b> [Codeface](https://github.com/chrissimpkins/codeface#readme) ⭐ 6,507 | 🐛 25 | 🌐 Python | 📅 2020-09-19) - Text editor fonts.
+* <b><code>  5062⭐</code></b> <b><code>   348🍴</code></b> [Audio Visualization](https://github.com/willianjusten/awesome-audio-visualization#readme) ⭐ 5,062 | 🐛 13 | 🌐 Shell | 📅 2026-08-13)
+* <b><code>  2479⭐</code></b> <b><code>   166🍴</code></b> [Music](https://github.com/ciconia/awesome-music#readme) ⭐ 2,479 | 🐛 25 | 📅 2026-05-27)
+* <b><code>  2317⭐</code></b> <b><code>   164🍴</code></b> [Open Source Documents](https://github.com/44bits/awesome-opensource-documents#readme) ⭐ 2,317 | 🐛 12 | 📅 2025-10-29)
+* <b><code>  2052⭐</code></b> <b><code>  1028🍴</code></b> [Fonts](https://github.com/brabadu/awesome-fonts#readme) ⭐ 2,052 | 🐛 9 | 📅 2026-07-26)
+* <b><code>  1764⭐</code></b> <b><code>   219🍴</code></b> [Broadcasting](https://github.com/ebu/awesome-broadcasting#readme) ⭐ 1,764 | 🐛 13 | 📅 2026-04-29)
 * <b><code>  1238⭐</code></b> <b><code>    53🍴</code></b> [Pixel Art](https://github.com/Siilwyn/awesome-pixel-art#readme) ⭐ 1,238 | 🐛 1 | 📅 2026-08-06) - Pixel-level digital art.
-* <b><code>  1183⭐</code></b> <b><code>    81🍴</code></b> [FFmpeg](https://github.com/transitive-bullshit/awesome-ffmpeg#readme) ⭐ 1,183 | 🐛 16 | 📅 2025-08-09) - Cross-platform solution to record, convert and stream audio and video.
-* <b><code>   992⭐</code></b> <b><code>    60🍴</code></b> [Icons](https://github.com/notlmn/awesome-icons#readme) ⭐ 993 | 🐛 9 | 📅 2026-07-19) - Downloadable SVG/PNG/font icon projects.
-* <b><code>   695⭐</code></b> <b><code>    59🍴</code></b> [GIF](https://github.com/davisonio/awesome-gif#readme) ⭐ 695 | 🐛 4 | 📅 2026-05-17) - Image format known for animated images.
+* <b><code>  1183⭐</code></b> <b><code>    81🍴</code></b> [FFmpeg](https://github.com/transitive-bullshit/awesome-ffmpeg#readme) ⭐ 1,183 | 🐛 17 | 📅 2025-08-09) - Cross-platform solution to record, convert and stream audio and video.
+* <b><code>   993⭐</code></b> <b><code>    61🍴</code></b> [Icons](https://github.com/notlmn/awesome-icons#readme) ⭐ 993 | 🐛 9 | 📅 2026-07-19) - Downloadable SVG/PNG/font icon projects.
+* <b><code>   696⭐</code></b> <b><code>    59🍴</code></b> [GIF](https://github.com/davisonio/awesome-gif#readme) ⭐ 696 | 🐛 4 | 📅 2026-05-17) - Image format known for animated images.
 * <b><code>   294⭐</code></b> <b><code>    11🍴</code></b> [VLC](https://github.com/mfkl/awesome-vlc#readme) ⭐ 294 | 🐛 0 | 📅 2026-03-18) - Cross-platform media player software and streaming server.
 * <b><code>   267⭐</code></b> <b><code>    23🍴</code></b> [Audiovisual](https://github.com/stingalleman/awesome-audiovisual#readme) ⭐ 267 | 🐛 1 | 📅 2026-07-21) - Lighting, audio and video in professional environments.
 * <b><code>   148⭐</code></b> <b><code>     9🍴</code></b> [Audio Over IP](https://github.com/Mo-way/awesome-aoip#readme) ⭐ 148 | 🐛 2 | 📅 2026-02-27) - Reliably transmit uncompressed, low-latency audio over an IP (layer 3) network.
 
 ## Learn
 
-* <b><code>  7737⭐</code></b> <b><code>   498🍴</code></b> [YouTubers](https://github.com/JoseDeFreitas/awesome-youtubers#readme) ⭐ 7,742 | 🐛 2 | 🌐 Markdown | 📅 2026-08-05) - Watch video tutorials from YouTubers that teach you about technology.
-* <b><code>  7230⭐</code></b> <b><code>   477🍴</code></b> [Roadmaps](https://github.com/liuchong/awesome-roadmaps#readme) ⭐ 7,229 | 🐛 0 | 📅 2026-08-03) - Gives you a clear route to improve your knowledge and skills.
-* <b><code>  5840⭐</code></b> <b><code>   601🍴</code></b> [JavaScript Learning](https://github.com/micromata/awesome-javascript-learning#readme) ⭐ 5,840 | 🐛 7 | 📅 2026-02-01)
-* <b><code>  5563⭐</code></b> <b><code>   464🍴</code></b> [Certificates](https://github.com/PanXProject/awesome-certificates#readme) ⭐ 5,575 | 🐛 47 | 📅 2026-06-30) - Free computer science certifications to showcase your knowledge.
-* <b><code>  4902⭐</code></b> <b><code>   250🍴</code></b> [Learn to Program](https://github.com/karlhorky/learn-to-program#readme) ⭐ 4,901 | 🐛 24 | 📅 2025-05-10)
+* <b><code>  7745⭐</code></b> <b><code>   498🍴</code></b> [YouTubers](https://github.com/JoseDeFreitas/awesome-youtubers#readme) ⭐ 7,745 | 🐛 2 | 🌐 Markdown | 📅 2026-08-05) - Watch video tutorials from YouTubers that teach you about technology.
+* <b><code>  7230⭐</code></b> <b><code>   478🍴</code></b> [Roadmaps](https://github.com/liuchong/awesome-roadmaps#readme) ⭐ 7,230 | 🐛 0 | 📅 2026-08-03) - Gives you a clear route to improve your knowledge and skills.
+* <b><code>  5841⭐</code></b> <b><code>   600🍴</code></b> [JavaScript Learning](https://github.com/micromata/awesome-javascript-learning#readme) ⭐ 5,841 | 🐛 7 | 📅 2026-02-01)
+* <b><code>  5583⭐</code></b> <b><code>   465🍴</code></b> [Certificates](https://github.com/PanXProject/awesome-certificates#readme) ⭐ 5,583 | 🐛 47 | 📅 2026-06-30) - Free computer science certifications to showcase your knowledge.
+* <b><code>  4902⭐</code></b> <b><code>   249🍴</code></b> [Learn to Program](https://github.com/karlhorky/learn-to-program#readme) ⭐ 4,902 | 🐛 24 | 📅 2025-05-10)
 * <b><code>  3849⭐</code></b> <b><code>   270🍴</code></b> [CSS Learning](https://github.com/micromata/awesome-css-learning#readme) ⭐ 3,849 | 🐛 10 | 📅 2026-02-01) - Mainly about CSS – the language and the modules.
 * <b><code>  2954⭐</code></b> <b><code>   158🍴</code></b> [Computer History](https://github.com/watson/awesome-computer-history#readme) ⭐ 2,954 | 🐛 17 | 📅 2023-02-01)
-* <b><code>  2314⭐</code></b> <b><code>   213🍴</code></b> [Product Management](https://github.com/dend/awesome-product-management#readme) ⭐ 2,315 | 🐛 198 | 🌐 CSS | 📅 2026-02-08) - Learn how to be a better product manager.
-* <b><code>  2264⭐</code></b> <b><code>    66🍴</code></b> [CLI Workshoppers](https://github.com/therebelrobot/awesome-workshopper#readme) ⭐ 2,264 | 🐛 2 | 📅 2021-03-03) - Interactive tutorials.
+* <b><code>  2316⭐</code></b> <b><code>   213🍴</code></b> [Product Management](https://github.com/dend/awesome-product-management#readme) ⭐ 2,316 | 🐛 199 | 🌐 CSS | 📅 2026-02-08) - Learn how to be a better product manager.
+* <b><code>  2264⭐</code></b> <b><code>    67🍴</code></b> [CLI Workshoppers](https://github.com/therebelrobot/awesome-workshopper#readme) ⭐ 2,264 | 🐛 2 | 📅 2021-03-03) - Interactive tutorials.
 * <b><code>  1974⭐</code></b> <b><code>   602🍴</code></b> [Speaking](https://github.com/matteofigus/awesome-speaking#readme) ⭐ 1,974 | 🐛 1 | 📅 2023-11-20)
 * <b><code>  1210⭐</code></b> <b><code>    93🍴</code></b> [Programming for Kids](https://github.com/HollyAdele/awesome-programming-for-kids#readme) ⭐ 1,210 | 🐛 0 | 📅 2024-11-15)
-* <b><code>  1155⭐</code></b> <b><code>    81🍴</code></b> [Educational Games](https://github.com/yrgo/awesome-educational-games#readme) ⭐ 1,155 | 🐛 12 | 📅 2024-04-08) - Learn while playing.
+* <b><code>  1156⭐</code></b> <b><code>    82🍴</code></b> [Educational Games](https://github.com/yrgo/awesome-educational-games#readme) ⭐ 1,156 | 🐛 12 | 📅 2024-04-08) - Learn while playing.
 * <b><code>   843⭐</code></b> <b><code>    63🍴</code></b> [Tech Videos](https://github.com/lucasviola/awesome-tech-videos#readme) ⭐ 843 | 🐛 1 | 📅 2016-12-10)
 * <b><code>   289⭐</code></b> <b><code>    24🍴</code></b> [Hackathon](https://github.com/dribdat/awesome-hackathon#readme) ⭐ 289 | 🐛 2 | 📅 2026-05-05) - Running fun and productive hackathons.
 * <b><code>   260⭐</code></b> <b><code>    38🍴</code></b> [STEAM](https://github.com/RahulBirCodes/awesome-steam#readme) ⭐ 260 | 🐛 6 | 📅 2026-05-05) - Supplements for specific science, technology, engineering, arts, and math (STEAM) courses across all grade levels.
 
 ## Security
 
-* <b><code> 16917⭐</code></b> <b><code>  1706🍴</code></b> [Hacking](https://github.com/carpedm20/awesome-hacking#readme) ⭐ 16,922 | 🐛 68 | 📅 2024-06-02)
-* <b><code> 14782⭐</code></b> <b><code>  2376🍴</code></b> [Security](https://github.com/sbilly/awesome-security#readme) ⭐ 14,788 | 🐛 313 | 📅 2026-01-11)
-* <b><code> 14146⭐</code></b> <b><code>  2687🍴</code></b> [Malware Analysis](https://github.com/rshipp/awesome-malware-analysis#readme) ⭐ 14,149 | 🐛 25 | 📅 2024-06-07)
-* <b><code> 13716⭐</code></b> <b><code>  1814🍴</code></b> [Web Security](https://github.com/qazbnm456/awesome-web-security#readme) ⭐ 13,719 | 🐛 3 | 🌐 Python | 📅 2026-08-21) - Security of web apps & services.
-* <b><code> 11777⭐</code></b> <b><code>  1616🍴</code></b> [CTF](https://github.com/apsdehal/awesome-ctf#readme) ⭐ 11,783 | 🐛 64 | 🌐 JavaScript | 📅 2024-07-22) - Capture The Flag.
-* <b><code> 10524⭐</code></b> <b><code>  1372🍴</code></b> [Honeypots](https://github.com/paralax/awesome-honeypots#readme) ⭐ 10,527 | 🐛 22 | 🌐 Python | 📅 2026-06-01) - Deception trap, designed to entice an attacker into attempting to compromise the information systems in an organization.
-* <b><code>  9629⭐</code></b> <b><code>  1571🍴</code></b> [Android Security](https://github.com/ashishb/android-security-awesome#readme) ⭐ 9,628 | 🐛 0 | 🌐 Makefile | 📅 2026-08-21)
-* <b><code>  9346⭐</code></b> <b><code>  1734🍴</code></b> [Incident Response](https://github.com/meirwah/awesome-incident-response#readme) ⭐ 9,346 | 🐛 74 | 📅 2026-07-15)
-* <b><code>  7036⭐</code></b> <b><code>   801🍴</code></b> [Application Security](https://github.com/paragonie/awesome-appsec#readme) ⭐ 7,038 | 🐛 40 | 🌐 PHP | 📅 2025-02-22)
-* <b><code>  5529⭐</code></b> <b><code>   834🍴</code></b> [Cybersecurity Blue Team](https://github.com/fabacab/awesome-cybersecurity-blueteam#readme) ⭐ 5,531 | 🐛 76 | 📅 2024-07-15) - Groups of individuals who identify security flaws in information technology systems.
-* <b><code>  4454⭐</code></b> <b><code>   713🍴</code></b> [Vehicle Security and Car Hacking](https://github.com/jaredthecoder/awesome-vehicle-security#readme) ⭐ 4,469 | 🐛 2 | 📅 2026-05-30)
-* <b><code>  3277⭐</code></b> <b><code>   307🍴</code></b> [Cyber Security University](https://github.com/brootware/awesome-cyber-security-university#readme) ⭐ 3,279 | 🐛 2 | 📅 2025-08-09) - Free educational resources that focus on learning by doing.
-* <b><code>  2425⭐</code></b> <b><code>   291🍴</code></b> [Embedded and IoT Security](https://github.com/fkie-cad/awesome-embedded-and-iot-security#readme) ⭐ 2,426 | 🐛 2 | 📅 2023-10-17)
-* <b><code>  1916⭐</code></b> <b><code>   128🍴</code></b> [Lockpicking](https://github.com/fabacab/awesome-lockpicking#readme) ⭐ 1,917 | 🐛 13 | 📅 2022-06-28) - The art of unlocking a lock by manipulating its components without the key.
-* <b><code>  1716⭐</code></b> <b><code>   245🍴</code></b> [DevSecOps](https://github.com/TaptuIT/awesome-devsecops#readme) ⭐ 1,716 | 🐛 39 | 📅 2024-08-02) - Integration of security practices into 🌎 [DevOps](en.wikipedia.org/wiki/DevOps).
-* <b><code>  1611⭐</code></b> <b><code>   139🍴</code></b> [Executable Packing](https://github.com/dhondta/awesome-executable-packing#readme) ⭐ 1,612 | 🐛 1 | 📅 2026-05-31) - Packing and unpacking executable formats.
-* <b><code>  1324⭐</code></b> <b><code>   143🍴</code></b> [Detection Engineering](https://github.com/infosecB/awesome-detection-engineering#readme) ⭐ 1,324 | 🐛 8 | 📅 2026-08-03) - Design, build, and operate detective cybersecurity controls.
-* <b><code>  1176⭐</code></b> <b><code>   143🍴</code></b> [Annual Security Reports](https://github.com/jacobdjwilson/awesome-annual-security-reports#readme) ⭐ 1,176 | 🐛 5 | 📅 2026-08-23) - Exploring cybersecurity trends, insights, and challenges.
+* <b><code> 16927⭐</code></b> <b><code>  1709🍴</code></b> [Hacking](https://github.com/carpedm20/awesome-hacking#readme) ⭐ 16,928 | 🐛 69 | 📅 2024-06-02)
+* <b><code> 14790⭐</code></b> <b><code>  2378🍴</code></b> [Security](https://github.com/sbilly/awesome-security#readme) ⭐ 14,790 | 🐛 313 | 📅 2026-01-11)
+* <b><code> 14151⭐</code></b> <b><code>  2689🍴</code></b> [Malware Analysis](https://github.com/rshipp/awesome-malware-analysis#readme) ⭐ 14,151 | 🐛 25 | 📅 2024-06-07)
+* <b><code> 13723⭐</code></b> <b><code>  1814🍴</code></b> [Web Security](https://github.com/qazbnm456/awesome-web-security#readme) ⭐ 13,723 | 🐛 3 | 🌐 Python | 📅 2026-08-21) - Security of web apps & services.
+* <b><code> 11789⭐</code></b> <b><code>  1619🍴</code></b> [CTF](https://github.com/apsdehal/awesome-ctf#readme) ⭐ 11,789 | 🐛 66 | 🌐 JavaScript | 📅 2024-07-22) - Capture The Flag.
+* <b><code> 10532⭐</code></b> <b><code>  1372🍴</code></b> [Honeypots](https://github.com/paralax/awesome-honeypots#readme) ⭐ 10,532 | 🐛 22 | 🌐 Python | 📅 2026-06-01) - Deception trap, designed to entice an attacker into attempting to compromise the information systems in an organization.
+* <b><code>  9631⭐</code></b> <b><code>  1571🍴</code></b> [Android Security](https://github.com/ashishb/android-security-awesome#readme) ⭐ 9,632 | 🐛 0 | 🌐 Makefile | 📅 2026-08-21)
+* <b><code>  9348⭐</code></b> <b><code>  1736🍴</code></b> [Incident Response](https://github.com/meirwah/awesome-incident-response#readme) ⭐ 9,348 | 🐛 74 | 📅 2026-07-15)
+* <b><code>  7038⭐</code></b> <b><code>   802🍴</code></b> [Application Security](https://github.com/paragonie/awesome-appsec#readme) ⭐ 7,038 | 🐛 40 | 🌐 PHP | 📅 2025-02-22)
+* <b><code>  5535⭐</code></b> <b><code>   834🍴</code></b> [Cybersecurity Blue Team](https://github.com/fabacab/awesome-cybersecurity-blueteam#readme) ⭐ 5,535 | 🐛 76 | 📅 2024-07-15) - Groups of individuals who identify security flaws in information technology systems.
+* <b><code>  4501⭐</code></b> <b><code>   719🍴</code></b> [Vehicle Security and Car Hacking](https://github.com/jaredthecoder/awesome-vehicle-security#readme) ⭐ 4,502 | 🐛 2 | 📅 2026-05-30)
+* <b><code>  3281⭐</code></b> <b><code>   307🍴</code></b> [Cyber Security University](https://github.com/brootware/awesome-cyber-security-university#readme) ⭐ 3,281 | 🐛 2 | 📅 2025-08-09) - Free educational resources that focus on learning by doing.
+* <b><code>  2427⭐</code></b> <b><code>   291🍴</code></b> [Embedded and IoT Security](https://github.com/fkie-cad/awesome-embedded-and-iot-security#readme) ⭐ 2,427 | 🐛 2 | 📅 2023-10-17)
+* <b><code>  1917⭐</code></b> <b><code>   128🍴</code></b> [Lockpicking](https://github.com/fabacab/awesome-lockpicking#readme) ⭐ 1,917 | 🐛 13 | 📅 2022-06-28) - The art of unlocking a lock by manipulating its components without the key.
+* <b><code>  1716⭐</code></b> <b><code>   246🍴</code></b> [DevSecOps](https://github.com/TaptuIT/awesome-devsecops#readme) ⭐ 1,716 | 🐛 39 | 📅 2024-08-02) - Integration of security practices into 🌎 [DevOps](en.wikipedia.org/wiki/DevOps).
+* <b><code>  1614⭐</code></b> <b><code>   139🍴</code></b> [Executable Packing](https://github.com/dhondta/awesome-executable-packing#readme) ⭐ 1,614 | 🐛 1 | 📅 2026-05-31) - Packing and unpacking executable formats.
+* <b><code>  1324⭐</code></b> <b><code>   144🍴</code></b> [Detection Engineering](https://github.com/infosecB/awesome-detection-engineering#readme) ⭐ 1,324 | 🐛 8 | 📅 2026-08-03) - Design, build, and operate detective cybersecurity controls.
+* <b><code>  1177⭐</code></b> <b><code>   143🍴</code></b> [Annual Security Reports](https://github.com/jacobdjwilson/awesome-annual-security-reports#readme) ⭐ 1,177 | 🐛 5 | 📅 2026-08-23) - Exploring cybersecurity trends, insights, and challenges.
 * <b><code>  1131⭐</code></b> <b><code>   145🍴</code></b> [Hacking Spots](https://github.com/daviddias/awesome-hacking-locations#readme) ⭐ 1,131 | 🐛 9 | 📅 2025-08-24)
-* <b><code>  1061⭐</code></b> <b><code>    90🍴</code></b> [Password Cracking](https://github.com/n0kovo/awesome-password-cracking#readme) ⭐ 1,062 | 🐛 0 | 📅 2026-07-22) - The process of recovering passwords from data that has been stored in or transmitted by a system in scrambled form.
+* <b><code>  1064⭐</code></b> <b><code>    90🍴</code></b> [Password Cracking](https://github.com/n0kovo/awesome-password-cracking#readme) ⭐ 1,064 | 🐛 0 | 📅 2026-07-22) - The process of recovering passwords from data that has been stored in or transmitted by a system in scrambled form.
 * <b><code>   987⭐</code></b> <b><code>    98🍴</code></b> [Fuzzing](https://github.com/cpuu/awesome-fuzzing#readme) ⭐ 987 | 🐛 1 | 📅 2026-07-09) - Automated software testing technique that involves feeding pseudo-randomly generated input data.
-* <b><code>   626⭐</code></b> <b><code>    57🍴</code></b> [CI/CD Attacks](https://github.com/TupleType/awesome-cicd-attacks#readme) ⭐ 626 | 🐛 1 | 📅 2026-06-02) - Offensive research of systems and processes related to developing and deploying code.
-* <b><code>   598⭐</code></b> <b><code>   113🍴</code></b> [Prompt Injection](https://github.com/FonduAI/awesome-prompt-injection#readme) ⭐ 600 | 🐛 28 | 📅 2026-06-02) - A type of vulnerability that specifically targets machine learning models.
-* <b><code>   309⭐</code></b> <b><code>    21🍴</code></b> [Malware Persistence](https://github.com/Karneades/awesome-malware-persistence#readme) ⭐ 309 | 🐛 0 | 📅 2026-03-31) - Techniques that adversaries use to keep access to systems across restarts.
+* <b><code>   627⭐</code></b> <b><code>    57🍴</code></b> [CI/CD Attacks](https://github.com/TupleType/awesome-cicd-attacks#readme) ⭐ 627 | 🐛 1 | 📅 2026-06-02) - Offensive research of systems and processes related to developing and deploying code.
+* <b><code>   600⭐</code></b> <b><code>   113🍴</code></b> [Prompt Injection](https://github.com/FonduAI/awesome-prompt-injection#readme) ⭐ 600 | 🐛 28 | 📅 2026-06-02) - A type of vulnerability that specifically targets machine learning models.
+* <b><code>   310⭐</code></b> <b><code>    21🍴</code></b> [Malware Persistence](https://github.com/Karneades/awesome-malware-persistence#readme) ⭐ 310 | 🐛 0 | 📅 2026-03-31) - Techniques that adversaries use to keep access to systems across restarts.
 * <b><code>   261⭐</code></b> <b><code>    36🍴</code></b> [GDPR](https://github.com/bakke92/awesome-gdpr#readme) ⭐ 261 | 🐛 2 | 📅 2026-05-31) - Regulation on data protection and privacy for all individuals within EU.
 * <b><code>   246⭐</code></b> <b><code>    22🍴</code></b> [Suricata](https://github.com/satta/awesome-suricata#readme) ⭐ 246 | 🐛 0 | 📅 2026-08-20) - Intrusion detection/prevention system and network security monitoring engine.
 * <b><code>   200⭐</code></b> <b><code>    16🍴</code></b> [EVM Security](https://github.com/kareniel/awesome-evm-security#readme) ⭐ 200 | 🐛 0 | 📅 2022-06-06) - Understanding the Ethereum Virtual Machine security ecosystem.
@@ -623,60 +623,60 @@
 ## Content Management Systems
 
 * <b><code>  2187⭐</code></b> <b><code>   179🍴</code></b> [Wagtail](https://github.com/springload/awesome-wagtail#readme) ⭐ 2,187 | 🐛 0 | 🌐 Python | 📅 2026-06-16) - Django CMS focused on flexibility and user experience.
-* <b><code>   639⭐</code></b> <b><code>    37🍴</code></b> [Directus](https://github.com/directus-community/awesome-directus#readme) ⭐ 640 | 🐛 3 | 📅 2024-11-11) - A real-time API and app dashboard for managing SQL database content.
+* <b><code>   640⭐</code></b> <b><code>    37🍴</code></b> [Directus](https://github.com/directus-community/awesome-directus#readme) ⭐ 640 | 🐛 3 | 📅 2024-11-11) - A real-time API and app dashboard for managing SQL database content.
 * <b><code>   550⭐</code></b> <b><code>    55🍴</code></b> [Craft CMS](https://github.com/craftcms/awesome#readme) ⭐ 550 | 🐛 0 | 📅 2023-02-01) - Content-first CMS.
 * <b><code>   221⭐</code></b> <b><code>    43🍴</code></b> [Umbraco](https://github.com/umbraco-community/awesome-umbraco#readme) ⭐ 221 | 🐛 4 | 📅 2022-08-11)
 * <b><code>    97⭐</code></b> <b><code>     7🍴</code></b> [Drupal](https://github.com/nirgn975/awesome-drupal#readme) ⭐ 97 | 🐛 1 | 📅 2022-10-09) - Extensible PHP-based CMS.
 * <b><code>    93⭐</code></b> <b><code>     9🍴</code></b> [Payload](https://github.com/DanailMinchev/awesome-payload#readme) ⭐ 93 | 🐛 3 | 📅 2025-12-25) - Next.js native and open source headless CMS.
 * <b><code>    87⭐</code></b> <b><code>    17🍴</code></b> [Textpattern](https://github.com/drmonkeyninja/awesome-textpattern#readme) ⭐ 87 | 🐛 4 | 📅 2020-10-05) - Lightweight PHP-based CMS.
 * <b><code>    84⭐</code></b> <b><code>    17🍴</code></b> [Sitecore](https://github.com/MartinMiles/Awesome-Sitecore#readme) ⭐ 84 | 🐛 5 | 📅 2025-09-26) - .NET digital marketing platform that combines CMS with tools for managing multiple websites.
-* <b><code>    79⭐</code></b> <b><code>    11🍴</code></b> [Plone](https://github.com/collective/awesome-plone#readme) ⭐ 78 | 🐛 0 | 📅 2026-06-05) - Open source Python CMS.
+* <b><code>    78⭐</code></b> <b><code>    11🍴</code></b> [Plone](https://github.com/collective/awesome-plone#readme) ⭐ 78 | 🐛 0 | 📅 2026-06-05) - Open source Python CMS.
 * <b><code>    57⭐</code></b> <b><code>    15🍴</code></b> [Silverstripe CMS](https://github.com/wernerkrauss/awesome-silverstripe-cms#readme) ⭐ 57 | 🐛 2 | 🌐 Shell | 📅 2024-02-22) - PHP MVC framework that serves as a classic or headless CMS.
 * <b><code>    37⭐</code></b> <b><code>     2🍴</code></b> [Refinery CMS](https://github.com/refinerycms-contrib/awesome-refinerycms#readme) ⭐ 37 | 🐛 0 | 📅 2016-04-07) - Ruby on Rails CMS.
 
 ## Hardware
 
-* <b><code>  8048⭐</code></b> <b><code>   528🍴</code></b> [Electronics](https://github.com/kitspace/awesome-electronics#readme) ⭐ 8,051 | 🐛 30 | 📅 2026-01-05) - For electronic engineers and hobbyists.
-* <b><code>  6971⭐</code></b> <b><code>  1070🍴</code></b> [Robotics](https://github.com/Kiloreux/awesome-robotics#readme) ⭐ 6,975 | 🐛 37 | 📅 2024-09-22)
-* <b><code>  4474⭐</code></b> <b><code>   521🍴</code></b> [Internet of Things](https://github.com/HQarroum/awesome-iot#readme) ⭐ 4,474 | 🐛 8 | 📅 2026-08-10)
+* <b><code>  8054⭐</code></b> <b><code>   530🍴</code></b> [Electronics](https://github.com/kitspace/awesome-electronics#readme) ⭐ 8,054 | 🐛 30 | 📅 2026-01-05) - For electronic engineers and hobbyists.
+* <b><code>  6977⭐</code></b> <b><code>  1071🍴</code></b> [Robotics](https://github.com/Kiloreux/awesome-robotics#readme) ⭐ 6,978 | 🐛 37 | 📅 2024-09-22)
+* <b><code>  4475⭐</code></b> <b><code>   521🍴</code></b> [Internet of Things](https://github.com/HQarroum/awesome-iot#readme) ⭐ 4,475 | 🐛 8 | 📅 2026-08-10)
 * <b><code>  3884⭐</code></b> <b><code>   554🍴</code></b> [Robotic Tooling](https://github.com/protontypes/awesome-robotic-tooling#readme) ⭐ 3,884 | 🐛 13 | 📅 2023-11-20) - Free and open tools for professional robotic development.
-* <b><code>  1440⭐</code></b> <b><code>    95🍴</code></b> [Plotters](https://github.com/beardicus/awesome-plotters#readme) ⭐ 1,441 | 🐛 6 | 📅 2025-12-03) - Computer-controlled drawing machines and other visual art robots.
-* <b><code>  1326⭐</code></b> <b><code>   131🍴</code></b> [LIDAR](https://github.com/szenergy/awesome-lidar#readme) ⭐ 1,327 | 🐛 0 | 📅 2026-03-16) - Sensor for measuring distances by illuminating the target with laser light.
-* <b><code>  1031⭐</code></b> <b><code>    46🍴</code></b> [Open Hardware](https://github.com/delftopenhardware/awesome-open-hardware#readme) ⭐ 1,034 | 🐛 2 | 📅 2026-08-20) - Open-source hardware projects.
+* <b><code>  1443⭐</code></b> <b><code>    95🍴</code></b> [Plotters](https://github.com/beardicus/awesome-plotters#readme) ⭐ 1,443 | 🐛 6 | 📅 2025-12-03) - Computer-controlled drawing machines and other visual art robots.
+* <b><code>  1328⭐</code></b> <b><code>   131🍴</code></b> [LIDAR](https://github.com/szenergy/awesome-lidar#readme) ⭐ 1,328 | 🐛 0 | 📅 2026-03-16) - Sensor for measuring distances by illuminating the target with laser light.
+* <b><code>  1034⭐</code></b> <b><code>    46🍴</code></b> [Open Hardware](https://github.com/delftopenhardware/awesome-open-hardware#readme) ⭐ 1,034 | 🐛 2 | 📅 2026-08-20) - Open-source hardware projects.
 * <b><code>   958⭐</code></b> <b><code>   110🍴</code></b> [Bluetooth Beacons](https://github.com/rabschi/awesome-beacon#readme) ⭐ 958 | 🐛 1 | 📅 2019-05-03)
-* <b><code>   691⭐</code></b> <b><code>    67🍴</code></b> [Flying FPV](https://github.com/Matthias84/awesome-flying-fpv#readme) ⭐ 691 | 🐛 5 | 📅 2026-03-06) - Open hardware and software related to drones / UAVs.
+* <b><code>   692⭐</code></b> <b><code>    67🍴</code></b> [Flying FPV](https://github.com/Matthias84/awesome-flying-fpv#readme) ⭐ 692 | 🐛 5 | 📅 2026-03-06) - Open hardware and software related to drones / UAVs.
 * <b><code>   374⭐</code></b> <b><code>    33🍴</code></b> [ADS-B](https://github.com/rickstaa/awesome-adsb#readme) ⭐ 374 | 🐛 11 | 🌐 HTML | 📅 2026-06-19) - Technology broadcasting aircraft's identity, position, and data periodically.
 * <b><code>   285⭐</code></b> <b><code>    15🍴</code></b> [Electric Guitar Specifications](https://github.com/gitfrage/guitarspecs#readme) ⭐ 285 | 🐛 0 | 🌐 HTML | 📅 2023-06-25) - Checklist for building your own electric guitar.
 
 ## Business
 
-* <b><code> 17148⭐</code></b> <b><code>  1298🍴</code></b> [Tools of the Trade](https://github.com/cjbarber/ToolsOfTheTrade#readme) ⭐ 17,148 | 🐛 18 | 📅 2026-05-16) - Tools used by companies on Hacker News.
-* <b><code> 11718⭐</code></b> <b><code>   750🍴</code></b> [Indie](https://github.com/mezod/awesome-indie#readme) ⭐ 11,719 | 🐛 102 | 📅 2024-06-12) - Independent developer businesses.
-* <b><code>  6862⭐</code></b> <b><code>   503🍴</code></b> [Places to Post Your Startup](https://github.com/mmccaff/PlacesToPostYourStartup#readme) ⭐ 6,863 | 🐛 28 | 📅 2026-02-14)
-* <b><code>  2581⭐</code></b> <b><code>   186🍴</code></b> [Engineering Team Management](https://github.com/kdeldycke/awesome-engineering-team-management#readme) ⭐ 2,582 | 🐛 4 | 📅 2026-08-14) - How to transition from software development to engineering management.
-* <b><code>  1800⭐</code></b> <b><code>   187🍴</code></b> [OKR Methodology](https://github.com/domenicosolazzo/awesome-okr#readme) ⭐ 1,800 | 🐛 2 | 📅 2022-08-10) - Goal setting & communication best practices.
-* <b><code>  1785⭐</code></b> <b><code>   353🍴</code></b> [Developer-First Products](https://github.com/agamm/awesome-developer-first#readme) ⭐ 1,785 | 🐛 7 | 📅 2026-08-22) - Products that target developers as the user.
-* <b><code>  1363⭐</code></b> <b><code>    61🍴</code></b> [Engineering Strategy](https://github.com/aleixmorgadas/awesome-engineering-strategy#readme) ⭐ 1,363 | 🐛 1 | 📅 2026-02-27) - How to design and execute engineering strategies for tech leadership.
+* <b><code> 17151⭐</code></b> <b><code>  1297🍴</code></b> [Tools of the Trade](https://github.com/cjbarber/ToolsOfTheTrade#readme) ⭐ 17,151 | 🐛 18 | 📅 2026-05-16) - Tools used by companies on Hacker News.
+* <b><code> 11722⭐</code></b> <b><code>   750🍴</code></b> [Indie](https://github.com/mezod/awesome-indie#readme) ⭐ 11,722 | 🐛 103 | 📅 2024-06-12) - Independent developer businesses.
+* <b><code>  6863⭐</code></b> <b><code>   503🍴</code></b> [Places to Post Your Startup](https://github.com/mmccaff/PlacesToPostYourStartup#readme) ⭐ 6,863 | 🐛 28 | 📅 2026-02-14)
+* <b><code>  2582⭐</code></b> <b><code>   186🍴</code></b> [Engineering Team Management](https://github.com/kdeldycke/awesome-engineering-team-management#readme) ⭐ 2,582 | 🐛 4 | 📅 2026-08-14) - How to transition from software development to engineering management.
+* <b><code>  1800⭐</code></b> <b><code>   187🍴</code></b> [OKR Methodology](https://github.com/domenicosolazzo/awesome-okr#readme) ⭐ 1,801 | 🐛 2 | 📅 2022-08-10) - Goal setting & communication best practices.
+* <b><code>  1786⭐</code></b> <b><code>   354🍴</code></b> [Developer-First Products](https://github.com/agamm/awesome-developer-first#readme) ⭐ 1,786 | 🐛 8 | 📅 2026-08-22) - Products that target developers as the user.
+* <b><code>  1364⭐</code></b> <b><code>    61🍴</code></b> [Engineering Strategy](https://github.com/aleixmorgadas/awesome-engineering-strategy#readme) ⭐ 1,364 | 🐛 1 | 📅 2026-02-27) - How to design and execute engineering strategies for tech leadership.
 * <b><code>  1329⭐</code></b> <b><code>   102🍴</code></b> [Billing](https://github.com/kdeldycke/awesome-billing#readme) ⭐ 1,329 | 🐛 2 | 📅 2026-08-14) - Payments, invoicing, pricing, accounting, marketplace, fraud, and business intelligence.
-* <b><code>  1247⭐</code></b> <b><code>    52🍴</code></b> [Open Companies](https://github.com/opencompany/awesome-open-company#readme) ⭐ 1,248 | 🐛 12 | 📅 2024-03-30)
+* <b><code>  1248⭐</code></b> <b><code>    52🍴</code></b> [Open Companies](https://github.com/opencompany/awesome-open-company#readme) ⭐ 1,248 | 🐛 12 | 📅 2024-03-30)
 * <b><code>   818⭐</code></b> <b><code>    68🍴</code></b> [Wardley Maps](https://github.com/wardley-maps-community/awesome-wardley-maps#readme) ⭐ 818 | 🐛 0 | 🌐 HTML | 📅 2026-03-06) - Provides high situational awareness to help improve strategic planning and decision making.
 * <b><code>   471⭐</code></b> <b><code>    65🍴</code></b> [Clean Tech](https://github.com/nglgzz/awesome-clean-tech#readme) ⭐ 471 | 🐛 17 | 📅 2026-03-13) - Fighting climate change with technology.
 * <b><code>   147⭐</code></b> <b><code>     8🍴</code></b> [Social Enterprise](https://github.com/RayBB/awesome-social-enterprise#readme) ⭐ 147 | 🐛 0 | 📅 2024-12-23) - Building an organization primarily focused on social impact that is at least partially self-funded.
 
 ## Work
 
-* <b><code> 47868⭐</code></b> <b><code>  4750🍴</code></b> [Remote Jobs](https://github.com/lukasz-madon/awesome-remote-job#readme) ⭐ 47,903 | 🐛 80 | 📅 2026-08-16)
-* <b><code>  5129⭐</code></b> <b><code>   387🍴</code></b> [Code Review](https://github.com/joho/awesome-code-review#readme) ⭐ 5,129 | 🐛 75 | 📅 2024-09-09) - Reviewing code.
-* <b><code>  3332⭐</code></b> <b><code>   337🍴</code></b> [Productivity](https://github.com/jyguyomarch/awesome-productivity#readme) ⭐ 3,332 | 🐛 183 | 📅 2024-08-14)
-* <b><code>  1849⭐</code></b> <b><code>   264🍴</code></b> [Niche Job Boards](https://github.com/tramcar/awesome-job-boards#readme) ⭐ 1,848 | 🐛 23 | 📅 2026-07-29)
+* <b><code> 47961⭐</code></b> <b><code>  4754🍴</code></b> [Remote Jobs](https://github.com/lukasz-madon/awesome-remote-job#readme) ⭐ 47,972 | 🐛 80 | 📅 2026-08-16)
+* <b><code>  5131⭐</code></b> <b><code>   387🍴</code></b> [Code Review](https://github.com/joho/awesome-code-review#readme) ⭐ 5,131 | 🐛 75 | 📅 2024-09-09) - Reviewing code.
+* <b><code>  3332⭐</code></b> <b><code>   339🍴</code></b> [Productivity](https://github.com/jyguyomarch/awesome-productivity#readme) ⭐ 3,332 | 🐛 184 | 📅 2024-08-14)
+* <b><code>  1849⭐</code></b> <b><code>   265🍴</code></b> [Niche Job Boards](https://github.com/tramcar/awesome-job-boards#readme) ⭐ 1,850 | 🐛 22 | 📅 2026-07-29)
 * <b><code>   892⭐</code></b> <b><code>    93🍴</code></b> [Slack](https://github.com/matiassingers/awesome-slack#readme) ⭐ 892 | 🐛 13 | 📅 2025-07-28) - Team collaboration.
   * <b><code>   342⭐</code></b> <b><code>    46🍴</code></b> [Communities](https://github.com/filipelinhares/awesome-slack#readme) ⭐ 342 | 🐛 1 | 📅 2023-05-23)
 * <b><code>   658⭐</code></b> <b><code>    44🍴</code></b> [Creative Technology](https://github.com/j0hnm4r5/awesome-creative-technology#readme) ⭐ 658 | 🐛 2 | 🌐 TypeScript | 📅 2026-06-28) - Businesses & groups that specialize in combining computing, design, art, and user experience.
 
 ## Networking
 
-* <b><code>  3414⭐</code></b> <b><code>   479🍴</code></b> [PCAPTools](https://github.com/caesar0301/awesome-pcaptools#readme) ⭐ 3,414 | 🐛 14 | 📅 2025-09-03)
-* <b><code>   495⭐</code></b> <b><code>    47🍴</code></b> [Real-Time Communications](https://github.com/rtckit/awesome-rtc#readme) ⭐ 494 | 🐛 8 | 📅 2026-05-18) - Network protocols for near simultaneous exchange of media and data.
+* <b><code>  3415⭐</code></b> <b><code>   479🍴</code></b> [PCAPTools](https://github.com/caesar0301/awesome-pcaptools#readme) ⭐ 3,415 | 🐛 14 | 📅 2025-09-03)
+* <b><code>   494⭐</code></b> <b><code>    47🍴</code></b> [Real-Time Communications](https://github.com/rtckit/awesome-rtc#readme) ⭐ 494 | 🐛 8 | 📅 2026-05-18) - Network protocols for near simultaneous exchange of media and data.
 * <b><code>   366⭐</code></b> <b><code>    48🍴</code></b> [Scapy](https://github.com/secdev/awesome-scapy#readme) ⭐ 366 | 🐛 2 | 📅 2025-06-09) - Python-based interactive packet manipulation.
 * <b><code>   191⭐</code></b> <b><code>    12🍴</code></b> [SNMP](https://github.com/eozer/awesome-snmp#readme) ⭐ 191 | 🐛 3 | 📅 2026-03-30) - A protocol for collecting, modifying, and organizing information about managed devices on IP networks.
 * <b><code>   101⭐</code></b> <b><code>    11🍴</code></b> [Cilium](https://github.com/seifrajhi/awesome-cilium#readme) ⭐ 101 | 🐛 0 | 📅 2024-10-22) - Provides networking and security capabilities for containerized apps, microservices, and virtual machines.
@@ -684,13 +684,13 @@
 ## Decentralized Systems
 
 * <b><code>  1352⭐</code></b> <b><code>   268🍴</code></b> [Bitcoin](https://github.com/igorbarinov/awesome-bitcoin#readme) ⭐ 1,352 | 🐛 12 | 📅 2026-08-12) - Services and tools for Bitcoin software developers.
-* <b><code>  1152⭐</code></b> <b><code>   225🍴</code></b> [Blockchain AI](https://github.com/steven2358/awesome-blockchain-ai#readme) ⭐ 1,154 | 🐛 41 | 📅 2026-02-06) - AI and machine-learning projects built on Blockchain.
+* <b><code>  1154⭐</code></b> <b><code>   225🍴</code></b> [Blockchain AI](https://github.com/steven2358/awesome-blockchain-ai#readme) ⭐ 1,154 | 🐛 41 | 📅 2026-02-06) - AI and machine-learning projects built on Blockchain.
 * <b><code>   775⭐</code></b> <b><code>   149🍴</code></b> [Substrate](https://github.com/substrate-developer-hub/awesome-substrate#readme) ⭐ 775 | 🐛 19 | 📅 2024-04-20) - Framework for writing scalable, upgradeable blockchains in Rust.
 * <b><code>   673⭐</code></b> <b><code>    83🍴</code></b> [Non-Financial Blockchain](https://github.com/machinomy/awesome-non-financial-blockchain#readme) ⭐ 673 | 🐛 4 | 📅 2020-10-12) - Applications of Blockchain beyond finance.
 * <b><code>   600⭐</code></b> <b><code>   173🍴</code></b> [Cosmos SDK](https://github.com/cosmos/awesome-cosmos#readme) ⭐ 600 | 🐛 10 | 📅 2026-04-13) - Modular framework for building app-specific blockchains in Go.
 * <b><code>   364⭐</code></b> <b><code>    61🍴</code></b> [Ethereum](https://github.com/ttumiel/Awesome-Ethereum#readme) ⭐ 364 | 🐛 19 | 📅 2024-07-12) - Distributed computing platform for smart contract development.
 * <b><code>   243⭐</code></b> <b><code>    27🍴</code></b> [Golem](https://github.com/golemfactory/awesome-golem#readme) ⭐ 243 | 🐛 2 | 📅 2024-01-16) - Open source peer-to-peer marketplace for computing resources.
-* <b><code>   218⭐</code></b> <b><code>    75🍴</code></b> [Algorand](https://github.com/aorumbayev/awesome-algorand#readme) ⭐ 217 | 🐛 4 | 📅 2026-06-30) - An open-source, proof of stake Blockchain and smart contract computing platform.
+* <b><code>   217⭐</code></b> <b><code>    76🍴</code></b> [Algorand](https://github.com/aorumbayev/awesome-algorand#readme) ⭐ 217 | 🐛 5 | 📅 2026-06-30) - An open-source, proof of stake Blockchain and smart contract computing platform.
 * <b><code>   200⭐</code></b> <b><code>    25🍴</code></b> [Ripple](https://github.com/vhpoet/awesome-ripple#readme) ⭐ 200 | 🐛 2 | 📅 2021-07-02) - Open source distributed settlement network.
 * <b><code>   124⭐</code></b> <b><code>    29🍴</code></b> [Stacks](https://github.com/friedger/awesome-stacks-chain#readme) ⭐ 124 | 🐛 4 | 📅 2025-12-19) - A smart contract platform secured by Bitcoin.
 * <b><code>   120⭐</code></b> <b><code>    12🍴</code></b> [Tor](https://github.com/polycarbohydrate/awesome-tor#readme) ⭐ 120 | 🐛 0 | 📅 2026-06-20) - A free overlay network for enabling anonymous communication.
@@ -698,97 +698,97 @@
 * <b><code>    88⭐</code></b> <b><code>    27🍴</code></b> [Waves](https://github.com/msmolyakov/awesome-waves#readme) ⭐ 88 | 🐛 1 | 📅 2020-10-05) - Open source Blockchain platform and development toolset for Web 3.0 apps and decentralized solutions.
 * <b><code>    87⭐</code></b> <b><code>    22🍴</code></b> [EOSIO](https://github.com/DanailMinchev/awesome-eosio#readme) ⭐ 87 | 🐛 2 | 🌐 Shell | 📅 2026-03-25) - A decentralized operating system supporting industrial-scale apps.
 * <b><code>    77⭐</code></b> <b><code>    21🍴</code></b> [Corda](https://github.com/chainstack/awesome-corda#readme) ⭐ 77 | 🐛 0 | 📅 2021-08-10) - Open source Blockchain platform designed for business.
-* <b><code>    76⭐</code></b> <b><code>     7🍴</code></b> [ATProto](https://github.com/atblueprints/awesome-atproto#readme) ⭐ 75 | 🐛 4 | 📅 2026-06-21) - Open, decentralized network for building social apps.
+* <b><code>    75⭐</code></b> <b><code>     7🍴</code></b> [ATProto](https://github.com/atblueprints/awesome-atproto#readme) ⭐ 75 | 🐛 4 | 📅 2026-06-21) - Open, decentralized network for building social apps.
 * <b><code>    63⭐</code></b> <b><code>     7🍴</code></b> [Mastodon](https://github.com/hyperupcall/awesome-mastodon#readme) ⭐ 63 | 🐛 0 | 🌐 Markdown | 📅 2026-06-22) - Open source decentralized microblogging network.
 
 ## Health and Social Science
 
-* <b><code>  3949⭐</code></b> <b><code>   550🍴</code></b> [Healthcare](https://github.com/kakoni/awesome-healthcare#readme) ⭐ 3,950 | 🐛 64 | 📅 2026-05-05) - Open source healthcare software for facilities, providers, developers, policy experts, and researchers.
-* <b><code>  3630⭐</code></b> <b><code>   205🍴</code></b> [Mental Health](https://github.com/dreamingechoes/awesome-mental-health#readme) ⭐ 3,631 | 🐛 46 | 🌐 HTML | 📅 2025-05-02) - Awareness and self-care in the software industry.
-* <b><code>  1700⭐</code></b> <b><code>   180🍴</code></b> [Neuroscience](https://github.com/analyticalmonk/awesome-neuroscience#readme) ⭐ 1,700 | 🐛 6 | 📅 2026-06-24) - Study of the nervous system and brain.
-* <b><code>   991⭐</code></b> <b><code>    87🍴</code></b> [Computational Neuroscience](https://github.com/eselkin/awesome-computational-neuroscience#readme) ⭐ 993 | 🐛 7 | 📅 2024-08-02) - A multidisciplinary science which uses computational approaches to study the nervous system.
+* <b><code>  3950⭐</code></b> <b><code>   550🍴</code></b> [Healthcare](https://github.com/kakoni/awesome-healthcare#readme) ⭐ 3,950 | 🐛 64 | 📅 2026-05-05) - Open source healthcare software for facilities, providers, developers, policy experts, and researchers.
+* <b><code>  3631⭐</code></b> <b><code>   205🍴</code></b> [Mental Health](https://github.com/dreamingechoes/awesome-mental-health#readme) ⭐ 3,631 | 🐛 46 | 🌐 HTML | 📅 2025-05-02) - Awareness and self-care in the software industry.
+* <b><code>  1701⭐</code></b> <b><code>   181🍴</code></b> [Neuroscience](https://github.com/analyticalmonk/awesome-neuroscience#readme) ⭐ 1,702 | 🐛 6 | 📅 2026-06-24) - Study of the nervous system and brain.
+* <b><code>   993⭐</code></b> <b><code>    88🍴</code></b> [Computational Neuroscience](https://github.com/eselkin/awesome-computational-neuroscience#readme) ⭐ 993 | 🐛 7 | 📅 2024-08-02) - A multidisciplinary science which uses computational approaches to study the nervous system.
 * <b><code>   659⭐</code></b> <b><code>    74🍴</code></b> [Diversity](https://github.com/folkswhocode/awesome-diversity#readme) ⭐ 659 | 🐛 15 | 📅 2024-04-14) - Creating a more inclusive and diverse tech community.
 * <b><code>   578⭐</code></b> <b><code>    24🍴</code></b> [Empathy in Engineering](https://github.com/KimberlyMunoz/empathy-in-engineering#readme) ⭐ 578 | 🐛 5 | 📅 2016-07-29) - Building and promoting more compassionate engineering cultures.
-* <b><code>   464⭐</code></b> <b><code>    41🍴</code></b> [Biomedical Information Extraction](https://github.com/caufieldjh/awesome-bioie#readme) ⭐ 464 | 🐛 8 | 📅 2026-05-26) - How to extract information from unstructured biomedical data and text.
-* <b><code>   406⭐</code></b> <b><code>    47🍴</code></b> [Digital Humanities](https://github.com/dh-tech/awesome-digital-humanities#readme) ⭐ 406 | 🐛 3 | 🌐 SCSS | 📅 2026-08-19) - Software for humanities scholars using quantitative or computational methods.
+* <b><code>   464⭐</code></b> <b><code>    40🍴</code></b> [Biomedical Information Extraction](https://github.com/caufieldjh/awesome-bioie#readme) ⭐ 464 | 🐛 8 | 📅 2026-05-26) - How to extract information from unstructured biomedical data and text.
+* <b><code>   407⭐</code></b> <b><code>    48🍴</code></b> [Digital Humanities](https://github.com/dh-tech/awesome-digital-humanities#readme) ⭐ 407 | 🐛 3 | 🌐 SCSS | 📅 2026-08-19) - Software for humanities scholars using quantitative or computational methods.
 * <b><code>   349⭐</code></b> <b><code>    39🍴</code></b> [Digital History](https://github.com/maehr/awesome-digital-history#readme) ⭐ 349 | 🐛 13 | 🌐 JavaScript | 📅 2026-08-21) - Computer-aided scientific investigation of history.
-* <b><code>   160⭐</code></b> <b><code>     7🍴</code></b> [Lucid Dreams](https://github.com/IAmCoder/awesome-lucid-dreams#readme) ⭐ 160 | 🐛 1 | 📅 2025-12-18) - A dream where one becomes aware they are dreaming.
+* <b><code>   161⭐</code></b> <b><code>     7🍴</code></b> [Lucid Dreams](https://github.com/IAmCoder/awesome-lucid-dreams#readme) ⭐ 161 | 🐛 1 | 📅 2025-12-18) - A dream where one becomes aware they are dreaming.
 * <b><code>    96⭐</code></b> <b><code>     7🍴</code></b> [Transgender](https://github.com/cvyl/awesome-transgender#readme) ⭐ 96 | 🐛 5 | 📅 2026-08-16) - Someone whose gender identity differs from their assigned birth sex.
-* <b><code>    47⭐</code></b> <b><code>     4🍴</code></b> [Neuroimaging](https://github.com/NPACore/awesome-neuroimaging#readme) ⭐ 47 | 🐛 2 | 📅 2025-04-09) - Software for analyzing brain data from living subjects.
+* <b><code>    48⭐</code></b> <b><code>     5🍴</code></b> [Neuroimaging](https://github.com/NPACore/awesome-neuroimaging#readme) ⭐ 48 | 🐛 1 | 🌐 Makefile | 📅 2026-08-24) - Software for analyzing brain data from living subjects.
 
 ## Events
 
 * <b><code>   210⭐</code></b> <b><code>    10🍴</code></b> [Creative Tech Events](https://github.com/danvoyce/awesome-creative-tech-events#readme) ⭐ 210 | 🐛 10 | 📅 2023-02-03) - Events around the globe for creative coding, tech, design, music, arts and cool stuff.
 * <b><code>   151⭐</code></b> <b><code>    16🍴</code></b> [Events in Italy](https://github.com/ildoc/awesome-italy-events#readme) ⭐ 151 | 🐛 1 | 🌐 Python | 📅 2022-04-14) - Tech-related events in Italy.
-* <b><code>    71⭐</code></b> <b><code>     7🍴</code></b> [Events in the Netherlands](https://github.com/awkward/awesome-netherlands-events#readme) ⭐ 71 | 🐛 1 | 📅 2024-05-11) - Tech-related events in the Netherlands.
+* <b><code>    72⭐</code></b> <b><code>     7🍴</code></b> [Events in the Netherlands](https://github.com/awkward/awesome-netherlands-events#readme) ⭐ 72 | 🐛 1 | 📅 2024-05-11) - Tech-related events in the Netherlands.
 
 ## Testing
 
-* <b><code>  2414⭐</code></b> <b><code>   245🍴</code></b> [Visual Regression Testing](https://github.com/mojoaxel/awesome-regression-testing#readme) ⭐ 2,414 | 🐛 16 | 📅 2026-05-27) - Ensures changes did not break the functionality or style.
-* <b><code>  2353⭐</code></b> <b><code>   403🍴</code></b> [Testing](https://github.com/TheJambo/awesome-testing#readme) ⭐ 2,355 | 🐛 5 | 📅 2026-08-22) - Software testing.
-* <b><code>  2162⭐</code></b> <b><code>   366🍴</code></b> [Quality Assurance Roadmap](https://github.com/fityanos/awesome-quality-assurance-roadmap#readme) ⭐ 2,165 | 🐛 9 | 📅 2026-06-04) - How to start & build a career in software testing.
-* <b><code>  1560⭐</code></b> <b><code>   277🍴</code></b> [Playwright](https://github.com/mxschmitt/awesome-playwright#readme) ⭐ 1,560 | 🐛 5 | 📅 2026-08-12) - Node.js library to automate Chromium, Firefox and WebKit with a single API.
+* <b><code>  2414⭐</code></b> <b><code>   246🍴</code></b> [Visual Regression Testing](https://github.com/mojoaxel/awesome-regression-testing#readme) ⭐ 2,414 | 🐛 17 | 📅 2026-05-27) - Ensures changes did not break the functionality or style.
+* <b><code>  2355⭐</code></b> <b><code>   407🍴</code></b> [Testing](https://github.com/TheJambo/awesome-testing#readme) ⭐ 2,355 | 🐛 5 | 📅 2026-08-22) - Software testing.
+* <b><code>  2165⭐</code></b> <b><code>   366🍴</code></b> [Quality Assurance Roadmap](https://github.com/fityanos/awesome-quality-assurance-roadmap#readme) ⭐ 2,165 | 🐛 9 | 📅 2026-06-04) - How to start & build a career in software testing.
+* <b><code>  1560⭐</code></b> <b><code>   279🍴</code></b> [Playwright](https://github.com/mxschmitt/awesome-playwright#readme) ⭐ 1,560 | 🐛 7 | 📅 2026-08-12) - Node.js library to automate Chromium, Firefox and WebKit with a single API.
 * <b><code>  1131⭐</code></b> <b><code>   172🍴</code></b> [Selenium](https://github.com/christian-bromann/awesome-selenium#readme) ⭐ 1,131 | 🐛 5 | 📅 2026-03-17) - Open-source browser automation framework and ecosystem.
 * <b><code>   807⭐</code></b> <b><code>   213🍴</code></b> [JMeter](https://github.com/aliesbelik/awesome-jmeter#readme) ⭐ 807 | 🐛 4 | 🌐 HTML | 📅 2026-08-01) - Load testing and performance measurement tool.
 * <b><code>   774⭐</code></b> <b><code>    66🍴</code></b> [k6](https://github.com/grafana/awesome-k6#readme) ⭐ 774 | 🐛 3 | 📅 2026-08-18) - Open-source, developer-centric performance monitoring and load testing solution.
 * <b><code>   654⭐</code></b> <b><code>    37🍴</code></b> [TAP](https://github.com/sindresorhus/awesome-tap#readme) ⭐ 654 | 🐛 0 | 📅 2025-11-11) - Test Anything Protocol.
-* <b><code>   483⭐</code></b> <b><code>    68🍴</code></b> [CodeRabbit](https://github.com/coderabbitai/awesome-coderabbit#readme) ⭐ 483 | 🐛 13 | 📅 2026-06-25) - AI-powered code review platform.
+* <b><code>   483⭐</code></b> <b><code>    69🍴</code></b> [CodeRabbit](https://github.com/coderabbitai/awesome-coderabbit#readme) ⭐ 483 | 🐛 13 | 📅 2026-06-25) - AI-powered code review platform.
 * <b><code>   464⭐</code></b> <b><code>   142🍴</code></b> [Appium](https://github.com/SrinivasanTarget/awesome-appium#readme) ⭐ 464 | 🐛 7 | 📅 2021-09-28) - Test automation tool for apps.
 * <b><code>    79⭐</code></b> <b><code>     8🍴</code></b> [Gatling](https://github.com/aliesbelik/awesome-gatling#readme) ⭐ 79 | 🐛 0 | 📅 2026-08-09) - Open-source load and performance testing framework based on Scala, Akka, and Netty.
 
 ## Miscellaneous
 
-* <b><code>498647⭐</code></b> <b><code> 36514🍴</code></b> [Awesome](https://github.com/sindresorhus/awesome#readme) ⭐ 499,018 | 🐛 106 | 📅 2026-08-21) - Recursion illustrated.
-* <b><code>314167⭐</code></b> <b><code> 14757🍴</code></b> [Self Hosted](https://github.com/awesome-selfhosted/awesome-selfhosted#readme) ⭐ 314,380 | 🐛 0 | 📅 2026-08-22)
-* <b><code>133201⭐</code></b> <b><code> 13975🍴</code></b> [Free for Developers](https://github.com/ripienaar/free-for-dev#readme) ⭐ 133,959 | 🐛 13 | 🌐 HTML | 📅 2026-08-22)
-* <b><code> 88596⭐</code></b> <b><code>  7975🍴</code></b> [Beginner-Friendly Projects](https://github.com/MunGell/awesome-for-beginners#readme) ⭐ 88,624 | 🐛 145 | 📅 2026-07-25)
-* <b><code> 52778⭐</code></b> <b><code>  4605🍴</code></b> [Claude Code](https://github.com/hesreallyhim/awesome-claude-code#readme) ⭐ 52,833 | 🐛 916 | 🌐 Python | 📅 2026-08-23) - Terminal-based AI coding assistant by Anthropic.
-* <b><code> 38537⭐</code></b> <b><code>  2030🍴</code></b> [Software Engineering Blogs](https://github.com/kilimchoi/engineering-blogs#readme) ⭐ 38,539 | 🐛 150 | 🌐 Ruby | 📅 2024-08-21)
-* <b><code> 27634⭐</code></b> <b><code>   643🍴</code></b> [Falsehood](https://github.com/kdeldycke/awesome-falsehood#readme) ⭐ 27,637 | 🐛 4 | 📅 2026-08-14) - Falsehoods programmers believe in.
-* <b><code> 21356⭐</code></b> <b><code>  3960🍴</code></b> [Readme](https://github.com/matiassingers/awesome-readme#readme) ⭐ 21,357 | 🐛 1 | 📅 2026-08-20)
-* <b><code> 15228⭐</code></b> <b><code>   971🍴</code></b> [Creative Coding](https://github.com/terkelg/awesome-creative-coding#readme) ⭐ 15,235 | 🐛 7 | 🌐 HTML | 📅 2026-07-21) - Programming something expressive instead of something functional.
-* <b><code> 15100⭐</code></b> <b><code>  1243🍴</code></b> [GraphQL](https://github.com/chentsulin/awesome-graphql#readme) ⭐ 15,101 | 🐛 6 | 📅 2026-08-14)
-* <b><code> 14489⭐</code></b> <b><code>  1859🍴</code></b> [Microservices](https://github.com/mfornos/awesome-microservices#readme) ⭐ 14,490 | 🐛 8 | 📅 2026-08-20)
-* <b><code> 13451⭐</code></b> <b><code>  1784🍴</code></b> [Site Reliability Engineering](https://github.com/dastergon/awesome-sre#readme) ⭐ 13,456 | 🐛 97 | 📅 2025-08-28)
-* <b><code> 12334⭐</code></b> <b><code>  1397🍴</code></b> [Domain-Driven Design](https://github.com/heynickc/awesome-ddd#readme) ⭐ 12,336 | 🐛 4 | 📅 2026-08-10) - Software development approach for complex needs by connecting the implementation to an evolving model.
-* <b><code>  6382⭐</code></b> <b><code>   463🍴</code></b> [ChatGPT](https://github.com/sindresorhus/awesome-chatgpt#readme) ⭐ 6,384 | 🐛 6 | 📅 2026-02-15) - Artificial intelligence chatbot developed by OpenAI.
-* <b><code>  4663⭐</code></b> <b><code>   463🍴</code></b> [Jupyter](https://github.com/markusschanta/awesome-jupyter#readme) ⭐ 4,662 | 🐛 16 | 📅 2026-08-22) - Create and share documents that contain code, equations, visualizations and narrative text.
-* <b><code>  4384⭐</code></b> <b><code>   468🍴</code></b> [Data Visualization](https://github.com/javierluraschi/awesome-dataviz#readme) ⭐ 4,385 | 🐛 39 | 📅 2024-01-26)
-* <b><code>  4302⭐</code></b> <b><code>   498🍴</code></b> [Analytics](https://github.com/0xnr/awesome-analytics#readme) ⭐ 4,303 | 🐛 58 | 📅 2026-02-17)
-* <b><code>  4250⭐</code></b> <b><code>   728🍴</code></b> [Bioinformatics](https://github.com/danielecook/Awesome-Bioinformatics#readme) ⭐ 4,251 | 🐛 35 | 📅 2026-04-07)
-* <b><code>  4093⭐</code></b> <b><code>   287🍴</code></b> [Crypto Currency Tools & Algorithms](https://github.com/Zheaoli/awesome-coins#readme) ⭐ 4,094 | 🐛 23 | 📅 2023-07-20) - Digital currency where encryption is used to regulate the generation of units and verify transfers.
+* <b><code>499303⭐</code></b> <b><code> 36554🍴</code></b> [Awesome](https://github.com/sindresorhus/awesome#readme) ⭐ 499,331 | 🐛 106 | 📅 2026-08-21) - Recursion illustrated.
+* <b><code>314549⭐</code></b> <b><code> 14766🍴</code></b> [Self Hosted](https://github.com/awesome-selfhosted/awesome-selfhosted#readme) ⭐ 314,565 | 🐛 0 | 📅 2026-08-22)
+* <b><code>134408⭐</code></b> <b><code> 14062🍴</code></b> [Free for Developers](https://github.com/ripienaar/free-for-dev#readme) ⭐ 134,510 | 🐛 14 | 🌐 HTML | 📅 2026-08-23)
+* <b><code> 88650⭐</code></b> <b><code>  7978🍴</code></b> [Beginner-Friendly Projects](https://github.com/MunGell/awesome-for-beginners#readme) ⭐ 88,651 | 🐛 146 | 📅 2026-07-25)
+* <b><code> 52878⭐</code></b> <b><code>  4615🍴</code></b> [Claude Code](https://github.com/hesreallyhim/awesome-claude-code#readme) ⭐ 52,886 | 🐛 921 | 🌐 Python | 📅 2026-08-24) - Terminal-based AI coding assistant by Anthropic.
+* <b><code> 38543⭐</code></b> <b><code>  2031🍴</code></b> [Software Engineering Blogs](https://github.com/kilimchoi/engineering-blogs#readme) ⭐ 38,543 | 🐛 150 | 🌐 Ruby | 📅 2024-08-21)
+* <b><code> 27641⭐</code></b> <b><code>   643🍴</code></b> [Falsehood](https://github.com/kdeldycke/awesome-falsehood#readme) ⭐ 27,642 | 🐛 4 | 📅 2026-08-14) - Falsehoods programmers believe in.
+* <b><code> 21362⭐</code></b> <b><code>  3960🍴</code></b> [Readme](https://github.com/matiassingers/awesome-readme#readme) ⭐ 21,362 | 🐛 1 | 📅 2026-08-20)
+* <b><code> 15238⭐</code></b> <b><code>   972🍴</code></b> [Creative Coding](https://github.com/terkelg/awesome-creative-coding#readme) ⭐ 15,238 | 🐛 7 | 🌐 HTML | 📅 2026-07-21) - Programming something expressive instead of something functional.
+* <b><code> 15105⭐</code></b> <b><code>  1243🍴</code></b> [GraphQL](https://github.com/chentsulin/awesome-graphql#readme) ⭐ 15,105 | 🐛 6 | 📅 2026-08-14)
+* <b><code> 14491⭐</code></b> <b><code>  1859🍴</code></b> [Microservices](https://github.com/mfornos/awesome-microservices#readme) ⭐ 14,491 | 🐛 8 | 📅 2026-08-20)
+* <b><code> 13458⭐</code></b> <b><code>  1784🍴</code></b> [Site Reliability Engineering](https://github.com/dastergon/awesome-sre#readme) ⭐ 13,458 | 🐛 97 | 📅 2025-08-28)
+* <b><code> 12339⭐</code></b> <b><code>  1397🍴</code></b> [Domain-Driven Design](https://github.com/heynickc/awesome-ddd#readme) ⭐ 12,339 | 🐛 4 | 📅 2026-08-10) - Software development approach for complex needs by connecting the implementation to an evolving model.
+* <b><code>  6385⭐</code></b> <b><code>   464🍴</code></b> [ChatGPT](https://github.com/sindresorhus/awesome-chatgpt#readme) ⭐ 6,385 | 🐛 6 | 📅 2026-02-15) - Artificial intelligence chatbot developed by OpenAI.
+* <b><code>  4663⭐</code></b> <b><code>   461🍴</code></b> [Jupyter](https://github.com/markusschanta/awesome-jupyter#readme) ⭐ 4,663 | 🐛 16 | 📅 2026-08-23) - Create and share documents that contain code, equations, visualizations and narrative text.
+* <b><code>  4386⭐</code></b> <b><code>   468🍴</code></b> [Data Visualization](https://github.com/javierluraschi/awesome-dataviz#readme) ⭐ 4,386 | 🐛 39 | 📅 2024-01-26)
+* <b><code>  4303⭐</code></b> <b><code>   499🍴</code></b> [Analytics](https://github.com/0xnr/awesome-analytics#readme) ⭐ 4,303 | 🐛 58 | 📅 2026-02-17)
+* <b><code>  4252⭐</code></b> <b><code>   727🍴</code></b> [Bioinformatics](https://github.com/danielecook/Awesome-Bioinformatics#readme) ⭐ 4,253 | 🐛 35 | 📅 2026-04-07)
+* <b><code>  4095⭐</code></b> <b><code>   287🍴</code></b> [Crypto Currency Tools & Algorithms](https://github.com/Zheaoli/awesome-coins#readme) ⭐ 4,095 | 🐛 23 | 📅 2023-07-20) - Digital currency where encryption is used to regulate the generation of units and verify transfers.
 * <b><code>  3917⭐</code></b> <b><code>   195🍴</code></b> [Stacks](https://github.com/stackshareio/awesome-stacks#readme) ⭐ 3,917 | 🐛 13 | 🌐 JavaScript | 📅 2024-03-08) - Tech stacks for building different apps and features.
 * <b><code>  3906⭐</code></b> <b><code>   443🍴</code></b> [REST](https://github.com/marmelab/awesome-rest#readme) ⭐ 3,906 | 🐛 22 | 📅 2026-05-13)
 * <b><code>  3713⭐</code></b> <b><code>   288🍴</code></b> [Vulkan](https://github.com/vinjn/awesome-vulkan#readme) ⭐ 3,713 | 🐛 5 | 📅 2026-05-11) - Low-overhead, cross-platform 3D graphics and compute API.
 * <b><code>  3691⭐</code></b> <b><code>   316🍴</code></b> [Services Engineering](https://github.com/mmcgrana/services-engineering#readme) ⭐ 3,691 | 🐛 48 | 📅 2022-10-02)
-* <b><code>  3480⭐</code></b> <b><code>   148🍴</code></b> [Userscripts](https://github.com/bvolpato/awesome-userscripts#readme) ⭐ 3,484 | 🐛 2 | 🌐 JavaScript | 📅 2026-08-13) - Enhance your browsing experience.
+* <b><code>  3486⭐</code></b> <b><code>   150🍴</code></b> [Userscripts](https://github.com/bvolpato/awesome-userscripts#readme) ⭐ 3,486 | 🐛 3 | 🌐 JavaScript | 📅 2026-08-24) - Enhance your browsing experience.
 * <b><code>  3343⭐</code></b> <b><code>   285🍴</code></b> [Discounts for Student Developers](https://github.com/AchoArnold/discount-for-student-dev#readme) ⭐ 3,343 | 🐛 0 | 📅 2025-06-05)
-* <b><code>  3329⭐</code></b> <b><code>   384🍴</code></b> [No-Login Web Apps](https://github.com/aviaryan/awesome-no-login-web-apps#readme) ⭐ 3,331 | 🐛 215 | 🌐 Shell | 📅 2024-04-30) - Web apps that work without login.
-* <b><code>  3148⭐</code></b> <b><code>   220🍴</code></b> [Katas](https://github.com/gamontal/awesome-katas#readme) ⭐ 3,149 | 🐛 1 | 📅 2026-07-16)
-* <b><code>  2871⭐</code></b> <b><code>   205🍴</code></b> [Software Architecture](https://github.com/simskij/awesome-software-architecture#readme) ⭐ 2,872 | 🐛 1 | 📅 2026-04-19) - The discipline of designing and building software.
-* <b><code>  2867⭐</code></b> <b><code>   181🍴</code></b> [Free Software](https://github.com/johnjago/awesome-free-software#readme) ⭐ 2,868 | 🐛 39 | 📅 2025-04-29) - Free as in freedom.
-* <b><code>  2760⭐</code></b> <b><code>   222🍴</code></b> [Quantified Self](https://github.com/woop/awesome-quantified-self#readme) ⭐ 2,761 | 🐛 37 | 📅 2026-07-06) - Self-tracking through technology.
-* <b><code>  2756⭐</code></b> <b><code>   364🍴</code></b> [Web Design](https://github.com/nicolesaidy/awesome-web-design#readme) ⭐ 2,756 | 🐛 33 | 📅 2023-10-19) - For digital designers.
-* <b><code>  2746⭐</code></b> <b><code>   267🍴</code></b> [Research Tools](https://github.com/emptymalei/awesome-research#readme) ⭐ 2,747 | 🐛 13 | 📅 2026-05-19)
+* <b><code>  3331⭐</code></b> <b><code>   388🍴</code></b> [No-Login Web Apps](https://github.com/aviaryan/awesome-no-login-web-apps#readme) ⭐ 3,331 | 🐛 218 | 🌐 Shell | 📅 2024-04-30) - Web apps that work without login.
+* <b><code>  3150⭐</code></b> <b><code>   220🍴</code></b> [Katas](https://github.com/gamontal/awesome-katas#readme) ⭐ 3,150 | 🐛 1 | 📅 2026-07-16)
+* <b><code>  2872⭐</code></b> <b><code>   205🍴</code></b> [Software Architecture](https://github.com/simskij/awesome-software-architecture#readme) ⭐ 2,872 | 🐛 1 | 📅 2026-04-19) - The discipline of designing and building software.
+* <b><code>  2870⭐</code></b> <b><code>   181🍴</code></b> [Free Software](https://github.com/johnjago/awesome-free-software#readme) ⭐ 2,870 | 🐛 40 | 📅 2025-04-29) - Free as in freedom.
+* <b><code>  2761⭐</code></b> <b><code>   222🍴</code></b> [Quantified Self](https://github.com/woop/awesome-quantified-self#readme) ⭐ 2,761 | 🐛 37 | 📅 2026-07-06) - Self-tracking through technology.
+* <b><code>  2758⭐</code></b> <b><code>   364🍴</code></b> [Web Design](https://github.com/nicolesaidy/awesome-web-design#readme) ⭐ 2,758 | 🐛 33 | 📅 2023-10-19) - For digital designers.
+* <b><code>  2749⭐</code></b> <b><code>   267🍴</code></b> [Research Tools](https://github.com/emptymalei/awesome-research#readme) ⭐ 2,749 | 🐛 13 | 📅 2026-05-19)
 * <b><code>  2692⭐</code></b> <b><code>   178🍴</code></b> [Product Design](https://github.com/ttt30ga/awesome-product-design#readme) ⭐ 2,692 | 🐛 15 | 📅 2025-09-22) - Design a product from the initial concept to production.
-* <b><code>  2620⭐</code></b> <b><code>   199🍴</code></b> [Web Archiving](https://github.com/iipc/awesome-web-archiving#readme) ⭐ 2,621 | 🐛 8 | 📅 2026-08-17) - An effort to preserve the Web for future generations.
-* <b><code>  2435⭐</code></b> <b><code>   185🍴</code></b> [OpenGL](https://github.com/eug/awesome-opengl#readme) ⭐ 2,436 | 🐛 0 | 📅 2026-01-09) - Cross-platform API for rendering 2D and 3D graphics.
-* <b><code>  2420⭐</code></b> <b><code>   235🍴</code></b> [Design and Development Guides](https://github.com/NARKOZ/guides#readme) ⭐ 2,420 | 🐛 3 | 📅 2025-07-02)
-* <b><code>  2387⭐</code></b> <b><code>   281🍴</code></b> [MQTT](https://github.com/hobbyquaker/awesome-mqtt#readme) ⭐ 2,387 | 🐛 0 | 📅 2026-08-22) - "Internet of Things" connectivity protocol.
-* <b><code>  2376⭐</code></b> <b><code>   163🍴</code></b> [Whisper](https://github.com/sindresorhus/awesome-whisper#readme) ⭐ 2,376 | 🐛 7 | 📅 2026-03-17) - Open-source AI-powered speech recognition system developed by OpenAI.
-* <b><code>  2165⭐</code></b> <b><code>   136🍴</code></b> [Quarto](https://github.com/mcanouil/awesome-quarto#readme) ⭐ 2,165 | 🐛 1 | 📅 2026-08-07) - Scientific and technical open-source publishing system built on Pandoc.
-* <b><code>  2008⭐</code></b> <b><code>   236🍴</code></b> [Continuous Integration and Continuous Delivery](https://github.com/cicdops/awesome-ciandcd#readme) ⭐ 2,008 | 🐛 32 | 📅 2026-04-14)
-* <b><code>  1932⭐</code></b> <b><code>   178🍴</code></b> [Ansible](https://github.com/ansible-community/awesome-ansible#readme) ⭐ 1,933 | 🐛 6 | 📅 2026-06-02) - A Python-based, open-source IT configuration management and automation platform.
-* <b><code>  1857⭐</code></b> <b><code>   255🍴</code></b> [Agriculture](https://github.com/brycejohnston/awesome-agriculture#readme) ⭐ 1,859 | 🐛 12 | 📅 2026-01-05) - Open source technology for farming and gardening.
-* <b><code>  1819⭐</code></b> <b><code>   242🍴</code></b> [Transit](https://github.com/MobilityData/awesome-transit#readme) ⭐ 1,819 | 🐛 18 | 📅 2026-07-24) – Data standards, APIs, apps, tools, datasets, and research around open source technology of public transit.
-* <b><code>  1796⭐</code></b> <b><code>   153🍴</code></b> [TikZ](https://github.com/xiaohanyu/awesome-tikz#readme) ⭐ 1,797 | 🐛 0 | 📅 2026-07-14) - Graph drawing packages for TeX/LaTeX/ConTeXt.
-* <b><code>  1720⭐</code></b> <b><code>   236🍴</code></b> [Economics](https://github.com/antontarasenko/awesome-economics#readme) ⭐ 1,721 | 🐛 13 | 📅 2023-08-26) - An economist's starter kit.
-* <b><code>  1665⭐</code></b> <b><code>   130🍴</code></b> [LaTeX](https://github.com/egeerardyn/awesome-LaTeX#readme) ⭐ 1,665 | 🐛 4 | 📅 2026-08-08) - Typesetting language.
+* <b><code>  2621⭐</code></b> <b><code>   199🍴</code></b> [Web Archiving](https://github.com/iipc/awesome-web-archiving#readme) ⭐ 2,621 | 🐛 8 | 📅 2026-08-17) - An effort to preserve the Web for future generations.
+* <b><code>  2436⭐</code></b> <b><code>   185🍴</code></b> [OpenGL](https://github.com/eug/awesome-opengl#readme) ⭐ 2,436 | 🐛 0 | 📅 2026-01-09) - Cross-platform API for rendering 2D and 3D graphics.
+* <b><code>  2421⭐</code></b> <b><code>   235🍴</code></b> [Design and Development Guides](https://github.com/NARKOZ/guides#readme) ⭐ 2,421 | 🐛 3 | 📅 2025-07-02)
+* <b><code>  2387⭐</code></b> <b><code>   283🍴</code></b> [MQTT](https://github.com/hobbyquaker/awesome-mqtt#readme) ⭐ 2,387 | 🐛 0 | 📅 2026-08-22) - "Internet of Things" connectivity protocol.
+* <b><code>  2375⭐</code></b> <b><code>   163🍴</code></b> [Whisper](https://github.com/sindresorhus/awesome-whisper#readme) ⭐ 2,375 | 🐛 7 | 📅 2026-03-17) - Open-source AI-powered speech recognition system developed by OpenAI.
+* <b><code>  2166⭐</code></b> <b><code>   136🍴</code></b> [Quarto](https://github.com/mcanouil/awesome-quarto#readme) ⭐ 2,166 | 🐛 0 | 📅 2026-08-07) - Scientific and technical open-source publishing system built on Pandoc.
+* <b><code>  2008⭐</code></b> <b><code>   237🍴</code></b> [Continuous Integration and Continuous Delivery](https://github.com/cicdops/awesome-ciandcd#readme) ⭐ 2,008 | 🐛 32 | 📅 2026-04-14)
+* <b><code>  1933⭐</code></b> <b><code>   179🍴</code></b> [Ansible](https://github.com/ansible-community/awesome-ansible#readme) ⭐ 1,933 | 🐛 7 | 📅 2026-06-02) - A Python-based, open-source IT configuration management and automation platform.
+* <b><code>  1860⭐</code></b> <b><code>   256🍴</code></b> [Agriculture](https://github.com/brycejohnston/awesome-agriculture#readme) ⭐ 1,860 | 🐛 14 | 📅 2026-01-05) - Open source technology for farming and gardening.
+* <b><code>  1820⭐</code></b> <b><code>   242🍴</code></b> [Transit](https://github.com/MobilityData/awesome-transit#readme) ⭐ 1,820 | 🐛 18 | 📅 2026-07-24) – Data standards, APIs, apps, tools, datasets, and research around open source technology of public transit.
+* <b><code>  1798⭐</code></b> <b><code>   153🍴</code></b> [TikZ](https://github.com/xiaohanyu/awesome-tikz#readme) ⭐ 1,798 | 🐛 0 | 📅 2026-07-14) - Graph drawing packages for TeX/LaTeX/ConTeXt.
+* <b><code>  1722⭐</code></b> <b><code>   236🍴</code></b> [Economics](https://github.com/antontarasenko/awesome-economics#readme) ⭐ 1,722 | 🐛 13 | 📅 2023-08-26) - An economist's starter kit.
+* <b><code>  1665⭐</code></b> <b><code>   129🍴</code></b> [LaTeX](https://github.com/egeerardyn/awesome-LaTeX#readme) ⭐ 1,665 | 🐛 4 | 📅 2026-08-08) - Typesetting language.
 * <b><code>  1616⭐</code></b> <b><code>    54🍴</code></b> [Scriptable](https://github.com/dersvenhesse/awesome-scriptable#readme) ⭐ 1,616 | 🐛 2 | 📅 2025-11-15) - An iOS app for automation in JavaScript.
-* <b><code>  1581⭐</code></b> <b><code>   182🍴</code></b> [Scientific Computing](https://github.com/nschloe/awesome-scientific-computing#readme) ⭐ 1,581 | 🐛 17 | 🌐 Python | 📅 2026-07-20) - Solving complex scientific problems using computers.
-* <b><code>  1563⭐</code></b> <b><code>   245🍴</code></b> [JSON](https://github.com/burningtree/awesome-json#readme) ⭐ 1,563 | 🐛 84 | 📅 2026-06-19) - Text based data interchange format.
+* <b><code>  1582⭐</code></b> <b><code>   182🍴</code></b> [Scientific Computing](https://github.com/nschloe/awesome-scientific-computing#readme) ⭐ 1,582 | 🐛 17 | 🌐 Python | 📅 2026-07-20) - Solving complex scientific problems using computers.
+* <b><code>  1563⭐</code></b> <b><code>   246🍴</code></b> [JSON](https://github.com/burningtree/awesome-json#readme) ⭐ 1,563 | 🐛 86 | 📅 2026-06-19) - Text based data interchange format.
   * <b><code>  2529⭐</code></b> <b><code>   215🍴</code></b> [GeoJSON](https://github.com/tmcw/awesome-geojson#readme) ⭐ 2,529 | 🐛 1 | 📅 2026-07-23)
-* <b><code>  1554⭐</code></b> <b><code>   187🍴</code></b> [Bots](https://github.com/hackerkid/bots#readme) ⭐ 1,554 | 🐛 8 | 📅 2024-02-23) - Building bots.
+* <b><code>  1555⭐</code></b> <b><code>   187🍴</code></b> [Bots](https://github.com/hackerkid/bots#readme) ⭐ 1,555 | 🐛 8 | 📅 2024-02-23) - Building bots.
 * <b><code>  1480⭐</code></b> <b><code>   221🍴</code></b> [AMA](https://github.com/sindresorhus/amas#readme) ⭐ 1,480 | 🐛 0 | 📅 2024-12-01) - Ask Me Anything.
   * <b><code>   132⭐</code></b> <b><code>     2🍴</code></b> [Answers](https://github.com/stoeffel/awesome-ama-answers#readme) ⭐ 132 | 🐛 3 | 📅 2020-03-17)
 * <b><code>  1451⭐</code></b> <b><code>    53🍴</code></b> [Naming](https://github.com/gruhn/awesome-naming#readme) ⭐ 1,451 | 🐛 0 | 📅 2026-06-16) - Guides for naming things in computer science.
@@ -797,50 +797,50 @@
 * <b><code>  1406⭐</code></b> <b><code>   180🍴</code></b> [Boilerplate Projects](https://github.com/melvin0008/awesome-projects-boilerplates#readme) ⭐ 1,406 | 🐛 18 | 📅 2024-08-06)
 * <b><code>  1325⭐</code></b> <b><code>    96🍴</code></b> [IRC](https://github.com/davisonio/awesome-irc#readme) ⭐ 1,325 | 🐛 2 | 📅 2026-08-11) - Open source messaging protocol.
 * <b><code>  1314⭐</code></b> <b><code>    63🍴</code></b> [Colorful](https://github.com/Siddharth11/Colorful#readme) ⭐ 1,314 | 🐛 11 | 📅 2025-03-13) - Choose your next color scheme.
-* <b><code>  1174⭐</code></b> <b><code>   255🍴</code></b> [Magento 2](https://github.com/DavidLambauer/awesome-magento2#readme) ⭐ 1,174 | 🐛 9 | 🌐 PHP | 📅 2026-08-17) - Open Source eCommerce built with PHP.
+* <b><code>  1174⭐</code></b> <b><code>   254🍴</code></b> [Magento 2](https://github.com/DavidLambauer/awesome-magento2#readme) ⭐ 1,174 | 🐛 8 | 🌐 PHP | 📅 2026-08-24) - Open Source eCommerce built with PHP.
 * <b><code>  1170⭐</code></b> <b><code>    60🍴</code></b> [Open Source Maintainers](https://github.com/nayafia/awesome-maintainers#readme) ⭐ 1,170 | 🐛 0 | 📅 2021-08-16) - The experience of being an open source maintainer.
-* <b><code>  1062⭐</code></b> <b><code>    97🍴</code></b> [Tools for Activism](https://github.com/drewrwilson/toolsforactivism#readme) ⭐ 1,062 | 🐛 35 | 📅 2022-10-11)
+* <b><code>  1063⭐</code></b> <b><code>    97🍴</code></b> [Tools for Activism](https://github.com/drewrwilson/toolsforactivism#readme) ⭐ 1,063 | 🐛 35 | 📅 2022-10-11)
 * <b><code>   994⭐</code></b> <b><code>    67🍴</code></b> [Scientific Writing](https://github.com/writing-resources/awesome-scientific-writing#readme) ⭐ 994 | 🐛 14 | 📅 2026-03-06) - Distraction-free scientific writing with Markdown, reStructuredText and Jupyter notebooks.
 * <b><code>   983⭐</code></b> <b><code>    98🍴</code></b> [ChatOps](https://github.com/exAspArk/awesome-chatops#readme) ⭐ 983 | 🐛 4 | 📅 2021-10-30) - Managing technical and business operations through a chat.
 * <b><code>   982⭐</code></b> <b><code>    69🍴</code></b> [Unicode](https://github.com/jagracey/Awesome-Unicode#readme) ⭐ 982 | 🐛 10 | 🌐 JavaScript | 📅 2022-07-01) - Standards, quirks, packages and resources for Unicode.
   * <b><code>   777⭐</code></b> <b><code>    23🍴</code></b> [Code Points](https://github.com/Codepoints/awesome-codepoints#readme) ⭐ 777 | 🐛 4 | 📅 2024-04-20)
-* <b><code>   980⭐</code></b> <b><code>   101🍴</code></b> [OpenStreetMap](https://github.com/osmlab/awesome-openstreetmap#readme) ⭐ 980 | 🐛 41 | 📅 2026-02-23) - An open data mapping project utilized by many apps and devices.
-* <b><code>   952⭐</code></b> <b><code>   128🍴</code></b> [Markdown](https://github.com/BubuAnabelas/awesome-markdown#readme) ⭐ 952 | 🐛 66 | 📅 2024-08-21) - Markup language.
+* <b><code>   981⭐</code></b> <b><code>   102🍴</code></b> [OpenStreetMap](https://github.com/osmlab/awesome-openstreetmap#readme) ⭐ 981 | 🐛 41 | 📅 2026-02-23) - An open data mapping project utilized by many apps and devices.
+* <b><code>   952⭐</code></b> <b><code>   129🍴</code></b> [Markdown](https://github.com/BubuAnabelas/awesome-markdown#readme) ⭐ 952 | 🐛 67 | 📅 2024-08-21) - Markup language.
 * <b><code>   944⭐</code></b> <b><code>   101🍴</code></b> [CSV](https://github.com/secretGeek/awesomeCSV#readme) ⭐ 944 | 🐛 45 | 🌐 PowerShell | 📅 2026-06-11) - A text file format that stores tabular data and uses a comma to separate values.
 * <b><code>   881⭐</code></b> <b><code>   144🍴</code></b> [Cheminformatics](https://github.com/hsiaoyi0504/awesome-cheminformatics#readme) ⭐ 881 | 🐛 34 | 📅 2024-03-15) - Informatics techniques applied to problems in chemistry.
-* <b><code>   824⭐</code></b> <b><code>   119🍴</code></b> [Stock Trading](https://github.com/shi-rudo/awesome-stock-trading#readme) ⭐ 826 | 🐛 10 | 📅 2026-04-26) - Purchase and sale of equities of publicly traded companies to generate profits.
+* <b><code>   827⭐</code></b> <b><code>   119🍴</code></b> [Stock Trading](https://github.com/shi-rudo/awesome-stock-trading#readme) ⭐ 827 | 🐛 10 | 📅 2026-04-26) - Purchase and sale of equities of publicly traded companies to generate profits.
 * <b><code>   775⭐</code></b> <b><code>   167🍴</code></b> [Speakers](https://github.com/karlhorky/awesome-speakers#readme) ⭐ 775 | 🐛 3 | 🌐 HTML | 📅 2024-07-21) - Conference and meetup speakers in the programming and design community.
 * <b><code>   768⭐</code></b> <b><code>    36🍴</code></b> [Design Principles](https://github.com/robinstickel/awesome-design-principles#readme) ⭐ 768 | 🐛 0 | 📅 2021-01-11) - Create better and more consistent designs and experiences.
 * <b><code>   744⭐</code></b> <b><code>    21🍴</code></b> [Steam Deck](https://github.com/airscripts/awesome-steam-deck#readme) ⭐ 744 | 🐛 3 | 📅 2026-07-09) - A handheld gaming computer developed by Valve.
 * <b><code>   702⭐</code></b> <b><code>    59🍴</code></b> [Pokémon](https://github.com/tobiasbueschel/awesome-pokemon#readme) ⭐ 702 | 🐛 12 | 📅 2024-11-11) - Resources for Pokémon and Pokémon GO.
-* <b><code>   688⭐</code></b> <b><code>    75🍴</code></b> [Open Source Supporters](https://github.com/zachflower/awesome-open-source-supporters#readme) ⭐ 688 | 🐛 0 | 📅 2026-04-07) - Companies that offer their tools and services for free to open source projects.
+* <b><code>   687⭐</code></b> <b><code>    75🍴</code></b> [Open Source Supporters](https://github.com/zachflower/awesome-open-source-supporters#readme) ⭐ 687 | 🐛 0 | 📅 2026-04-07) - Companies that offer their tools and services for free to open source projects.
 * <b><code>   662⭐</code></b> <b><code>    64🍴</code></b> [Prisma](https://github.com/catalinmiron/awesome-prisma#readme) ⭐ 662 | 🐛 17 | 📅 2024-05-23) - Turn your database into a GraphQL API.
-* <b><code>   657⭐</code></b> <b><code>    47🍴</code></b> [Dev Fun](https://github.com/mislavcimpersak/awesome-dev-fun#readme) ⭐ 657 | 🐛 3 | 📅 2025-07-08) - Funny developer projects.
+* <b><code>   658⭐</code></b> <b><code>    47🍴</code></b> [Dev Fun](https://github.com/mislavcimpersak/awesome-dev-fun#readme) ⭐ 658 | 🐛 3 | 📅 2025-07-08) - Funny developer projects.
 * <b><code>   655⭐</code></b> <b><code>    55🍴</code></b> [Open Source Photography](https://github.com/ibaaj/awesome-OpenSourcePhotography#readme) ⭐ 655 | 🐛 3 | 📅 2026-04-19)
 * <b><code>   654⭐</code></b> <b><code>    97🍴</code></b> [For Girls](https://github.com/cristianoliveira/awesome4girls#readme) ⭐ 654 | 🐛 6 | 🌐 Ruby | 📅 2024-05-17)
 * <b><code>   637⭐</code></b> <b><code>    36🍴</code></b> [Uncopyright](https://github.com/johnjago/awesome-uncopyright#readme) ⭐ 637 | 🐛 3 | 📅 2024-05-30) - Public domain works.
 * <b><code>   624⭐</code></b> <b><code>    56🍴</code></b> [Gulp](https://github.com/alferov/awesome-gulp#readme) ⭐ 624 | 🐛 4 | 🌐 JavaScript | 📅 2022-04-12) - Task runner.
 * <b><code>   622⭐</code></b> <b><code>    50🍴</code></b> [Framer](https://github.com/podo/awesome-framer#readme) ⭐ 622 | 🐛 1 | 📅 2026-03-22) - Prototyping interactive UI designs.
 * <b><code>   571⭐</code></b> <b><code>    37🍴</code></b> [Steam](https://github.com/scholtzm/awesome-steam#readme) ⭐ 571 | 🐛 5 | 📅 2026-04-02) - Digital distribution platform.
-* <b><code>   561⭐</code></b> <b><code>    92🍴</code></b> [Copilot Agents](https://github.com/Code-and-Sorts/awesome-copilot-agents#readme) ⭐ 561 | 🐛 27 | 🌐 TypeScript | 📅 2026-04-29) - AI pair programming assistant by GitHub that provides code suggestions and completions.
+* <b><code>   561⭐</code></b> <b><code>    92🍴</code></b> [Copilot Agents](https://github.com/Code-and-Sorts/awesome-copilot-agents#readme) ⭐ 561 | 🐛 28 | 🌐 TypeScript | 📅 2026-04-29) - AI pair programming assistant by GitHub that provides code suggestions and completions.
 * <b><code>   558⭐</code></b> <b><code>    67🍴</code></b> [Bitcoin Payment Processors](https://github.com/alexk111/awesome-bitcoin-payment-processors#readme) ⭐ 558 | 🐛 4 | 📅 2025-03-21) - Start accepting Bitcoin.
 * <b><code>   556⭐</code></b> <b><code>    27🍴</code></b> [Event-Driven Architecture](https://github.com/lutzh/awesome-event-driven-architecture#readme) ⭐ 556 | 🐛 0 | 📅 2026-08-14) - A software architecture approach where services collaborate by publishing and subscribing to events.
 * <b><code>   533⭐</code></b> <b><code>    46🍴</code></b> [Software Patreons](https://github.com/uraimo/awesome-software-patreons#readme) ⭐ 533 | 🐛 3 | 📅 2025-12-29) - Fund individual programmers or the development of open source projects.
-* <b><code>   509⭐</code></b> <b><code>    22🍴</code></b> [Ad-Free](https://github.com/johnjago/awesome-ad-free#readme) ⭐ 509 | 🐛 1 | 📅 2022-12-12) - Alternatives without ads.
-* <b><code>   496⭐</code></b> <b><code>    99🍴</code></b> [Gemini CLI](https://github.com/Piebald-AI/awesome-gemini-cli#readme) ⭐ 496 | 🐛 3 | 📅 2026-08-22) - Terminal-based AI coding assistant by Google.
-* <b><code>   486⭐</code></b> <b><code>    39🍴</code></b> [GitHub Wiki](https://github.com/MyHoneyBadger/awesome-github-wiki#readme) ⭐ 486 | 🐛 1 | 📅 2026-07-11) - Comprehensive documentation on GitHub beyond README.
-* <b><code>   431⭐</code></b> <b><code>    73🍴</code></b> [Amazon Sellers](https://github.com/ScaleLeap/awesome-amazon-seller#readme) ⭐ 432 | 🐛 9 | 📅 2026-07-12)
-* <b><code>   392⭐</code></b> <b><code>    17🍴</code></b> [Regex](https://github.com/slevithan/awesome-regex#readme) ⭐ 393 | 🐛 2 | 📅 2025-12-14) - Specialized language for matching patterns in text.
+* <b><code>   510⭐</code></b> <b><code>    22🍴</code></b> [Ad-Free](https://github.com/johnjago/awesome-ad-free#readme) ⭐ 510 | 🐛 1 | 📅 2022-12-12) - Alternatives without ads.
+* <b><code>   497⭐</code></b> <b><code>   100🍴</code></b> [Gemini CLI](https://github.com/Piebald-AI/awesome-gemini-cli#readme) ⭐ 497 | 🐛 2 | 📅 2026-08-23) - Terminal-based AI coding assistant by Google.
+* <b><code>   487⭐</code></b> <b><code>    39🍴</code></b> [GitHub Wiki](https://github.com/MyHoneyBadger/awesome-github-wiki#readme) ⭐ 487 | 🐛 1 | 📅 2026-07-11) - Comprehensive documentation on GitHub beyond README.
+* <b><code>   432⭐</code></b> <b><code>    73🍴</code></b> [Amazon Sellers](https://github.com/ScaleLeap/awesome-amazon-seller#readme) ⭐ 432 | 🐛 9 | 📅 2026-07-12)
+* <b><code>   393⭐</code></b> <b><code>    17🍴</code></b> [Regex](https://github.com/slevithan/awesome-regex#readme) ⭐ 393 | 🐛 2 | 📅 2025-12-14) - Specialized language for matching patterns in text.
 * <b><code>   391⭐</code></b> <b><code>    19🍴</code></b> [FOSS Production Apps](https://github.com/DataDaoDe/awesome-foss-apps#readme) ⭐ 391 | 🐛 6 | 📅 2024-08-07)
-* <b><code>   390⭐</code></b> <b><code>   114🍴</code></b> [Board Games](https://github.com/edm00se/awesome-board-games#readme) ⭐ 391 | 🐛 8 | 🌐 JavaScript | 📅 2026-08-10) - Table-top gaming fun for all.
+* <b><code>   391⭐</code></b> <b><code>   114🍴</code></b> [Board Games](https://github.com/edm00se/awesome-board-games#readme) ⭐ 391 | 🐛 8 | 🌐 JavaScript | 📅 2026-08-10) - Table-top gaming fun for all.
 * <b><code>   360⭐</code></b> <b><code>    62🍴</code></b> [Urban & Regional Planning](https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme) ⭐ 360 | 🐛 3 | 📅 2026-07-13) - Concerning the built environment and communities.
-* <b><code>   355⭐</code></b> <b><code>    29🍴</code></b> [Web Monetization](https://github.com/thomasbnt/awesome-web-monetization#readme) ⭐ 355 | 🐛 0 | 📅 2026-07-23) - A free open web standard service that allows you to send money directly in your browser.
-* <b><code>   324⭐</code></b> <b><code>    22🍴</code></b> [Citizen Science](https://github.com/dylanrees/citizen-science#readme) ⭐ 324 | 🐛 3 | 📅 2026-04-28) - For community-based and non-institutional scientists.
+* <b><code>   355⭐</code></b> <b><code>    28🍴</code></b> [Web Monetization](https://github.com/thomasbnt/awesome-web-monetization#readme) ⭐ 355 | 🐛 0 | 📅 2026-07-23) - A free open web standard service that allows you to send money directly in your browser.
+* <b><code>   325⭐</code></b> <b><code>    22🍴</code></b> [Citizen Science](https://github.com/dylanrees/citizen-science#readme) ⭐ 325 | 🐛 3 | 📅 2026-04-28) - For community-based and non-institutional scientists.
 * <b><code>   308⭐</code></b> <b><code>    30🍴</code></b> [Radio](https://github.com/kyleterry/awesome-radio#readme) ⭐ 308 | 🐛 3 | 📅 2019-09-23)
-* <b><code>   281⭐</code></b> <b><code>    32🍴</code></b> [WebXR](https://github.com/msub2/awesome-webxr#readme) ⭐ 282 | 🐛 0 | 📅 2026-08-21) - Enables immersive virtual reality and augmented reality content on the web.
-* <b><code>   269⭐</code></b> <b><code>    32🍴</code></b> [HPC](https://github.com/dstdev/awesome-hpc#readme) ⭐ 269 | 🐛 18 | 📅 2024-08-06) - High Performance Computing.
-* <b><code>   265⭐</code></b> <b><code>    91🍴</code></b> [Calculators](https://github.com/xxczaki/awesome-calculators#readme) ⭐ 265 | 🐛 71 | 📅 2026-03-21) - Tools for every platform.
-* <b><code>   246⭐</code></b> <b><code>    18🍴</code></b> [Food](https://github.com/jzarca01/awesome-food#readme) ⭐ 246 | 🐛 9 | 📅 2026-03-17) - Projects on GitHub related to food.
+* <b><code>   282⭐</code></b> <b><code>    32🍴</code></b> [WebXR](https://github.com/msub2/awesome-webxr#readme) ⭐ 282 | 🐛 0 | 📅 2026-08-21) - Enables immersive virtual reality and augmented reality content on the web.
+* <b><code>   269⭐</code></b> <b><code>    33🍴</code></b> [HPC](https://github.com/dstdev/awesome-hpc#readme) ⭐ 269 | 🐛 19 | 📅 2024-08-06) - High Performance Computing.
+* <b><code>   265⭐</code></b> <b><code>    94🍴</code></b> [Calculators](https://github.com/xxczaki/awesome-calculators#readme) ⭐ 265 | 🐛 75 | 📅 2026-03-21) - Tools for every platform.
+* <b><code>   247⭐</code></b> <b><code>    18🍴</code></b> [Food](https://github.com/jzarca01/awesome-food#readme) ⭐ 247 | 🐛 9 | 📅 2026-03-17) - Projects on GitHub related to food.
 * <b><code>   243⭐</code></b> <b><code>    24🍴</code></b> [Biological Visualizations](https://github.com/keller-mark/awesome-biological-visualizations#readme) ⭐ 243 | 🐛 3 | 📅 2026-08-07) - Interactive visualization of biological data on the web.
 * <b><code>   237⭐</code></b> <b><code>    10🍴</code></b> [Funny Markov Chains](https://github.com/sublimino/awesome-funny-markov#readme) ⭐ 237 | 🐛 0 | 📅 2022-09-15)
 * <b><code>   234⭐</code></b> <b><code>    13🍴</code></b> [Standards](https://github.com/donBarbos/awesome-standards#readme) ⭐ 234 | 🐛 4 | 📅 2026-07-18) - Proposals and standards that define and enhance software, languages, and related technologies.
@@ -857,7 +857,7 @@
 * <b><code>   163⭐</code></b> <b><code>     8🍴</code></b> [Advertising](https://github.com/cenoura/awesome-ads#readme) ⭐ 163 | 🐛 3 | 📅 2023-05-20) - Programmatic media and ad tech for websites.
 * <b><code>   156⭐</code></b> <b><code>    12🍴</code></b> [Ledger](https://github.com/sfischer13/awesome-ledger#readme) ⭐ 156 | 🐛 2 | 📅 2022-01-21) - Double-entry accounting on the command-line.
 * <b><code>   153⭐</code></b> <b><code>    18🍴</code></b> [Computational Biology](https://github.com/inoue0426/awesome-computational-biology#readme) ⭐ 153 | 🐛 2 | 🌐 Python | 📅 2026-08-17) - Computational approaches applied to problems in biology.
-* <b><code>   152⭐</code></b> <b><code>     7🍴</code></b> [Astrophotography](https://github.com/lunohodov/awesome-astrophotography#readme) ⭐ 153 | 🐛 1 | 📅 2026-06-11) - Photography of astronomical objects, celestial events, or areas of the night sky.
+* <b><code>   153⭐</code></b> <b><code>     7🍴</code></b> [Astrophotography](https://github.com/lunohodov/awesome-astrophotography#readme) ⭐ 153 | 🐛 1 | 📅 2026-06-11) - Photography of astronomical objects, celestial events, or areas of the night sky.
 * <b><code>   152⭐</code></b> <b><code>    21🍴</code></b> [QR Code](https://github.com/make-github-pseudonymous-again/awesome-qr-code#readme) ⭐ 152 | 🐛 19 | 📅 2026-02-13) - A type of matrix barcode that can be used to store and share a small amount of information.
 * <b><code>   146⭐</code></b> <b><code>    14🍴</code></b> [Vorpal](https://github.com/vorpaljs/awesome-vorpal#readme) ⭐ 146 | 🐛 6 | 📅 2020-06-24) - Node.js CLI framework.
 * <b><code>   131⭐</code></b> <b><code>     6🍴</code></b> [Computational Geometry](https://github.com/atkirtland/awesome-computational-geometry#readme) ⭐ 131 | 🐛 0 | 📅 2025-08-25) - Computational approaches for problems in geometry.
@@ -868,21 +868,21 @@
 * <b><code>    64⭐</code></b> <b><code>     4🍴</code></b> [Parasite](https://github.com/ecohealthalliance/awesome-parasite#readme) ⭐ 64 | 🐛 10 | 📅 2026-05-28) - Parasites and host-pathogen interactions.
 * <b><code>    56⭐</code></b> <b><code>     5🍴</code></b> [SAP Commerce](https://github.com/eminyagiz42/awesome-sap-commerce#readme) ⭐ 56 | 🐛 0 | 📅 2025-08-29) - An e-commerce platform built with Java, Spring MVC, and Angular.
 * <b><code>    50⭐</code></b> <b><code>     3🍴</code></b> [Tech Ethics](https://github.com/sampart/awesome-tech-ethics#readme) ⭐ 50 | 🐛 0 | 📅 2026-05-19) - Mitigating and avoiding the potential negative effects of technology on society.
-* <b><code>    42⭐</code></b> <b><code>     6🍴</code></b> [Geocaching](https://github.com/FoxFil/awesome-geocaching#readme) ⭐ 43 | 🐛 0 | 📅 2026-01-27) - Outdoor treasure-hunting activity that uses GPS-enabled devices.
+* <b><code>    43⭐</code></b> <b><code>     6🍴</code></b> [Geocaching](https://github.com/FoxFil/awesome-geocaching#readme) ⭐ 43 | 🐛 0 | 📅 2026-01-27) - Outdoor treasure-hunting activity that uses GPS-enabled devices.
 * <b><code>    26⭐</code></b> <b><code>     2🍴</code></b> [inspectIT](https://github.com/inspectit-labs/awesome-inspectit#readme) ⭐ 26 | 🐛 1 | 📅 2020-12-06) - Open source Java app performance management tool.
 
 ## Related
 
-* <b><code>   803⭐</code></b> <b><code>    39🍴</code></b> [Awesome CLI](https://github.com/umutphp/awesome-cli) ⭐ 804 | 🐛 2 | 🌐 Go | 📅 2025-10-08) - A simple command-line tool to dive into Awesome lists.
+* <b><code>   805⭐</code></b> <b><code>    39🍴</code></b> [Awesome CLI](https://github.com/umutphp/awesome-cli) ⭐ 805 | 🐛 2 | 🌐 Go | 📅 2025-10-08) - A simple command-line tool to dive into Awesome lists.
 * <b><code>   510⭐</code></b> <b><code>    29🍴</code></b> [StumbleUponAwesome](https://github.com/basharovV/StumbleUponAwesome) ⭐ 510 | 🐛 3 | 🌐 JavaScript | 📅 2024-05-11) - Discover random pages from the Awesome dataset using a browser extension.
-* [All Awesome Lists](https://github.com/correia-jpv/fucking-awesome) ⭐ 52 | 🐛 2 | 📅 2026-08-22 - All the Awesome lists on GitHub.
+* [All Awesome Lists](https://github.com/correia-jpv/fucking-awesome) ⭐ 52 | 🐛 2 | 📅 2026-08-24 - All the Awesome lists on GitHub.
 * 🌎 [Awesome Search](awesomelists.top) - Quick search for Awesome lists.
 * 🌎 [Track Awesome List](www.trackawesomelist.com) - View the latest updates of Awesome lists.
 
 ## Source
 
-<b><code>498648⭐</code></b> <b><code> 36514🍴</code></b> [sindresorhus/awesome](https://github.com/sindresorhus/awesome) ⭐ 499,018 | 🐛 106 | 📅 2026-08-21)
+<b><code>499303⭐</code></b> <b><code> 36554🍴</code></b> [sindresorhus/awesome](https://github.com/sindresorhus/awesome) ⭐ 499,331 | 🐛 106 | 📅 2026-08-21)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-24._
