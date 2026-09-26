@@ -5,7 +5,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "66909⭐ 6231🍴 Node.js",
+          "title": "66927⭐ 6237🍴 Node.js",
           "description": ") - Async non-blocking event-driven JavaScript runtime built on Chrome's V8 JavaScript engine.",
           "children": [
             {
@@ -44,7 +44,7 @@
             "open_issues": 24,
             "owner": "sindresorhus",
             "repo": "awesome-nodejs",
-            "stars": 66920,
+            "stars": 66928,
             "topics": [
               "awesome",
               "awesome-list",
@@ -58,7 +58,7 @@
         },
         {
           "node_type": "item",
-          "title": "61291⭐ 6919🍴 Flutter",
+          "title": "61322⭐ 6921🍴 Flutter",
           "description": ") - Google's mobile SDK for building native iOS and Android apps from a single codebase written in Dart.",
           "children": [],
           "repo_info": {
@@ -69,10 +69,10 @@
             "language": "Dart",
             "license": null,
             "last_commit": "2026-09-03T04:34:54Z",
-            "open_issues": 28,
+            "open_issues": 30,
             "owner": "Solido",
             "repo": "awesome-flutter",
-            "stars": 61312,
+            "stars": 61326,
             "topics": [
               "android",
               "awesome",
@@ -98,7 +98,7 @@
         },
         {
           "node_type": "item",
-          "title": "53442⭐ 7009🍴 iOS",
+          "title": "53455⭐ 7009🍴 iOS",
           "description": ") - Mobile operating system for Apple phones and tablets.",
           "children": [],
           "repo_info": {
@@ -112,7 +112,7 @@
             "open_issues": 27,
             "owner": "vsouza",
             "repo": "awesome-ios",
-            "stars": 53454,
+            "stars": 53456,
             "topics": [
               "apple-swift",
               "arkit",
@@ -133,7 +133,7 @@
         },
         {
           "node_type": "item",
-          "title": "47551⭐ 5142🍴 Frontend Development",
+          "title": "47558⭐ 5144🍴 Frontend Development",
           "description": ")",
           "children": [],
           "repo_info": {
@@ -147,7 +147,7 @@
             "open_issues": 133,
             "owner": "dypsilon",
             "repo": "frontend-dev-bookmarks",
-            "stars": 47550,
+            "stars": 47561,
             "topics": [
               "awesome",
               "awesome-list",
@@ -159,7 +159,7 @@
         },
         {
           "node_type": "item",
-          "title": "35707⭐ 4041🍴 React Native",
+          "title": "35708⭐ 4041🍴 React Native",
           "description": ") - JavaScript framework for writing natively rendering mobile apps for iOS and Android.",
           "children": [],
           "repo_info": {
@@ -173,7 +173,7 @@
             "open_issues": 23,
             "owner": "jondot",
             "repo": "awesome-react-native",
-            "stars": 35706,
+            "stars": 35708,
             "topics": [
               "awesome-list",
               "mobile",
@@ -185,7 +185,7 @@
         },
         {
           "node_type": "item",
-          "title": "27290⭐ 2061🍴 Electron",
+          "title": "27293⭐ 2060🍴 Electron",
           "description": ") - Cross-platform native desktop apps using JavaScript/HTML/CSS.",
           "children": [],
           "repo_info": {
@@ -211,12 +211,12 @@
         },
         {
           "node_type": "item",
-          "title": "21626⭐ 2940🍴 .NET",
+          "title": "21630⭐ 2940🍴 .NET",
           "description": ")",
           "children": [
             {
               "node_type": "item",
-              "title": "21390⭐ 2956🍴 Core",
+              "title": "21391⭐ 2956🍴 Core",
               "description": ")",
               "children": [],
               "repo_info": {
@@ -285,7 +285,7 @@
             "open_issues": 161,
             "owner": "quozd",
             "repo": "awesome-dotnet",
-            "stars": 21628,
+            "stars": 21630,
             "topics": [
               "awesome",
               "awesome-list",
@@ -299,7 +299,7 @@
         },
         {
           "node_type": "item",
-          "title": "16913⭐ 1144🍴 Raspberry Pi",
+          "title": "16921⭐ 1147🍴 Raspberry Pi",
           "description": ") - Credit card-sized computer aimed at teaching kids programming, but capable of a lot more.",
           "children": [],
           "repo_info": {
@@ -310,10 +310,10 @@
             "language": "Shell",
             "license": "NOASSERTION",
             "last_commit": "2026-07-27T10:19:55Z",
-            "open_issues": 30,
+            "open_issues": 31,
             "owner": "thibmaek",
             "repo": "awesome-raspberry-pi",
-            "stars": 16919,
+            "stars": 16923,
             "topics": [
               "awesome",
               "awesome-list",
@@ -327,7 +327,7 @@
         },
         {
           "node_type": "item",
-          "title": "14149⭐ 1904🍴 Amazon Web Services",
+          "title": "14154⭐ 1903🍴 Amazon Web Services",
           "description": ")",
           "children": [],
           "repo_info": {
@@ -369,7 +369,7 @@
         },
         {
           "node_type": "item",
-          "title": "12350⭐ 1781🍴 Android",
+          "title": "12354⭐ 1781🍴 Android",
           "description": ") - Mobile operating system developed by Google.",
           "children": [],
           "repo_info": {
@@ -383,7 +383,7 @@
             "open_issues": 97,
             "owner": "JStumpp",
             "repo": "awesome-android",
-            "stars": 12355,
+            "stars": 12354,
             "topics": [
               "android-development",
               "android-library",
@@ -398,7 +398,7 @@
         },
         {
           "node_type": "item",
-          "title": "8473⭐ 426🍴 Home Assistant",
+          "title": "8477⭐ 427🍴 Home Assistant",
           "description": ") - Open source home automation that puts local control and privacy first.",
           "children": [],
           "repo_info": {
@@ -412,7 +412,7 @@
             "open_issues": 25,
             "owner": "frenck",
             "repo": "awesome-home-assistant",
-            "stars": 8475,
+            "stars": 8477,
             "topics": [
               "awesome",
               "awesome-list",
@@ -435,7 +435,7 @@
         },
         {
           "node_type": "item",
-          "title": "5454⭐ 203🍴 Nix",
+          "title": "5460⭐ 203🍴 Nix",
           "description": ") - Package manager for Linux and other Unix systems that makes package management reliable and reproducible.",
           "children": [],
           "repo_info": {
@@ -449,7 +449,7 @@
             "open_issues": 24,
             "owner": "nix-community",
             "repo": "awesome-nix",
-            "stars": 5458,
+            "stars": 5460,
             "topics": [
               "awesome",
               "awesome-list",
@@ -462,7 +462,7 @@
         },
         {
           "node_type": "item",
-          "title": "4610⭐ 550🍴 IPFS",
+          "title": "4611⭐ 551🍴 IPFS",
           "description": ") - P2P hypermedia protocol.",
           "children": [],
           "repo_info": {
@@ -488,7 +488,7 @@
         },
         {
           "node_type": "item",
-          "title": "4409⭐ 251🍴 Deno",
+          "title": "4410⭐ 251🍴 Deno",
           "description": ") - A secure runtime for JavaScript and TypeScript that uses V8 and is built in Rust.",
           "children": [],
           "repo_info": {
@@ -513,12 +513,12 @@
         },
         {
           "node_type": "item",
-          "title": "2903⭐ 262🍴 Windows",
+          "title": "2911⭐ 265🍴 Windows",
           "description": ") - Consumer desktop operating system.",
           "children": [
             {
               "node_type": "item",
-              "title": "605⭐ 28🍴 PowerToys Run Plugins",
+              "title": "606⭐ 28🍴 PowerToys Run Plugins",
               "description": ") - Community plugins for the Windows quick launcher.",
               "children": [],
               "repo_info": {
@@ -555,10 +555,10 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2026-09-10T07:40:45Z",
-            "open_issues": 62,
+            "open_issues": 64,
             "owner": "0PandaDEV",
             "repo": "awesome-windows",
-            "stars": 2908,
+            "stars": 2911,
             "topics": [
               "awesome",
               "awesome-list",
@@ -570,7 +570,7 @@
         },
         {
           "node_type": "item",
-          "title": "2707⭐ 165🍴 ESP",
+          "title": "2710⭐ 165🍴 ESP",
           "description": ") - Low-cost microcontrollers with WiFi and broad IoT applications.",
           "children": [],
           "repo_info": {
@@ -584,7 +584,7 @@
             "open_issues": 27,
             "owner": "agucova",
             "repo": "awesome-esp",
-            "stars": 2708,
+            "stars": 2710,
             "topics": [
               "arduino",
               "awesome",
@@ -651,7 +651,7 @@
         },
         {
           "node_type": "item",
-          "title": "1512⭐ 98🍴 WebExtensions",
+          "title": "1513⭐ 98🍴 WebExtensions",
           "description": ") - Cross-browser extension system.",
           "children": [],
           "repo_info": {
@@ -665,7 +665,7 @@
             "open_issues": 1,
             "owner": "fregante",
             "repo": "Awesome-WebExtensions",
-            "stars": 1512,
+            "stars": 1513,
             "topics": [
               "awesome",
               "awesome-list",
@@ -676,7 +676,7 @@
         },
         {
           "node_type": "item",
-          "title": "1422⭐ 113🍴 Smart TV",
+          "title": "1424⭐ 113🍴 Smart TV",
           "description": ") - Create apps for different TV platforms.",
           "children": [],
           "repo_info": {
@@ -708,7 +708,7 @@
         },
         {
           "node_type": "item",
-          "title": "1242⭐ 119🍴 Cloudflare",
+          "title": "1243⭐ 120🍴 Cloudflare",
           "description": ") - CDN, DNS, DDoS protection, and security for your site.",
           "children": [],
           "repo_info": {
@@ -768,7 +768,7 @@
         },
         {
           "node_type": "item",
-          "title": "806⭐ 206🍴 Salesforce",
+          "title": "806⭐ 207🍴 Salesforce",
           "description": ")",
           "children": [],
           "repo_info": {
@@ -939,7 +939,7 @@
         },
         {
           "node_type": "item",
-          "title": "549⭐ 33🍴 Node-RED",
+          "title": "550⭐ 33🍴 Node-RED",
           "description": ") - A programming tool for wiring together hardware devices, APIs, and online services.",
           "children": [],
           "repo_info": {
@@ -1389,7 +1389,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "5172⭐ 442🍴 eBPF",
+              "title": "5173⭐ 443🍴 eBPF",
               "description": ") - Virtual machine that allows you to write more efficient and powerful tracing and monitoring for Linux systems.",
               "children": [],
               "repo_info": {
@@ -1400,7 +1400,7 @@
                 "language": null,
                 "license": "CC0-1.0",
                 "last_commit": "2026-09-14T09:15:37Z",
-                "open_issues": 16,
+                "open_issues": 17,
                 "owner": "qmonnet",
                 "repo": "awesome-ebpf",
                 "stars": 5173,
@@ -1443,7 +1443,7 @@
             },
             {
               "node_type": "item",
-              "title": "603⭐ 43🍴 AppImage",
+              "title": "604⭐ 43🍴 AppImage",
               "description": ") - Package apps in a single file that works on various mainstream Linux distributions.",
               "children": [],
               "repo_info": {
@@ -1457,7 +1457,7 @@
                 "open_issues": 11,
                 "owner": "AppImageCommunity",
                 "repo": "awesome-appimage",
-                "stars": 603,
+                "stars": 604,
                 "topics": [
                   "appimage",
                   "awesome",
@@ -1496,7 +1496,7 @@
             },
             {
               "node_type": "item",
-              "title": "566⭐ 59🍴 Omarchy",
+              "title": "577⭐ 60🍴 Omarchy",
               "description": ") - Opinionated Arch Linux and Hyprland desktop environment from the creator of Ruby on Rails.",
               "children": [],
               "repo_info": {
@@ -1506,11 +1506,11 @@
                 "id": 1039289611,
                 "language": "HTML",
                 "license": "CC0-1.0",
-                "last_commit": "2026-09-23T21:00:53Z",
-                "open_issues": 6,
+                "last_commit": "2026-09-25T08:49:41Z",
+                "open_issues": 5,
                 "owner": "aorumbayev",
                 "repo": "awesome-omarchy",
-                "stars": 571,
+                "stars": 577,
                 "topics": [
                   "archlinux",
                   "awesome",
@@ -1538,7 +1538,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "114672⭐ 8951🍴 Apps",
+              "title": "114871⭐ 8985🍴 Apps",
               "description": ")",
               "children": [],
               "repo_info": {
@@ -1549,10 +1549,10 @@
                 "language": "Swift",
                 "license": "CC0-1.0",
                 "last_commit": "2026-09-25T03:19:17Z",
-                "open_issues": 970,
+                "open_issues": 987,
                 "owner": "jaywcjlove",
                 "repo": "awesome-mac",
-                "stars": 114803,
+                "stars": 114881,
                 "topics": [
                   "app",
                   "apple",
@@ -1580,7 +1580,7 @@
             },
             {
               "node_type": "item",
-              "title": "50531⭐ 2817🍴 Open Source Apps",
+              "title": "50563⭐ 2828🍴 Open Source Apps",
               "description": ")",
               "children": [],
               "repo_info": {
@@ -1591,10 +1591,10 @@
                 "language": null,
                 "license": "CC0-1.0",
                 "last_commit": "2026-09-10T08:05:13Z",
-                "open_issues": 295,
+                "open_issues": 301,
                 "owner": "serhii-londar",
                 "repo": "open-source-mac-os-apps",
-                "stars": 50554,
+                "stars": 50565,
                 "topics": [
                   "applications",
                   "apps",
@@ -1620,7 +1620,7 @@
             },
             {
               "node_type": "item",
-              "title": "4416⭐ 166🍴 Screensavers",
+              "title": "4417⭐ 166🍴 Screensavers",
               "description": ")",
               "children": [],
               "repo_info": {
@@ -1634,7 +1634,7 @@
                 "open_issues": 8,
                 "owner": "agarrharr",
                 "repo": "awesome-macos-screensavers",
-                "stars": 4416,
+                "stars": 4417,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -1654,7 +1654,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "322586⭐ 28790🍴 Python",
+          "title": "323025⭐ 28803🍴 Python",
           "description": ") - General-purpose programming language designed for readability.",
           "children": [
             {
@@ -1721,7 +1721,7 @@
             },
             {
               "node_type": "item",
-              "title": "1986⭐ 78🍴 Typing",
+              "title": "1986⭐ 77🍴 Typing",
               "description": ") - Optional static typing for Python.",
               "children": [],
               "repo_info": {
@@ -1840,11 +1840,11 @@
             "id": 21289110,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-23T08:25:59Z",
-            "open_issues": 22,
+            "last_commit": "2026-09-25T08:04:34Z",
+            "open_issues": 21,
             "owner": "vinta",
             "repo": "awesome-python",
-            "stars": 322848,
+            "stars": 323079,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1858,7 +1858,7 @@
         },
         {
           "node_type": "item",
-          "title": "185325⭐ 13583🍴 Go",
+          "title": "185603⭐ 13587🍴 Go",
           "description": ")",
           "children": [],
           "repo_info": {
@@ -1868,11 +1868,11 @@
             "id": 21540759,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-09-24T13:40:21Z",
+            "last_commit": "2026-09-25T11:24:00Z",
             "open_issues": 229,
             "owner": "avelino",
             "repo": "awesome-go",
-            "stars": 185480,
+            "stars": 185630,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1886,7 +1886,7 @@
         },
         {
           "node_type": "item",
-          "title": "73438⭐ 8344🍴 C/C++",
+          "title": "73470⭐ 8349🍴 C/C++",
           "description": ") - General-purpose language with a bias toward system programming and embedded, resource-constrained software.",
           "children": [],
           "repo_info": {
@@ -1900,7 +1900,7 @@
             "open_issues": 311,
             "owner": "fffaraz",
             "repo": "awesome-cpp",
-            "stars": 73456,
+            "stars": 73474,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1920,7 +1920,7 @@
         },
         {
           "node_type": "item",
-          "title": "59515⭐ 3633🍴 Rust",
+          "title": "59553⭐ 3639🍴 Rust",
           "description": ")",
           "children": [
             {
@@ -1961,11 +1961,11 @@
             "id": 21938243,
             "language": "Rust",
             "license": "CC0-1.0",
-            "last_commit": "2026-09-25T07:23:41Z",
-            "open_issues": 12,
+            "last_commit": "2026-09-25T12:26:13Z",
+            "open_issues": 9,
             "owner": "rust-unofficial",
             "repo": "awesome-rust",
-            "stars": 59538,
+            "stars": 59558,
             "topics": [
               "awesome",
               "rust"
@@ -1975,12 +1975,12 @@
         },
         {
           "node_type": "item",
-          "title": "49092⭐ 7726🍴 Java",
+          "title": "49105⭐ 7729🍴 Java",
           "description": ") - Popular secure object-oriented language designed for flexibility to \"write once, run anywhere\".",
           "children": [
             {
               "node_type": "item",
-              "title": "424⭐ 14🍴 J2ME",
+              "title": "424⭐ 15🍴 J2ME",
               "description": ") - Java specification designed for old keypad phones and PDAs..",
               "children": [],
               "repo_info": {
@@ -2057,10 +2057,10 @@
             "language": null,
             "license": "CC-BY-SA-4.0",
             "last_commit": "2026-09-23T10:50:49Z",
-            "open_issues": 4,
+            "open_issues": 5,
             "owner": "akullpp",
             "repo": "awesome-java",
-            "stars": 49103,
+            "stars": 49105,
             "topics": [
               "awesome",
               "awesome-list"
@@ -2070,12 +2070,12 @@
         },
         {
           "node_type": "item",
-          "title": "35026⭐ 4560🍴 JavaScript",
+          "title": "35029⭐ 4560🍴 JavaScript",
           "description": ")",
           "children": [
             {
               "node_type": "item",
-              "title": "129196⭐ 12483🍴 30 Seconds of Code",
+              "title": "129235⭐ 12484🍴 30 Seconds of Code",
               "description": ") - Code snippets you can understand in 30 seconds.",
               "children": [],
               "repo_info": {
@@ -2089,7 +2089,7 @@
                 "open_issues": 5,
                 "owner": "Chalarangelo",
                 "repo": "30-seconds-of-code",
-                "stars": 129220,
+                "stars": 129237,
                 "topics": [
                   "astro",
                   "awesome-list",
@@ -2124,7 +2124,7 @@
                 "open_issues": 1,
                 "owner": "bolshchikov",
                 "repo": "js-must-watch",
-                "stars": 13612,
+                "stars": 13613,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -2138,7 +2138,7 @@
             },
             {
               "node_type": "item",
-              "title": "12420⭐ 777🍴 Tips",
+              "title": "12418⭐ 777🍴 Tips",
               "description": ")",
               "children": [],
               "repo_info": {
@@ -2164,7 +2164,7 @@
             },
             {
               "node_type": "item",
-              "title": "6039⭐ 388🍴 Functional Programming",
+              "title": "6038⭐ 388🍴 Functional Programming",
               "description": ")",
               "children": [],
               "repo_info": {
@@ -2178,14 +2178,14 @@
                 "open_issues": 1,
                 "owner": "stoeffel",
                 "repo": "awesome-fp-js",
-                "stars": 6039,
+                "stars": 6038,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:10:50.184Z"
             },
             {
               "node_type": "item",
-              "title": "4757⭐ 255🍴 ESLint",
+              "title": "4758⭐ 255🍴 ESLint",
               "description": ") - Linter.",
               "children": [],
               "repo_info": {
@@ -2196,10 +2196,10 @@
                 "language": null,
                 "license": "CC0-1.0",
                 "last_commit": "2026-05-13T23:09:36Z",
-                "open_issues": 17,
+                "open_issues": 18,
                 "owner": "dustinspecker",
                 "repo": "awesome-eslint",
-                "stars": 4757,
+                "stars": 4758,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -2211,7 +2211,7 @@
             },
             {
               "node_type": "item",
-              "title": "4738⭐ 279🍴 npm",
+              "title": "4739⭐ 279🍴 npm",
               "description": ") - Package manager.",
               "children": [],
               "repo_info": {
@@ -2262,7 +2262,7 @@
             },
             {
               "node_type": "item",
-              "title": "1758⭐ 121🍴 Promises",
+              "title": "1759⭐ 121🍴 Promises",
               "description": ")",
               "children": [],
               "repo_info": {
@@ -2512,14 +2512,14 @@
             "open_issues": 24,
             "owner": "sorrycc",
             "repo": "awesome-javascript",
-            "stars": 35028,
+            "stars": 35030,
             "topics": []
           },
           "first_seen": "2026-08-28T14:10:50.184Z"
         },
         {
           "node_type": "item",
-          "title": "32706⭐ 5140🍴 PHP",
+          "title": "32711⭐ 5141🍴 PHP",
           "description": ") - Server-side scripting language.",
           "children": [
             {
@@ -2568,7 +2568,7 @@
             "open_issues": 93,
             "owner": "ziadoz",
             "repo": "awesome-php",
-            "stars": 32709,
+            "stars": 32711,
             "topics": [
               "awesome",
               "awesome-lists",
@@ -2583,7 +2583,7 @@
         },
         {
           "node_type": "item",
-          "title": "26269⭐ 3145🍴 Swift",
+          "title": "26282⭐ 3145🍴 Swift",
           "description": ") - Apple's compiled programming language that is secure, modern, programmer-friendly, and fast.",
           "children": [
             {
@@ -2657,7 +2657,7 @@
             "open_issues": 15,
             "owner": "matteocrippa",
             "repo": "awesome-swift",
-            "stars": 26275,
+            "stars": 26287,
             "topics": [
               "awesome",
               "awesome-list",
@@ -2678,7 +2678,7 @@
         },
         {
           "node_type": "item",
-          "title": "14158⭐ 1767🍴 Ruby",
+          "title": "14159⭐ 1767🍴 Ruby",
           "description": ")",
           "children": [],
           "repo_info": {
@@ -2692,7 +2692,7 @@
             "open_issues": 9,
             "owner": "markets",
             "repo": "awesome-ruby",
-            "stars": 14160,
+            "stars": 14159,
             "topics": [
               "awesome",
               "awesome-list",
@@ -2727,7 +2727,7 @@
         },
         {
           "node_type": "item",
-          "title": "11384⭐ 1271🍴 Kotlin",
+          "title": "11384⭐ 1272🍴 Kotlin",
           "description": ")",
           "children": [],
           "repo_info": {
@@ -2741,7 +2741,7 @@
             "open_issues": 22,
             "owner": "Heapy",
             "repo": "awesome-kotlin",
-            "stars": 11385,
+            "stars": 11384,
             "topics": [
               "hacktoberfest",
               "kotlin",
@@ -2809,12 +2809,12 @@
         },
         {
           "node_type": "item",
-          "title": "6514⭐ 1513🍴 R",
+          "title": "6515⭐ 1513🍴 R",
           "description": ") - Functional programming language and environment for statistical computing and graphics.",
           "children": [
             {
               "node_type": "item",
-              "title": "659⭐ 105🍴 Learning",
+              "title": "660⭐ 105🍴 Learning",
               "description": ")",
               "children": [],
               "repo_info": {
@@ -2867,7 +2867,7 @@
         },
         {
           "node_type": "item",
-          "title": "5418⭐ 489🍴 CMake",
+          "title": "5417⭐ 489🍴 CMake",
           "description": ") - Build, test, and package software.",
           "children": [],
           "repo_info": {
@@ -2898,7 +2898,7 @@
         },
         {
           "node_type": "item",
-          "title": "4575⭐ 345🍴 Lua",
+          "title": "4576⭐ 345🍴 Lua",
           "description": ")",
           "children": [],
           "repo_info": {
@@ -2949,7 +2949,7 @@
         },
         {
           "node_type": "item",
-          "title": "3561⭐ 328🍴 Crystal",
+          "title": "3561⭐ 329🍴 Crystal",
           "description": ")",
           "children": [],
           "repo_info": {
@@ -2963,7 +2963,7 @@
             "open_issues": 1,
             "owner": "veelenga",
             "repo": "awesome-crystal",
-            "stars": 3562,
+            "stars": 3561,
             "topics": [
               "awesome",
               "awesome-list",
@@ -3023,7 +3023,7 @@
         },
         {
           "node_type": "item",
-          "title": "3088⭐ 282🍴 AutoHotkey",
+          "title": "3089⭐ 282🍴 AutoHotkey",
           "description": ")",
           "children": [],
           "repo_info": {
@@ -3098,7 +3098,7 @@
         },
         {
           "node_type": "item",
-          "title": "2844⭐ 215🍴 Clojure",
+          "title": "2846⭐ 215🍴 Clojure",
           "description": ")",
           "children": [],
           "repo_info": {
@@ -3150,7 +3150,7 @@
         },
         {
           "node_type": "item",
-          "title": "2108⭐ 142🍴 V",
+          "title": "2109⭐ 142🍴 V",
           "description": ") - Simple, fast, safe, compiled language for developing maintainable software.",
           "children": [],
           "repo_info": {
@@ -3204,7 +3204,7 @@
         },
         {
           "node_type": "item",
-          "title": "1709⭐ 206🍴 Erlang",
+          "title": "1710⭐ 206🍴 Erlang",
           "description": ")",
           "children": [],
           "repo_info": {
@@ -3265,7 +3265,7 @@
         },
         {
           "node_type": "item",
-          "title": "1493⭐ 269🍴 Move",
+          "title": "1493⭐ 270🍴 Move",
           "description": ") - Domain-specific programming language for writing safe smart contracts.",
           "children": [],
           "repo_info": {
@@ -3289,7 +3289,7 @@
         },
         {
           "node_type": "item",
-          "title": "1432⭐ 105🍴 F#",
+          "title": "1433⭐ 105🍴 F#",
           "description": ") - A .NET-based language with focus on functional programming.",
           "children": [],
           "repo_info": {
@@ -3303,7 +3303,7 @@
             "open_issues": 6,
             "owner": "fsprojects",
             "repo": "awesome-fsharp",
-            "stars": 1432,
+            "stars": 1433,
             "topics": [
               "awesome",
               "awesome-list",
@@ -3315,7 +3315,7 @@
         },
         {
           "node_type": "item",
-          "title": "1087⭐ 62🍴 ClojureScript",
+          "title": "1088⭐ 63🍴 ClojureScript",
           "description": ")",
           "children": [],
           "repo_info": {
@@ -3382,7 +3382,7 @@
         },
         {
           "node_type": "item",
-          "title": "865⭐ 91🍴 Ada/SPARK",
+          "title": "868⭐ 91🍴 Ada/SPARK",
           "description": ") - Modern programming language designed for large, long-lived apps where reliability and efficiency are essential.",
           "children": [],
           "repo_info": {
@@ -3396,7 +3396,7 @@
             "open_issues": 3,
             "owner": "ohenley",
             "repo": "awesome-ada",
-            "stars": 865,
+            "stars": 869,
             "topics": [
               "ada",
               "ada-binding",
@@ -3464,7 +3464,7 @@
         },
         {
           "node_type": "item",
-          "title": "709⭐ 104🍴 Perl",
+          "title": "710⭐ 104🍴 Perl",
           "description": ")",
           "children": [],
           "repo_info": {
@@ -3485,7 +3485,7 @@
         },
         {
           "node_type": "item",
-          "title": "625⭐ 71🍴 VBA",
+          "title": "625⭐ 72🍴 VBA",
           "description": ") - An event-driven version of Visual Basic 6.0 built into most Microsoft Office apps for automation and scripting.",
           "children": [],
           "repo_info": {
@@ -3566,7 +3566,7 @@
         },
         {
           "node_type": "item",
-          "title": "415⭐ 63🍴 Fortran",
+          "title": "415⭐ 64🍴 Fortran",
           "description": ")",
           "children": [],
           "repo_info": {
@@ -3580,7 +3580,7 @@
             "open_issues": 3,
             "owner": "rabbiabram",
             "repo": "awesome-fortran",
-            "stars": 415,
+            "stars": 416,
             "topics": []
           },
           "first_seen": "2026-08-28T14:10:50.184Z"
@@ -3615,7 +3615,7 @@
         },
         {
           "node_type": "item",
-          "title": "395⭐ 29🍴 Coq",
+          "title": "396⭐ 29🍴 Coq",
           "description": ") - Formal language and environment for programming and specification which facilitates interactive development of machine-checked proofs.",
           "children": [],
           "repo_info": {
@@ -3641,7 +3641,7 @@
         },
         {
           "node_type": "item",
-          "title": "276⭐ 49🍴 ActionScript 3",
+          "title": "275⭐ 49🍴 ActionScript 3",
           "description": ") - Object-oriented language targeting Adobe AIR.",
           "children": [],
           "repo_info": {
@@ -3791,12 +3791,12 @@
       "items": [
         {
           "node_type": "item",
-          "title": "74689⭐ 7677🍴 React",
+          "title": "74717⭐ 7677🍴 React",
           "description": ") - JavaScript library for building user interfaces.",
           "children": [
             {
               "node_type": "item",
-              "title": "1232⭐ 89🍴 React Hooks",
+              "title": "1227⭐ 89🍴 React Hooks",
               "description": ") - Lets you use state and other React features without writing a class.",
               "children": [],
               "repo_info": {
@@ -3860,7 +3860,7 @@
             "open_issues": 16,
             "owner": "enaqx",
             "repo": "awesome-react",
-            "stars": 74709,
+            "stars": 74721,
             "topics": [
               "awesome",
               "awesome-list",
@@ -3878,7 +3878,7 @@
         },
         {
           "node_type": "item",
-          "title": "73545⭐ 9452🍴 Vue.js",
+          "title": "73544⭐ 9457🍴 Vue.js",
           "description": ") - App framework.",
           "children": [],
           "repo_info": {
@@ -3889,7 +3889,7 @@
             "language": null,
             "license": "MIT",
             "last_commit": "2026-09-24T12:33:22Z",
-            "open_issues": 82,
+            "open_issues": 83,
             "owner": "vuejs",
             "repo": "awesome-vue",
             "stars": 73544,
@@ -3899,7 +3899,7 @@
         },
         {
           "node_type": "item",
-          "title": "57702⭐ 10256🍴 Android UI",
+          "title": "57726⭐ 10257🍴 Android UI",
           "description": ")",
           "children": [],
           "repo_info": {
@@ -3913,7 +3913,7 @@
             "open_issues": 41,
             "owner": "wasabeef",
             "repo": "awesome-android-ui",
-            "stars": 57718,
+            "stars": 57727,
             "topics": [
               "android",
               "awesome",
@@ -3924,7 +3924,7 @@
         },
         {
           "node_type": "item",
-          "title": "15188⭐ 1029🍴 Tailwind CSS",
+          "title": "15189⭐ 1030🍴 Tailwind CSS",
           "description": ") - Utility-first CSS framework for rapid UI development.",
           "children": [],
           "repo_info": {
@@ -3938,7 +3938,7 @@
             "open_issues": 0,
             "owner": "aniftyco",
             "repo": "awesome-tailwindcss",
-            "stars": 15188,
+            "stars": 15189,
             "topics": [
               "apps",
               "awesome",
@@ -3976,7 +3976,7 @@
         },
         {
           "node_type": "item",
-          "title": "11106⭐ 1173🍴 Next.js",
+          "title": "11102⭐ 1176🍴 Next.js",
           "description": ") - Framework for server-rendered React apps.",
           "children": [],
           "repo_info": {
@@ -3987,7 +3987,7 @@
             "language": null,
             "license": null,
             "last_commit": "2026-09-22T07:49:57Z",
-            "open_issues": 273,
+            "open_issues": 275,
             "owner": "unicodeveloper",
             "repo": "awesome-nextjs",
             "stars": 11103,
@@ -4008,7 +4008,7 @@
         },
         {
           "node_type": "item",
-          "title": "10076⭐ 1425🍴 Angular",
+          "title": "10074⭐ 1426🍴 Angular",
           "description": ") - App framework.",
           "children": [],
           "repo_info": {
@@ -4018,8 +4018,8 @@
             "id": 41718185,
             "language": "HTML",
             "license": "CC0-1.0",
-            "last_commit": "2026-09-24T20:20:30Z",
-            "open_issues": 1,
+            "last_commit": "2026-09-25T20:14:27Z",
+            "open_issues": 0,
             "owner": "PatrickJS",
             "repo": "awesome-angular",
             "stars": 10074,
@@ -4081,7 +4081,7 @@
         },
         {
           "node_type": "item",
-          "title": "9091⭐ 593🍴 Web Performance Optimization",
+          "title": "9092⭐ 593🍴 Web Performance Optimization",
           "description": ")",
           "children": [],
           "repo_info": {
@@ -4095,7 +4095,7 @@
             "open_issues": 30,
             "owner": "davidsonfellipe",
             "repo": "awesome-wpo",
-            "stars": 9089,
+            "stars": 9093,
             "topics": [
               "awesome",
               "awesome-list",
@@ -4109,7 +4109,7 @@
         },
         {
           "node_type": "item",
-          "title": "7146⭐ 450🍴 Chrome DevTools",
+          "title": "7150⭐ 450🍴 Chrome DevTools",
           "description": ")",
           "children": [],
           "repo_info": {
@@ -4123,7 +4123,7 @@
             "open_issues": 26,
             "owner": "ChromeDevTools",
             "repo": "awesome-chrome-devtools",
-            "stars": 7149,
+            "stars": 7150,
             "topics": [
               "awesome",
               "awesome-list"
@@ -4133,12 +4133,12 @@
         },
         {
           "node_type": "item",
-          "title": "5633⭐ 454🍴 CSS",
+          "title": "5635⭐ 454🍴 CSS",
           "description": ") - Style sheet language that specifies how HTML elements are displayed on screen.",
           "children": [
             {
               "node_type": "item",
-              "title": "30282⭐ 2205🍴 Protips",
+              "title": "30285⭐ 2204🍴 Protips",
               "description": ")",
               "children": [],
               "repo_info": {
@@ -4152,7 +4152,7 @@
                 "open_issues": 1,
                 "owner": "AllThingsSmitty",
                 "repo": "css-protips",
-                "stars": 30284,
+                "stars": 30285,
                 "topics": [
                   "accessibility",
                   "awesome-list",
@@ -4171,7 +4171,7 @@
             },
             {
               "node_type": "item",
-              "title": "9529⭐ 499🍴 Frameworks",
+              "title": "9528⭐ 499🍴 Frameworks",
               "description": ")",
               "children": [],
               "repo_info": {
@@ -4185,7 +4185,7 @@
                 "open_issues": 4,
                 "owner": "troxler",
                 "repo": "awesome-css-frameworks",
-                "stars": 9529,
+                "stars": 9528,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -4201,7 +4201,7 @@
             },
             {
               "node_type": "item",
-              "title": "4882⭐ 240🍴 Must-Watch Talks",
+              "title": "4881⭐ 240🍴 Must-Watch Talks",
               "description": ")",
               "children": [],
               "repo_info": {
@@ -4233,7 +4233,7 @@
             },
             {
               "node_type": "item",
-              "title": "1546⭐ 79🍴 Scalability",
+              "title": "1545⭐ 79🍴 Scalability",
               "description": ")",
               "children": [],
               "repo_info": {
@@ -4285,7 +4285,7 @@
             "open_issues": 29,
             "owner": "awesome-css-group",
             "repo": "awesome-css",
-            "stars": 5633,
+            "stars": 5635,
             "topics": [
               "awesome",
               "awesome-list",
@@ -4297,7 +4297,7 @@
         },
         {
           "node_type": "item",
-          "title": "5323⭐ 310🍴 D3",
+          "title": "5322⭐ 310🍴 D3",
           "description": ") - Library for producing dynamic, interactive data visualizations.",
           "children": [],
           "repo_info": {
@@ -4324,7 +4324,7 @@
         },
         {
           "node_type": "item",
-          "title": "4649⭐ 404🍴 SVG",
+          "title": "4649⭐ 405🍴 SVG",
           "description": ") - XML-based vector image format.",
           "children": [],
           "repo_info": {
@@ -4335,10 +4335,10 @@
             "language": "Shell",
             "license": null,
             "last_commit": "2026-07-16T16:17:42Z",
-            "open_issues": 47,
+            "open_issues": 48,
             "owner": "willianjusten",
             "repo": "awesome-svg",
-            "stars": 4648,
+            "stars": 4649,
             "topics": [
               "awesome-list",
               "svg"
@@ -4369,7 +4369,7 @@
         },
         {
           "node_type": "item",
-          "title": "3581⭐ 204🍴 Web Components",
+          "title": "3584⭐ 204🍴 Web Components",
           "description": ")",
           "children": [],
           "repo_info": {
@@ -4383,7 +4383,7 @@
             "open_issues": 23,
             "owner": "web-padawan",
             "repo": "awesome-web-components",
-            "stars": 3581,
+            "stars": 3584,
             "topics": [
               "awesome",
               "awesome-list",
@@ -4397,7 +4397,7 @@
         },
         {
           "node_type": "item",
-          "title": "3323⭐ 196🍴 Offline-First",
+          "title": "3322⭐ 196🍴 Offline-First",
           "description": ")",
           "children": [],
           "repo_info": {
@@ -4472,7 +4472,7 @@
         },
         {
           "node_type": "item",
-          "title": "2747⭐ 265🍴 Emails",
+          "title": "2748⭐ 265🍴 Emails",
           "description": ")",
           "children": [],
           "repo_info": {
@@ -4530,7 +4530,7 @@
         },
         {
           "node_type": "item",
-          "title": "2162⭐ 204🍴 Svelte",
+          "title": "2165⭐ 205🍴 Svelte",
           "description": ") - App framework.",
           "children": [],
           "repo_info": {
@@ -4541,10 +4541,10 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2026-09-07T19:38:43Z",
-            "open_issues": 46,
+            "open_issues": 47,
             "owner": "TheComputerM",
             "repo": "awesome-svelte",
-            "stars": 2164,
+            "stars": 2165,
             "topics": [
               "awesome",
               "awesome-list",
@@ -4584,7 +4584,7 @@
         },
         {
           "node_type": "item",
-          "title": "1990⭐ 232🍴 Web Accessibility",
+          "title": "1989⭐ 234🍴 Web Accessibility",
           "description": ")",
           "children": [],
           "repo_info": {
@@ -4595,7 +4595,7 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2026-08-03T22:10:04Z",
-            "open_issues": 79,
+            "open_issues": 81,
             "owner": "brunopulis",
             "repo": "awesome-a11y",
             "stars": 1989,
@@ -4638,7 +4638,7 @@
         },
         {
           "node_type": "item",
-          "title": "1985⭐ 115🍴 WebGPU",
+          "title": "1987⭐ 117🍴 WebGPU",
           "description": ") - JavaScript API for rendering and compute on GPUs.",
           "children": [],
           "repo_info": {
@@ -4652,7 +4652,7 @@
             "open_issues": 20,
             "owner": "mikbry",
             "repo": "awesome-webgpu",
-            "stars": 1986,
+            "stars": 1987,
             "topics": [
               "3d",
               "awesome",
@@ -4668,7 +4668,7 @@
         },
         {
           "node_type": "item",
-          "title": "1902⭐ 129🍴 Sass",
+          "title": "1901⭐ 129🍴 Sass",
           "description": ") - CSS preprocessor.",
           "children": [],
           "repo_info": {
@@ -4724,7 +4724,7 @@
         },
         {
           "node_type": "item",
-          "title": "1736⭐ 107🍴 lit",
+          "title": "1737⭐ 107🍴 lit",
           "description": ") - Library for building web components with a declarative template system.",
           "children": [],
           "repo_info": {
@@ -4734,11 +4734,11 @@
             "id": 135072666,
             "language": null,
             "license": "CC0-1.0",
-            "last_commit": "2026-08-18T05:58:58Z",
-            "open_issues": 8,
+            "last_commit": "2026-09-25T13:16:57Z",
+            "open_issues": 7,
             "owner": "web-padawan",
             "repo": "awesome-lit",
-            "stars": 1736,
+            "stars": 1737,
             "topics": [
               "awesome",
               "awesome-list",
@@ -4749,7 +4749,7 @@
         },
         {
           "node_type": "item",
-          "title": "1665⭐ 66🍴 Service Workers",
+          "title": "1664⭐ 66🍴 Service Workers",
           "description": ")",
           "children": [],
           "repo_info": {
@@ -4828,7 +4828,7 @@
         },
         {
           "node_type": "item",
-          "title": "1578⭐ 94🍴 Progressive Web Apps",
+          "title": "1577⭐ 94🍴 Progressive Web Apps",
           "description": ")",
           "children": [],
           "repo_info": {
@@ -4849,7 +4849,7 @@
         },
         {
           "node_type": "item",
-          "title": "1536⭐ 108🍴 WebGL",
+          "title": "1537⭐ 108🍴 WebGL",
           "description": ") - JavaScript API for rendering 3D graphics.",
           "children": [],
           "repo_info": {
@@ -4917,7 +4917,7 @@
             "open_issues": 27,
             "owner": "notthetup",
             "repo": "awesome-webaudio",
-            "stars": 1398,
+            "stars": 1399,
             "topics": [
               "audio",
               "awesome",
@@ -4984,7 +4984,7 @@
         },
         {
           "node_type": "item",
-          "title": "1288⭐ 66🍴 Mobile Web Development",
+          "title": "1289⭐ 66🍴 Mobile Web Development",
           "description": ") - Creating a great mobile web experience.",
           "children": [],
           "repo_info": {
@@ -4998,7 +4998,7 @@
             "open_issues": 4,
             "owner": "myshov",
             "repo": "awesome-mobile-web-development",
-            "stars": 1288,
+            "stars": 1289,
             "topics": [
               "awesome",
               "awesome-list",
@@ -5101,7 +5101,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "4306⭐ 420🍴 Tips",
+              "title": "4305⭐ 421🍴 Tips",
               "description": ")",
               "children": [],
               "repo_info": {
@@ -5170,7 +5170,7 @@
             "open_issues": 3,
             "owner": "fliptheweb",
             "repo": "motion-ui-design",
-            "stars": 928,
+            "stars": 929,
             "topics": [
               "animation",
               "awesome",
@@ -6116,7 +6116,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "36878⭐ 3370🍴 Docker",
+          "title": "36892⭐ 3370🍴 Docker",
           "description": ")",
           "children": [],
           "repo_info": {
@@ -6127,10 +6127,10 @@
             "language": null,
             "license": "Apache-2.0",
             "last_commit": "2026-09-12T10:37:31Z",
-            "open_issues": 38,
+            "open_issues": 40,
             "owner": "veggiemonk",
             "repo": "awesome-docker",
-            "stars": 36884,
+            "stars": 36894,
             "topics": [
               "awesome",
               "awesome-list",
@@ -6156,7 +6156,7 @@
         },
         {
           "node_type": "item",
-          "title": "16091⭐ 2496🍴 Kubernetes",
+          "title": "16094⭐ 2495🍴 Kubernetes",
           "description": ") - Open-source platform that automates Linux container operations.",
           "children": [],
           "repo_info": {
@@ -6196,7 +6196,7 @@
         },
         {
           "node_type": "item",
-          "title": "13185⭐ 1287🍴 Useful Snippets",
+          "title": "13184⭐ 1286🍴 Useful Snippets",
           "description": ")",
           "children": [],
           "repo_info": {
@@ -6210,7 +6210,7 @@
             "open_issues": 11,
             "owner": "phanan",
             "repo": "htaccess",
-            "stars": 13184,
+            "stars": 13185,
             "topics": [
               "apache",
               "awesome",
@@ -6277,7 +6277,7 @@
         },
         {
           "node_type": "item",
-          "title": "11677⭐ 897🍴 FastAPI",
+          "title": "11682⭐ 896🍴 FastAPI",
           "description": ") - Python web app framework.",
           "children": [],
           "repo_info": {
@@ -6288,10 +6288,10 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2026-08-24T17:18:28Z",
-            "open_issues": 11,
+            "open_issues": 12,
             "owner": "mjhea0",
             "repo": "awesome-fastapi",
-            "stars": 11680,
+            "stars": 11683,
             "topics": [
               "awesome",
               "awesome-list",
@@ -6303,7 +6303,7 @@
         },
         {
           "node_type": "item",
-          "title": "6596⭐ 1066🍴 Terraform",
+          "title": "6602⭐ 1066🍴 Terraform",
           "description": ") - Tool for building, changing, and versioning infrastructure.",
           "children": [],
           "repo_info": {
@@ -6314,10 +6314,10 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2026-09-21T13:40:43Z",
-            "open_issues": 5,
+            "open_issues": 6,
             "owner": "shuaibiyy",
             "repo": "awesome-tf",
-            "stars": 6600,
+            "stars": 6603,
             "topics": [
               "awesome",
               "awesome-list",
@@ -6333,7 +6333,7 @@
         },
         {
           "node_type": "item",
-          "title": "3928⭐ 444🍴 Rails",
+          "title": "3929⭐ 444🍴 Rails",
           "description": ") - Web app framework for Ruby.",
           "children": [
             {
@@ -6381,7 +6381,7 @@
         },
         {
           "node_type": "item",
-          "title": "3815⭐ 329🍴 nginx",
+          "title": "3816⭐ 329🍴 nginx",
           "description": ") - Web server.",
           "children": [],
           "repo_info": {
@@ -6409,7 +6409,7 @@
         },
         {
           "node_type": "item",
-          "title": "2285⭐ 192🍴 IAM",
+          "title": "2286⭐ 192🍴 IAM",
           "description": ") - User accounts, authentication and authorization.",
           "children": [],
           "repo_info": {
@@ -6423,7 +6423,7 @@
             "open_issues": 2,
             "owner": "kdeldycke",
             "repo": "awesome-iam",
-            "stars": 2286,
+            "stars": 2288,
             "topics": [
               "abac",
               "anonymization",
@@ -6579,7 +6579,7 @@
         },
         {
           "node_type": "item",
-          "title": "1570⭐ 223🍴 Symfony",
+          "title": "1570⭐ 224🍴 Symfony",
           "description": ") - PHP framework.",
           "children": [
             {
@@ -6680,7 +6680,7 @@
         },
         {
           "node_type": "item",
-          "title": "841⭐ 59🍴 Fiber",
+          "title": "842⭐ 59🍴 Fiber",
           "description": ") - Web framework built on top of Fasthttp, the fastest HTTP engine for Go.",
           "children": [],
           "repo_info": {
@@ -7016,7 +7016,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "209407⭐ 25908🍴 Open Source Society University",
+          "title": "209469⭐ 25913🍴 Open Source Society University",
           "description": ")",
           "children": [],
           "repo_info": {
@@ -7030,7 +7030,7 @@
             "open_issues": 28,
             "owner": "ossu",
             "repo": "computer-science",
-            "stars": 209439,
+            "stars": 209472,
             "topics": [
               "awesome-list",
               "computer-science",
@@ -7042,12 +7042,12 @@
         },
         {
           "node_type": "item",
-          "title": "74425⭐ 15656🍴 Machine Learning",
+          "title": "74454⭐ 15660🍴 Machine Learning",
           "description": ")",
           "children": [
             {
               "node_type": "item",
-              "title": "18221⭐ 3966🍴 Tutorials",
+              "title": "18228⭐ 3967🍴 Tutorials",
               "description": ")",
               "children": [],
               "repo_info": {
@@ -7061,7 +7061,7 @@
                 "open_issues": 49,
                 "owner": "ujjwalkarn",
                 "repo": "Machine-Learning-Tutorials",
-                "stars": 18227,
+                "stars": 18228,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -7122,7 +7122,7 @@
             },
             {
               "node_type": "item",
-              "title": "6607⭐ 824🍴 AI in Finance",
+              "title": "6616⭐ 826🍴 AI in Finance",
               "description": ") - Solving problems in finance with machine learning.",
               "children": [],
               "repo_info": {
@@ -7133,10 +7133,10 @@
                 "language": null,
                 "license": "CC0-1.0",
                 "last_commit": "2026-09-08T03:00:12Z",
-                "open_issues": 43,
+                "open_issues": 45,
                 "owner": "georgezouq",
                 "repo": "awesome-ai-in-finance",
-                "stars": 6611,
+                "stars": 6618,
                 "topics": [
                   "analysis",
                   "awesome",
@@ -7198,7 +7198,7 @@
                 "language": null,
                 "license": "CC0-1.0",
                 "last_commit": "2026-01-20T05:48:13Z",
-                "open_issues": 26,
+                "open_issues": 25,
                 "owner": "n2cholas",
                 "repo": "awesome-jax",
                 "stars": 2164,
@@ -7313,14 +7313,14 @@
             "open_issues": 20,
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74448,
+            "stars": 74454,
             "topics": []
           },
           "first_seen": "2026-08-28T14:10:50.184Z"
         },
         {
           "node_type": "item",
-          "title": "71359⭐ 8450🍴 University Courses",
+          "title": "71400⭐ 8451🍴 University Courses",
           "description": ")",
           "children": [],
           "repo_info": {
@@ -7334,7 +7334,7 @@
             "open_issues": 65,
             "owner": "prakhar1989",
             "repo": "awesome-courses",
-            "stars": 71387,
+            "stars": 71404,
             "topics": [
               "awesome",
               "awesome-list",
@@ -7346,7 +7346,7 @@
         },
         {
           "node_type": "item",
-          "title": "30058⭐ 6644🍴 Data Science",
+          "title": "30063⭐ 6647🍴 Data Science",
           "description": ")",
           "children": [
             {
@@ -7385,10 +7385,10 @@
             "language": null,
             "license": "MIT",
             "last_commit": "2026-09-24T13:21:26Z",
-            "open_issues": 5,
+            "open_issues": 6,
             "owner": "academic",
             "repo": "awesome-datascience",
-            "stars": 30059,
+            "stars": 30063,
             "topics": [
               "analytics",
               "awesome-list",
@@ -7406,12 +7406,12 @@
         },
         {
           "node_type": "item",
-          "title": "28960⭐ 6351🍴 Deep Learning",
+          "title": "28976⭐ 6351🍴 Deep Learning",
           "description": ") - Neural networks.",
           "children": [
             {
               "node_type": "item",
-              "title": "26196⭐ 4413🍴 Papers",
+              "title": "26196⭐ 4412🍴 Papers",
               "description": ") - The most cited deep learning papers.",
               "children": [],
               "repo_info": {
@@ -7425,7 +7425,7 @@
                 "open_issues": 38,
                 "owner": "terryum",
                 "repo": "awesome-deep-learning-papers",
-                "stars": 26196,
+                "stars": 26197,
                 "topics": [
                   "deep-learning",
                   "deep-neural-networks",
@@ -7565,7 +7565,7 @@
             "open_issues": 88,
             "owner": "ChristosChristofidis",
             "repo": "awesome-deep-learning",
-            "stars": 28967,
+            "stars": 28977,
             "topics": [
               "awesome",
               "awesome-list",
@@ -7582,7 +7582,7 @@
         },
         {
           "node_type": "item",
-          "title": "23570⭐ 4435🍴 Computer Vision",
+          "title": "23572⭐ 4435🍴 Computer Vision",
           "description": ")",
           "children": [],
           "repo_info": {
@@ -7603,7 +7603,7 @@
         },
         {
           "node_type": "item",
-          "title": "14803⭐ 1514🍴 Static Analysis & Code Quality",
+          "title": "14808⭐ 1513🍴 Static Analysis & Code Quality",
           "description": ")",
           "children": [],
           "repo_info": {
@@ -7617,7 +7617,7 @@
             "open_issues": 0,
             "owner": "analysis-tools-dev",
             "repo": "static-analysis",
-            "stars": 14808,
+            "stars": 14807,
             "topics": [
               "analysis",
               "awesome-list",
@@ -7634,7 +7634,7 @@
         },
         {
           "node_type": "item",
-          "title": "12672⭐ 2161🍴 Generative AI",
+          "title": "12682⭐ 2169🍴 Generative AI",
           "description": ") - Automatically generates a wide range of unique content in text, image, and audio format.",
           "children": [],
           "repo_info": {
@@ -7645,10 +7645,10 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2026-09-16T21:39:51Z",
-            "open_issues": 723,
+            "open_issues": 730,
             "owner": "steven2358",
             "repo": "awesome-generative-ai",
-            "stars": 12678,
+            "stars": 12684,
             "topics": [
               "ai",
               "artificial-intelligence",
@@ -7664,7 +7664,7 @@
         },
         {
           "node_type": "item",
-          "title": "11187⭐ 2768🍴 Deep Vision",
+          "title": "11186⭐ 2767🍴 Deep Vision",
           "description": ")",
           "children": [],
           "repo_info": {
@@ -7678,14 +7678,14 @@
             "open_issues": 49,
             "owner": "kjw0612",
             "repo": "awesome-deep-vision",
-            "stars": 11187,
+            "stars": 11186,
             "topics": []
           },
           "first_seen": "2026-08-28T14:10:50.184Z"
         },
         {
           "node_type": "item",
-          "title": "7125⭐ 781🍴 Cryptography",
+          "title": "7128⭐ 780🍴 Cryptography",
           "description": ")",
           "children": [
             {
@@ -7725,10 +7725,10 @@
             "language": null,
             "license": "NOASSERTION",
             "last_commit": "2026-07-15T08:39:47Z",
-            "open_issues": 76,
+            "open_issues": 75,
             "owner": "sobolevn",
             "repo": "awesome-cryptography",
-            "stars": 7125,
+            "stars": 7128,
             "topics": [
               "awesome",
               "awesome-list",
@@ -7742,7 +7742,7 @@
         },
         {
           "node_type": "item",
-          "title": "3276⭐ 474🍴 Quantum Computing",
+          "title": "3276⭐ 473🍴 Quantum Computing",
           "description": ") - Computing that utilizes quantum mechanics and qubits on quantum computers.",
           "children": [],
           "repo_info": {
@@ -7852,7 +7852,7 @@
                 "open_issues": 1,
                 "owner": "accelerated-text",
                 "repo": "awesome-nlg",
-                "stars": 483,
+                "stars": 482,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -7903,7 +7903,7 @@
         },
         {
           "node_type": "item",
-          "title": "1215⭐ 72🍴 Theoretical Computer Science",
+          "title": "1217⭐ 72🍴 Theoretical Computer Science",
           "description": ") - The interplay of computer science and pure mathematics, distinguished by its emphasis on mathematical rigour and technique.",
           "children": [],
           "repo_info": {
@@ -7917,7 +7917,7 @@
             "open_issues": 0,
             "owner": "mostafatouny",
             "repo": "awesome-theoretical-computer-science",
-            "stars": 1216,
+            "stars": 1217,
             "topics": [
               "awesome",
               "awesome-list",
@@ -8091,7 +8091,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "79127⭐ 11852🍴 Public Datasets",
+          "title": "79159⭐ 11853🍴 Public Datasets",
           "description": ")",
           "children": [],
           "repo_info": {
@@ -8105,7 +8105,7 @@
             "open_issues": 161,
             "owner": "awesomedata",
             "repo": "awesome-public-datasets",
-            "stars": 79149,
+            "stars": 79158,
             "topics": [
               "aaron-swartz",
               "awesome-public-datasets",
@@ -8117,7 +8117,7 @@
         },
         {
           "node_type": "item",
-          "title": "14649⭐ 2587🍴 Big Data",
+          "title": "14651⭐ 2587🍴 Big Data",
           "description": ")",
           "children": [],
           "repo_info": {
@@ -8128,10 +8128,10 @@
             "language": null,
             "license": "MIT",
             "last_commit": "2026-07-31T12:51:12Z",
-            "open_issues": 5,
+            "open_issues": 6,
             "owner": "oxnr",
             "repo": "awesome-bigdata",
-            "stars": 14651,
+            "stars": 14653,
             "topics": [
               "awesome",
               "awesome-list",
@@ -8154,7 +8154,7 @@
         },
         {
           "node_type": "item",
-          "title": "9097⭐ 1626🍴 Data Engineering",
+          "title": "9103⭐ 1631🍴 Data Engineering",
           "description": ")",
           "children": [],
           "repo_info": {
@@ -8165,7 +8165,7 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2026-09-07T13:29:54Z",
-            "open_issues": 34,
+            "open_issues": 36,
             "owner": "igorbarinov",
             "repo": "awesome-data-engineering",
             "stars": 9103,
@@ -8215,7 +8215,7 @@
         },
         {
           "node_type": "item",
-          "title": "3018⭐ 324🍴 Streaming",
+          "title": "3018⭐ 326🍴 Streaming",
           "description": ")",
           "children": [],
           "repo_info": {
@@ -8225,8 +8225,8 @@
             "id": 28163761,
             "language": "JavaScript",
             "license": null,
-            "last_commit": "2026-09-25T02:25:03Z",
-            "open_issues": 5,
+            "last_commit": "2026-09-25T21:13:09Z",
+            "open_issues": 6,
             "owner": "manuzhang",
             "repo": "awesome-streaming",
             "stars": 3018,
@@ -8241,7 +8241,7 @@
         },
         {
           "node_type": "item",
-          "title": "1901⭐ 345🍴 Apache Spark",
+          "title": "1902⭐ 345🍴 Apache Spark",
           "description": ") - Unified engine for large-scale data processing.",
           "children": [],
           "repo_info": {
@@ -8362,7 +8362,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "109952⭐ 6436🍴 Papers We Love",
+          "title": "109999⭐ 6439🍴 Papers We Love",
           "description": ")",
           "children": [],
           "repo_info": {
@@ -8373,10 +8373,10 @@
             "language": "Shell",
             "license": null,
             "last_commit": "2026-09-17T00:40:26Z",
-            "open_issues": 4,
+            "open_issues": 5,
             "owner": "papers-we-love",
             "repo": "papers-we-love",
-            "stars": 109979,
+            "stars": 110002,
             "topics": [
               "awesome",
               "computer-science",
@@ -8391,7 +8391,7 @@
         },
         {
           "node_type": "item",
-          "title": "25573⭐ 2965🍴 Algorithms",
+          "title": "25582⭐ 2966🍴 Algorithms",
           "description": ")",
           "children": [
             {
@@ -8434,14 +8434,14 @@
             "open_issues": 0,
             "owner": "tayllan",
             "repo": "awesome-algorithms",
-            "stars": 25577,
+            "stars": 25584,
             "topics": []
           },
           "first_seen": "2026-08-28T14:10:50.184Z"
         },
         {
           "node_type": "item",
-          "title": "16549⭐ 2563🍴 Artificial Intelligence",
+          "title": "16562⭐ 2566🍴 Artificial Intelligence",
           "description": ")",
           "children": [],
           "repo_info": {
@@ -8455,7 +8455,7 @@
             "open_issues": 76,
             "owner": "owainlewis",
             "repo": "awesome-artificial-intelligence",
-            "stars": 16554,
+            "stars": 16562,
             "topics": [
               "ai",
               "artificial-intelligence",
@@ -8474,7 +8474,7 @@
         },
         {
           "node_type": "item",
-          "title": "16475⭐ 1611🍴 Math",
+          "title": "16482⭐ 1612🍴 Math",
           "description": ")",
           "children": [],
           "repo_info": {
@@ -8488,7 +8488,7 @@
             "open_issues": 0,
             "owner": "rossant",
             "repo": "awesome-math",
-            "stars": 16477,
+            "stars": 16483,
             "topics": [
               "awesome",
               "awesome-list",
@@ -8501,7 +8501,7 @@
         },
         {
           "node_type": "item",
-          "title": "14188⭐ 2615🍴 Competitive Programming",
+          "title": "14191⭐ 2615🍴 Competitive Programming",
           "description": ")",
           "children": [],
           "repo_info": {
@@ -8515,7 +8515,7 @@
             "open_issues": 28,
             "owner": "lnishan",
             "repo": "awesome-competitive-programming",
-            "stars": 14191,
+            "stars": 14192,
             "topics": [
               "algorithm",
               "awesome",
@@ -8556,7 +8556,7 @@
         },
         {
           "node_type": "item",
-          "title": "2784⭐ 330🍴 Search Engine Optimization",
+          "title": "2785⭐ 330🍴 Search Engine Optimization",
           "description": ")",
           "children": [],
           "repo_info": {
@@ -8609,7 +8609,7 @@
         },
         {
           "node_type": "item",
-          "title": "1321⭐ 56🍴 VLM Architectures",
+          "title": "1322⭐ 56🍴 VLM Architectures",
           "description": ") - Vision Language Model architectures.",
           "children": [],
           "repo_info": {
@@ -8778,7 +8778,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "397532⭐ 66829🍴 Free Programming Books",
+          "title": "397687⭐ 66840🍴 Free Programming Books",
           "description": ")",
           "children": [],
           "repo_info": {
@@ -8789,10 +8789,10 @@
             "language": "Python",
             "license": "CC-BY-4.0",
             "last_commit": "2026-09-24T12:26:41Z",
-            "open_issues": 81,
+            "open_issues": 82,
             "owner": "EbookFoundation",
             "repo": "free-programming-books",
-            "stars": 397610,
+            "stars": 397724,
             "topics": [
               "books",
               "education",
@@ -8805,7 +8805,7 @@
         },
         {
           "node_type": "item",
-          "title": "19685⭐ 2252🍴 Go Books",
+          "title": "19687⭐ 2252🍴 Go Books",
           "description": ")",
           "children": [],
           "repo_info": {
@@ -8819,7 +8819,7 @@
             "open_issues": 0,
             "owner": "dariubs",
             "repo": "GoBooks",
-            "stars": 19686,
+            "stars": 19688,
             "topics": [
               "awesome",
               "awesome-go",
@@ -8844,7 +8844,7 @@
         },
         {
           "node_type": "item",
-          "title": "14296⭐ 1173🍴 Mind Expanding Books",
+          "title": "14303⭐ 1174🍴 Mind Expanding Books",
           "description": ")",
           "children": [],
           "repo_info": {
@@ -8858,7 +8858,7 @@
             "open_issues": 34,
             "owner": "hackerkid",
             "repo": "Mind-Expanding-Books",
-            "stars": 14300,
+            "stars": 14304,
             "topics": [
               "awesome",
               "awesome-list",
@@ -8946,7 +8946,7 @@
         },
         {
           "node_type": "item",
-          "title": "281⭐ 29🍴 R Books",
+          "title": "281⭐ 28🍴 R Books",
           "description": ")",
           "children": [],
           "repo_info": {
@@ -8973,7 +8973,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "29068⭐ 1422🍴 Visual Studio Code",
+          "title": "29079⭐ 1423🍴 Visual Studio Code",
           "description": ") - Cross-platform open-source text editor.",
           "children": [],
           "repo_info": {
@@ -8984,10 +8984,10 @@
             "language": "JavaScript",
             "license": "CC0-1.0",
             "last_commit": "2026-06-21T09:36:55Z",
-            "open_issues": 64,
+            "open_issues": 66,
             "owner": "viatsko",
             "repo": "awesome-vscode",
-            "stars": 29074,
+            "stars": 29079,
             "topics": [
               "awesome",
               "awesome-list",
@@ -9006,7 +9006,7 @@
         },
         {
           "node_type": "item",
-          "title": "21412⭐ 1059🍴 Neovim",
+          "title": "21416⭐ 1061🍴 Neovim",
           "description": ") - Vim-fork focused on extensibility and usability.",
           "children": [],
           "repo_info": {
@@ -9016,11 +9016,11 @@
             "id": 296702877,
             "language": "Shell",
             "license": "CC0-1.0",
-            "last_commit": "2026-09-25T06:16:04Z",
-            "open_issues": 9,
+            "last_commit": "2026-09-25T15:55:26Z",
+            "open_issues": 8,
             "owner": "rockerBOO",
             "repo": "awesome-neovim",
-            "stars": 21415,
+            "stars": 21417,
             "topics": [
               "awesome",
               "awesome-list",
@@ -9033,7 +9033,7 @@
         },
         {
           "node_type": "item",
-          "title": "17991⭐ 627🍴 Vim",
+          "title": "17996⭐ 626🍴 Vim",
           "description": ")",
           "children": [],
           "repo_info": {
@@ -9047,7 +9047,7 @@
             "open_issues": 13,
             "owner": "mhinz",
             "repo": "vim-galore",
-            "stars": 17994,
+            "stars": 17996,
             "topics": [
               "awesome",
               "awesome-list",
@@ -9090,7 +9090,7 @@
         },
         {
           "node_type": "item",
-          "title": "1077⭐ 69🍴 Sublime Text",
+          "title": "1077⭐ 70🍴 Sublime Text",
           "description": ")",
           "children": [],
           "repo_info": {
@@ -9123,7 +9123,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "17357⭐ 1235🍴 Game Development",
+          "title": "17364⭐ 1240🍴 Game Development",
           "description": ")",
           "children": [],
           "repo_info": {
@@ -9133,11 +9133,11 @@
             "id": 21958186,
             "language": "Markdown",
             "license": "MIT",
-            "last_commit": "2026-09-23T14:38:21Z",
-            "open_issues": 18,
+            "last_commit": "2026-09-25T12:55:44Z",
+            "open_issues": 19,
             "owner": "ellisonleao",
             "repo": "magictools",
-            "stars": 17363,
+            "stars": 17364,
             "topics": [
               "art",
               "awesome",
@@ -9161,7 +9161,7 @@
         },
         {
           "node_type": "item",
-          "title": "10782⭐ 588🍴 Godot",
+          "title": "10794⭐ 588🍴 Godot",
           "description": ") - Game engine.",
           "children": [],
           "repo_info": {
@@ -9175,7 +9175,7 @@
             "open_issues": 72,
             "owner": "Calinou",
             "repo": "awesome-godot",
-            "stars": 10790,
+            "stars": 10795,
             "topics": [
               "awesome",
               "awesome-list",
@@ -9188,7 +9188,7 @@
         },
         {
           "node_type": "item",
-          "title": "4512⭐ 195🍴 Game Boy Development",
+          "title": "4514⭐ 195🍴 Game Boy Development",
           "description": ")",
           "children": [],
           "repo_info": {
@@ -9202,7 +9202,7 @@
             "open_issues": 24,
             "owner": "gbdev",
             "repo": "awesome-gbdev",
-            "stars": 4513,
+            "stars": 4514,
             "topics": [
               "assembler",
               "awesome",
@@ -9229,7 +9229,7 @@
         },
         {
           "node_type": "item",
-          "title": "4506⭐ 246🍴 LÖVE",
+          "title": "4507⭐ 247🍴 LÖVE",
           "description": ") - Game engine.",
           "children": [],
           "repo_info": {
@@ -9243,7 +9243,7 @@
             "open_issues": 1,
             "owner": "love2d-community",
             "repo": "awesome-love2d",
-            "stars": 4508,
+            "stars": 4507,
             "topics": [
               "awesome",
               "awesome-list",
@@ -9256,7 +9256,7 @@
         },
         {
           "node_type": "item",
-          "title": "3606⭐ 215🍴 Discord Communities",
+          "title": "3607⭐ 215🍴 Discord Communities",
           "description": ") - Chat with friends and communities.",
           "children": [],
           "repo_info": {
@@ -9270,7 +9270,7 @@
             "open_issues": 26,
             "owner": "mhxion",
             "repo": "awesome-discord-communities",
-            "stars": 3605,
+            "stars": 3607,
             "topics": [
               "awesome",
               "awesome-list",
@@ -9316,7 +9316,7 @@
         },
         {
           "node_type": "item",
-          "title": "3157⭐ 280🍴 Open Source Games",
+          "title": "3164⭐ 280🍴 Open Source Games",
           "description": ")",
           "children": [],
           "repo_info": {
@@ -9330,7 +9330,7 @@
             "open_issues": 7,
             "owner": "michelpereira",
             "repo": "awesome-open-source-games",
-            "stars": 3163,
+            "stars": 3165,
             "topics": [
               "awesome",
               "awesome-list",
@@ -9356,7 +9356,7 @@
             "open_issues": 0,
             "owner": "pico-8",
             "repo": "awesome-PICO-8",
-            "stars": 3079,
+            "stars": 3080,
             "topics": [
               "8-bit-computer",
               "8bit",
@@ -9405,7 +9405,7 @@
         },
         {
           "node_type": "item",
-          "title": "1476⭐ 70🍴 Game Remakes",
+          "title": "1476⭐ 71🍴 Game Remakes",
           "description": ") - Actively maintained open-source game remakes.",
           "children": [],
           "repo_info": {
@@ -9419,7 +9419,7 @@
             "open_issues": 1,
             "owner": "radek-sprta",
             "repo": "awesome-game-remakes",
-            "stars": 1475,
+            "stars": 1476,
             "topics": [
               "awesome",
               "awesome-list",
@@ -9433,7 +9433,7 @@
         },
         {
           "node_type": "item",
-          "title": "1416⭐ 109🍴 Game Engine Development",
+          "title": "1418⭐ 109🍴 Game Engine Development",
           "description": ") - Building software to speed up game creation.",
           "children": [],
           "repo_info": {
@@ -9472,7 +9472,7 @@
         },
         {
           "node_type": "item",
-          "title": "1384⭐ 115🍴 Flame",
+          "title": "1385⭐ 115🍴 Flame",
           "description": ") - Game engine for Flutter.",
           "children": [],
           "repo_info": {
@@ -9548,7 +9548,7 @@
         },
         {
           "node_type": "item",
-          "title": "1125⭐ 87🍴 Game Datasets",
+          "title": "1128⭐ 87🍴 Game Datasets",
           "description": ") - Materials and datasets for Artificial Intelligence in games.",
           "children": [],
           "repo_info": {
@@ -9579,7 +9579,7 @@
         },
         {
           "node_type": "item",
-          "title": "647⭐ 50🍴 Minecraft",
+          "title": "648⭐ 50🍴 Minecraft",
           "description": ") - Sandbox video game.",
           "children": [],
           "repo_info": {
@@ -9604,7 +9604,7 @@
         },
         {
           "node_type": "item",
-          "title": "539⭐ 48🍴 Chess",
+          "title": "540⭐ 48🍴 Chess",
           "description": ")",
           "children": [],
           "repo_info": {
@@ -9669,7 +9669,7 @@
             "open_issues": 2,
             "owner": "playcanvas",
             "repo": "awesome-playcanvas",
-            "stars": 492,
+            "stars": 491,
             "topics": [
               "awesome",
               "awesome-list",
@@ -9715,7 +9715,7 @@
         },
         {
           "node_type": "item",
-          "title": "356⭐ 26🍴 Babylon.js",
+          "title": "357⭐ 26🍴 Babylon.js",
           "description": ") - Game engine for cross-platform web and native game development.",
           "children": [],
           "repo_info": {
@@ -9743,7 +9743,7 @@
         },
         {
           "node_type": "item",
-          "title": "320⭐ 18🍴 ComputerCraft",
+          "title": "320⭐ 17🍴 ComputerCraft",
           "description": ") - Minecraft mod that adds programmable computers.",
           "children": [],
           "repo_info": {
@@ -9830,7 +9830,7 @@
         },
         {
           "node_type": "item",
-          "title": "107⭐ 10🍴 Esports",
+          "title": "108⭐ 10🍴 Esports",
           "description": ") - Video games played as a sport.",
           "children": [],
           "repo_info": {
@@ -9844,7 +9844,7 @@
             "open_issues": 3,
             "owner": "Strift",
             "repo": "awesome-esports",
-            "stars": 107,
+            "stars": 108,
             "topics": [
               "awesome",
               "awesome-list",
@@ -9955,7 +9955,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "37666⭐ 2557🍴 Shell",
+          "title": "37678⭐ 2560🍴 Shell",
           "description": ")",
           "children": [],
           "repo_info": {
@@ -9969,7 +9969,7 @@
             "open_issues": 186,
             "owner": "alebcay",
             "repo": "awesome-shell",
-            "stars": 37671,
+            "stars": 37678,
             "topics": [
               "awesome",
               "awesome-list",
@@ -9985,7 +9985,7 @@
         },
         {
           "node_type": "item",
-          "title": "28248⭐ 1809🍴 GitHub Actions",
+          "title": "28254⭐ 1810🍴 GitHub Actions",
           "description": ") - Create tasks to automate your workflow and share them with others on GitHub.",
           "children": [],
           "repo_info": {
@@ -9996,10 +9996,10 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2024-09-01T20:32:39Z",
-            "open_issues": 317,
+            "open_issues": 318,
             "owner": "sdras",
             "repo": "awesome-actions",
-            "stars": 28251,
+            "stars": 28256,
             "topics": [
               "actions",
               "actions-list",
@@ -10029,7 +10029,7 @@
             "open_issues": 4,
             "owner": "git-tips",
             "repo": "tips",
-            "stars": 21725,
+            "stars": 21726,
             "topics": [
               "git",
               "tips",
@@ -10040,7 +10040,7 @@
         },
         {
           "node_type": "item",
-          "title": "20453⭐ 1523🍴 Command-Line Apps",
+          "title": "20468⭐ 1525🍴 Command-Line Apps",
           "description": ")",
           "children": [],
           "repo_info": {
@@ -10054,7 +10054,7 @@
             "open_issues": 2,
             "owner": "agarrharr",
             "repo": "awesome-cli-apps",
-            "stars": 20462,
+            "stars": 20470,
             "topics": [
               "awesome",
               "awesome-list",
@@ -10067,7 +10067,7 @@
         },
         {
           "node_type": "item",
-          "title": "18763⭐ 548🍴 Quick Look Plugins",
+          "title": "18768⭐ 548🍴 Quick Look Plugins",
           "description": ") - For macOS.",
           "children": [],
           "repo_info": {
@@ -10081,14 +10081,14 @@
             "open_issues": 4,
             "owner": "sindresorhus",
             "repo": "quick-look-plugins",
-            "stars": 18767,
+            "stars": 18768,
             "topics": []
           },
           "first_seen": "2026-08-28T14:10:50.184Z"
         },
         {
           "node_type": "item",
-          "title": "18028⭐ 610🍴 ZSH Plugins",
+          "title": "18032⭐ 611🍴 ZSH Plugins",
           "description": ")",
           "children": [],
           "repo_info": {
@@ -10098,8 +10098,8 @@
             "id": 24878875,
             "language": "Shell",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-09-24T14:40:05Z",
-            "open_issues": 7,
+            "last_commit": "2026-09-25T21:03:36Z",
+            "open_issues": 6,
             "owner": "unixorn",
             "repo": "awesome-zsh-plugins",
             "stars": 18031,
@@ -10123,7 +10123,7 @@
         },
         {
           "node_type": "item",
-          "title": "13128⭐ 654🍴 Terminals Are Sexy",
+          "title": "13133⭐ 654🍴 Terminals Are Sexy",
           "description": ")",
           "children": [],
           "repo_info": {
@@ -10137,7 +10137,7 @@
             "open_issues": 155,
             "owner": "k4m4",
             "repo": "terminals-are-sexy",
-            "stars": 13131,
+            "stars": 13133,
             "topics": [
               "awesome-lists",
               "cli-lovers",
@@ -10209,7 +10209,7 @@
         },
         {
           "node_type": "item",
-          "title": "7463⭐ 1443🍴 Git Cheat Sheet & Git Flow",
+          "title": "7463⭐ 1442🍴 Git Cheat Sheet & Git Flow",
           "description": ")",
           "children": [],
           "repo_info": {
@@ -10223,7 +10223,7 @@
             "open_issues": 1,
             "owner": "arslanbilal",
             "repo": "git-cheat-sheet",
-            "stars": 7462,
+            "stars": 7463,
             "topics": [
               "cheatsheet",
               "git",
@@ -10260,7 +10260,7 @@
         },
         {
           "node_type": "item",
-          "title": "3351⭐ 209🍴 Dev Env",
+          "title": "3352⭐ 209🍴 Dev Env",
           "description": ")",
           "children": [],
           "repo_info": {
@@ -10314,7 +10314,7 @@
         },
         {
           "node_type": "item",
-          "title": "2201⭐ 126🍴 Git Add-ons",
+          "title": "2202⭐ 128🍴 Git Add-ons",
           "description": ") - Enhance the CLI.",
           "children": [],
           "repo_info": {
@@ -10348,7 +10348,7 @@
         },
         {
           "node_type": "item",
-          "title": "1421⭐ 105🍴 FOSS for Developers",
+          "title": "1423⭐ 105🍴 FOSS for Developers",
           "description": ")",
           "children": [],
           "repo_info": {
@@ -10362,7 +10362,7 @@
             "open_issues": 8,
             "owner": "tvvocold",
             "repo": "FOSS-for-Dev",
-            "stars": 1422,
+            "stars": 1423,
             "topics": []
           },
           "first_seen": "2026-08-28T14:10:50.184Z"
@@ -10398,12 +10398,12 @@
         },
         {
           "node_type": "item",
-          "title": "970⭐ 120🍴 GitHub",
+          "title": "970⭐ 121🍴 GitHub",
           "description": ") - Hosting service for Git repositories.",
           "children": [
             {
               "node_type": "item",
-              "title": "59239⭐ 5456🍴 Cheat Sheet",
+              "title": "59275⭐ 5458🍴 Cheat Sheet",
               "description": ")",
               "children": [],
               "repo_info": {
@@ -10417,7 +10417,7 @@
                 "open_issues": 49,
                 "owner": "tiimgreen",
                 "repo": "github-cheat-sheet",
-                "stars": 59261,
+                "stars": 59276,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -10501,7 +10501,7 @@
         },
         {
           "node_type": "item",
-          "title": "761⭐ 31🍴 WezTerm",
+          "title": "762⭐ 31🍴 WezTerm",
           "description": ") - Powerful cross-platform terminal emulator.",
           "children": [],
           "repo_info": {
@@ -10535,7 +10535,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "5058⭐ 275🍴 Science Fiction",
+          "title": "5061⭐ 275🍴 Science Fiction",
           "description": ") - Scifi.",
           "children": [],
           "repo_info": {
@@ -10549,7 +10549,7 @@
             "open_issues": 1,
             "owner": "sindresorhus",
             "repo": "awesome-scifi",
-            "stars": 5058,
+            "stars": 5061,
             "topics": [
               "awesome",
               "awesome-list",
@@ -10566,7 +10566,7 @@
         },
         {
           "node_type": "item",
-          "title": "4472⭐ 378🍴 Email Newsletters",
+          "title": "4473⭐ 379🍴 Email Newsletters",
           "description": ")",
           "children": [],
           "repo_info": {
@@ -10577,10 +10577,10 @@
             "language": null,
             "license": null,
             "last_commit": "2026-04-17T18:23:06Z",
-            "open_issues": 54,
+            "open_issues": 55,
             "owner": "zudochkin",
             "repo": "awesome-newsletters",
-            "stars": 4473,
+            "stars": 4474,
             "topics": [
               "awesome",
               "awesome-list",
@@ -10688,10 +10688,10 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2026-08-31T09:07:19Z",
-            "open_issues": 75,
+            "open_issues": 76,
             "owner": "dhamaniasad",
             "repo": "awesome-postgres",
-            "stars": 12104,
+            "stars": 12103,
             "topics": [
               "database",
               "postgres",
@@ -10702,7 +10702,7 @@
         },
         {
           "node_type": "item",
-          "title": "5316⭐ 492🍴 Database Tools",
+          "title": "5317⭐ 493🍴 Database Tools",
           "description": ") - Everything that makes working with databases easier.",
           "children": [],
           "repo_info": {
@@ -10713,10 +10713,10 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2026-05-21T15:18:32Z",
-            "open_issues": 201,
+            "open_issues": 202,
             "owner": "mgramin",
             "repo": "awesome-db-tools",
-            "stars": 5316,
+            "stars": 5317,
             "topics": [
               "awesome",
               "awesome-list",
@@ -10733,7 +10733,7 @@
         },
         {
           "node_type": "item",
-          "title": "3060⭐ 166🍴 SQLAlchemy",
+          "title": "3061⭐ 166🍴 SQLAlchemy",
           "description": ")",
           "children": [],
           "repo_info": {
@@ -10884,7 +10884,7 @@
         },
         {
           "node_type": "item",
-          "title": "564⭐ 84🍴 Neo4j",
+          "title": "565⭐ 83🍴 Neo4j",
           "description": ")",
           "children": [],
           "repo_info": {
@@ -10905,7 +10905,7 @@
         },
         {
           "node_type": "item",
-          "title": "482⭐ 69🍴 Supabase",
+          "title": "482⭐ 70🍴 Supabase",
           "description": ") - An open-source alternative to Firebase.",
           "children": [],
           "repo_info": {
@@ -11122,7 +11122,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "14557⭐ 819🍴 Stock Resources",
+          "title": "14559⭐ 818🍴 Stock Resources",
           "description": ")",
           "children": [],
           "repo_info": {
@@ -11133,10 +11133,10 @@
             "language": "Ruby",
             "license": "CC0-1.0",
             "last_commit": "2026-02-11T22:01:53Z",
-            "open_issues": 91,
+            "open_issues": 92,
             "owner": "neutraltone",
             "repo": "awesome-stock-resources",
-            "stars": 14557,
+            "stars": 14560,
             "topics": [
               "awesome",
               "awesome-list",
@@ -11158,7 +11158,7 @@
         },
         {
           "node_type": "item",
-          "title": "6516⭐ 415🍴 Codeface",
+          "title": "6515⭐ 414🍴 Codeface",
           "description": ") - Text editor fonts.",
           "children": [],
           "repo_info": {
@@ -11193,7 +11193,7 @@
         },
         {
           "node_type": "item",
-          "title": "5079⭐ 350🍴 Audio Visualization",
+          "title": "5080⭐ 351🍴 Audio Visualization",
           "description": ")",
           "children": [],
           "repo_info": {
@@ -11204,17 +11204,17 @@
             "language": "Shell",
             "license": null,
             "last_commit": "2026-08-13T14:34:10Z",
-            "open_issues": 16,
+            "open_issues": 17,
             "owner": "willianjusten",
             "repo": "awesome-audio-visualization",
-            "stars": 5079,
+            "stars": 5080,
             "topics": []
           },
           "first_seen": "2026-08-28T14:10:50.184Z"
         },
         {
           "node_type": "item",
-          "title": "2498⭐ 183🍴 Music",
+          "title": "2500⭐ 184🍴 Music",
           "description": ")",
           "children": [],
           "repo_info": {
@@ -11228,7 +11228,7 @@
             "open_issues": 44,
             "owner": "noteflakes",
             "repo": "awesome-music",
-            "stars": 2499,
+            "stars": 2500,
             "topics": [
               "audio",
               "awesome",
@@ -11298,7 +11298,7 @@
         },
         {
           "node_type": "item",
-          "title": "1783⭐ 224🍴 Broadcasting",
+          "title": "1784⭐ 225🍴 Broadcasting",
           "description": ")",
           "children": [],
           "repo_info": {
@@ -11455,7 +11455,7 @@
         },
         {
           "node_type": "item",
-          "title": "270⭐ 25🍴 Audiovisual",
+          "title": "270⭐ 26🍴 Audiovisual",
           "description": ") - Lighting, audio and video in professional environments.",
           "children": [],
           "repo_info": {
@@ -11497,7 +11497,7 @@
             "open_issues": 2,
             "owner": "Mo-way",
             "repo": "awesome-aoip",
-            "stars": 152,
+            "stars": 153,
             "topics": [
               "aes67",
               "audio",
@@ -11520,7 +11520,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "7819⭐ 501🍴 YouTubers",
+          "title": "7820⭐ 501🍴 YouTubers",
           "description": ") - Watch video tutorials from YouTubers that teach you about technology.",
           "children": [],
           "repo_info": {
@@ -11547,7 +11547,7 @@
         },
         {
           "node_type": "item",
-          "title": "7359⭐ 487🍴 Roadmaps",
+          "title": "7364⭐ 487🍴 Roadmaps",
           "description": ") - Gives you a clear route to improve your knowledge and skills.",
           "children": [],
           "repo_info": {
@@ -11561,7 +11561,7 @@
             "open_issues": 4,
             "owner": "liuchong",
             "repo": "awesome-roadmaps",
-            "stars": 7362,
+            "stars": 7365,
             "topics": [
               "awesome",
               "awesome-list",
@@ -11574,7 +11574,7 @@
         },
         {
           "node_type": "item",
-          "title": "5850⭐ 604🍴 JavaScript Learning",
+          "title": "5852⭐ 603🍴 JavaScript Learning",
           "description": ")",
           "children": [],
           "repo_info": {
@@ -11588,7 +11588,7 @@
             "open_issues": 9,
             "owner": "micromata",
             "repo": "awesome-javascript-learning",
-            "stars": 5850,
+            "stars": 5852,
             "topics": [
               "awesome",
               "awesome-list",
@@ -11602,7 +11602,7 @@
         },
         {
           "node_type": "item",
-          "title": "5771⭐ 476🍴 Certificates",
+          "title": "5775⭐ 475🍴 Certificates",
           "description": ") - Free computer science certifications to showcase your knowledge.",
           "children": [],
           "repo_info": {
@@ -11616,7 +11616,7 @@
             "open_issues": 50,
             "owner": "PanXProject",
             "repo": "awesome-certificates",
-            "stars": 5774,
+            "stars": 5776,
             "topics": [
               "awesome",
               "awesome-list",
@@ -11634,7 +11634,7 @@
         },
         {
           "node_type": "item",
-          "title": "4947⭐ 250🍴 Learn to Program",
+          "title": "4949⭐ 250🍴 Learn to Program",
           "description": ")",
           "children": [],
           "repo_info": {
@@ -11648,14 +11648,14 @@
             "open_issues": 24,
             "owner": "karlhorky",
             "repo": "learn-to-program",
-            "stars": 4946,
+            "stars": 4949,
             "topics": []
           },
           "first_seen": "2026-08-28T14:10:50.184Z"
         },
         {
           "node_type": "item",
-          "title": "3861⭐ 270🍴 CSS Learning",
+          "title": "3862⭐ 270🍴 CSS Learning",
           "description": ") - Mainly about CSS – the language and the modules.",
           "children": [],
           "repo_info": {
@@ -11669,7 +11669,7 @@
             "open_issues": 9,
             "owner": "micromata",
             "repo": "awesome-css-learning",
-            "stars": 3861,
+            "stars": 3862,
             "topics": [
               "awesome",
               "awesome-list",
@@ -11683,7 +11683,7 @@
         },
         {
           "node_type": "item",
-          "title": "2961⭐ 158🍴 Computer History",
+          "title": "2962⭐ 158🍴 Computer History",
           "description": ")",
           "children": [],
           "repo_info": {
@@ -11697,7 +11697,7 @@
             "open_issues": 17,
             "owner": "watson",
             "repo": "awesome-computer-history",
-            "stars": 2961,
+            "stars": 2962,
             "topics": [
               "awesome",
               "awesome-list",
@@ -11713,7 +11713,7 @@
         },
         {
           "node_type": "item",
-          "title": "2373⭐ 223🍴 Product Management",
+          "title": "2375⭐ 222🍴 Product Management",
           "description": ") - Learn how to be a better product manager.",
           "children": [],
           "repo_info": {
@@ -11724,7 +11724,7 @@
             "language": "CSS",
             "license": "CC0-1.0",
             "last_commit": "2026-09-07T22:44:09Z",
-            "open_issues": 110,
+            "open_issues": 111,
             "owner": "dend",
             "repo": "awesome-product-management",
             "stars": 2375,
@@ -11740,7 +11740,7 @@
         },
         {
           "node_type": "item",
-          "title": "2277⭐ 68🍴 CLI Workshoppers",
+          "title": "2279⭐ 68🍴 CLI Workshoppers",
           "description": ") - Interactive tutorials.",
           "children": [],
           "repo_info": {
@@ -11754,7 +11754,7 @@
             "open_issues": 2,
             "owner": "therebelrobot",
             "repo": "awesome-workshopper",
-            "stars": 2278,
+            "stars": 2279,
             "topics": []
           },
           "first_seen": "2026-08-28T14:10:50.184Z"
@@ -11816,7 +11816,7 @@
         },
         {
           "node_type": "item",
-          "title": "1179⭐ 84🍴 Educational Games",
+          "title": "1180⭐ 84🍴 Educational Games",
           "description": ") - Learn while playing.",
           "children": [],
           "repo_info": {
@@ -11830,7 +11830,7 @@
             "open_issues": 15,
             "owner": "yrgo",
             "repo": "awesome-educational-games",
-            "stars": 1178,
+            "stars": 1180,
             "topics": [
               "awesome",
               "education",
@@ -11888,7 +11888,7 @@
         },
         {
           "node_type": "item",
-          "title": "267⭐ 41🍴 STEAM",
+          "title": "268⭐ 41🍴 STEAM",
           "description": ") - Supplements for specific science, technology, engineering, arts, and math (STEAM) courses across all grade levels.",
           "children": [],
           "repo_info": {
@@ -11936,7 +11936,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "17119⭐ 1720🍴 Hacking",
+          "title": "17144⭐ 1723🍴 Hacking",
           "description": ")",
           "children": [],
           "repo_info": {
@@ -11950,7 +11950,7 @@
             "open_issues": 74,
             "owner": "carpedm20",
             "repo": "awesome-hacking",
-            "stars": 17132,
+            "stars": 17145,
             "topics": [
               "awesome",
               "hacking"
@@ -11960,7 +11960,7 @@
         },
         {
           "node_type": "item",
-          "title": "14882⭐ 2403🍴 Security",
+          "title": "14897⭐ 2410🍴 Security",
           "description": ")",
           "children": [],
           "repo_info": {
@@ -11971,10 +11971,10 @@
             "language": null,
             "license": "MIT",
             "last_commit": "2026-01-11T02:00:26Z",
-            "open_issues": 343,
+            "open_issues": 344,
             "owner": "sbilly",
             "repo": "awesome-security",
-            "stars": 14890,
+            "stars": 14897,
             "topics": [
               "awesome-list",
               "security"
@@ -11984,7 +11984,7 @@
         },
         {
           "node_type": "item",
-          "title": "14217⭐ 2693🍴 Malware Analysis",
+          "title": "14219⭐ 2688🍴 Malware Analysis",
           "description": ")",
           "children": [],
           "repo_info": {
@@ -11998,7 +11998,7 @@
             "open_issues": 25,
             "owner": "rshipp",
             "repo": "awesome-malware-analysis",
-            "stars": 14218,
+            "stars": 14219,
             "topics": [
               "analysis-framework",
               "automated-analysis",
@@ -12025,7 +12025,7 @@
         },
         {
           "node_type": "item",
-          "title": "13818⭐ 1821🍴 Web Security",
+          "title": "13822⭐ 1821🍴 Web Security",
           "description": ") - Security of web apps & services.",
           "children": [],
           "repo_info": {
@@ -12039,7 +12039,7 @@
             "open_issues": 9,
             "owner": "qazbnm456",
             "repo": "awesome-web-security",
-            "stars": 13821,
+            "stars": 13823,
             "topics": [
               "awesome",
               "awesome-list",
@@ -12054,7 +12054,7 @@
         },
         {
           "node_type": "item",
-          "title": "11863⭐ 1624🍴 CTF",
+          "title": "11865⭐ 1623🍴 CTF",
           "description": ") - Capture The Flag.",
           "children": [],
           "repo_info": {
@@ -12068,7 +12068,7 @@
             "open_issues": 68,
             "owner": "apsdehal",
             "repo": "awesome-ctf",
-            "stars": 11861,
+            "stars": 11865,
             "topics": [
               "awesome",
               "ctf",
@@ -12080,7 +12080,7 @@
         },
         {
           "node_type": "item",
-          "title": "10566⭐ 1379🍴 Honeypots",
+          "title": "10565⭐ 1379🍴 Honeypots",
           "description": ") - Deception trap, designed to entice an attacker into attempting to compromise the information systems in an organization.",
           "children": [],
           "repo_info": {
@@ -12107,7 +12107,7 @@
         },
         {
           "node_type": "item",
-          "title": "9707⭐ 1577🍴 Android Security",
+          "title": "9706⭐ 1577🍴 Android Security",
           "description": ")",
           "children": [],
           "repo_info": {
@@ -12148,7 +12148,7 @@
             "open_issues": 86,
             "owner": "meirwah",
             "repo": "awesome-incident-response",
-            "stars": 9405,
+            "stars": 9407,
             "topics": [
               "awesome",
               "awesome-list",
@@ -12164,7 +12164,7 @@
         },
         {
           "node_type": "item",
-          "title": "7065⭐ 805🍴 Application Security",
+          "title": "7064⭐ 805🍴 Application Security",
           "description": ")",
           "children": [],
           "repo_info": {
@@ -12175,7 +12175,7 @@
             "language": "PHP",
             "license": "MIT",
             "last_commit": "2025-02-22T16:39:11Z",
-            "open_issues": 42,
+            "open_issues": 43,
             "owner": "paragonie",
             "repo": "awesome-appsec",
             "stars": 7064,
@@ -12192,7 +12192,7 @@
         },
         {
           "node_type": "item",
-          "title": "5578⭐ 837🍴 Cybersecurity Blue Team",
+          "title": "5579⭐ 839🍴 Cybersecurity Blue Team",
           "description": ") - Groups of individuals who identify security flaws in information technology systems.",
           "children": [],
           "repo_info": {
@@ -12206,7 +12206,7 @@
             "open_issues": 85,
             "owner": "fabacab",
             "repo": "awesome-cybersecurity-blueteam",
-            "stars": 5578,
+            "stars": 5580,
             "topics": [
               "awesome-list",
               "blue-team",
@@ -12221,7 +12221,7 @@
         },
         {
           "node_type": "item",
-          "title": "4642⭐ 733🍴 Vehicle Security and Car Hacking",
+          "title": "4644⭐ 733🍴 Vehicle Security and Car Hacking",
           "description": ")",
           "children": [],
           "repo_info": {
@@ -12255,7 +12255,7 @@
         },
         {
           "node_type": "item",
-          "title": "3563⭐ 347🍴 Cyber Security University",
+          "title": "3574⭐ 347🍴 Cyber Security University",
           "description": ") - Free educational resources that focus on learning by doing.",
           "children": [],
           "repo_info": {
@@ -12269,7 +12269,7 @@
             "open_issues": 4,
             "owner": "brootware",
             "repo": "awesome-cyber-security-university",
-            "stars": 3570,
+            "stars": 3575,
             "topics": [
               "awesome",
               "awesome-list",
@@ -12288,7 +12288,7 @@
         },
         {
           "node_type": "item",
-          "title": "2451⭐ 292🍴 Embedded and IoT Security",
+          "title": "2453⭐ 292🍴 Embedded and IoT Security",
           "description": ")",
           "children": [],
           "repo_info": {
@@ -12302,7 +12302,7 @@
             "open_issues": 1,
             "owner": "fkie-cad",
             "repo": "awesome-embedded-and-iot-security",
-            "stars": 2451,
+            "stars": 2453,
             "topics": [
               "awesome",
               "awesome-list",
@@ -12316,7 +12316,7 @@
         },
         {
           "node_type": "item",
-          "title": "1931⭐ 128🍴 Lockpicking",
+          "title": "1932⭐ 128🍴 Lockpicking",
           "description": ") - The art of unlocking a lock by manipulating its components without the key.",
           "children": [],
           "repo_info": {
@@ -12348,7 +12348,7 @@
         },
         {
           "node_type": "item",
-          "title": "1737⭐ 254🍴 DevSecOps",
+          "title": "1740⭐ 254🍴 DevSecOps",
           "description": ") - Integration of security practices into 🌎 DevOps.",
           "children": [],
           "repo_info": {
@@ -12362,7 +12362,7 @@
             "open_issues": 46,
             "owner": "jakob-pennington",
             "repo": "awesome-devsecops",
-            "stars": 1737,
+            "stars": 1742,
             "topics": [
               "application-security",
               "awesome",
@@ -12377,7 +12377,7 @@
         },
         {
           "node_type": "item",
-          "title": "1623⭐ 140🍴 Executable Packing",
+          "title": "1624⭐ 141🍴 Executable Packing",
           "description": ") - Packing and unpacking executable formats.",
           "children": [],
           "repo_info": {
@@ -12413,7 +12413,7 @@
         },
         {
           "node_type": "item",
-          "title": "1347⭐ 150🍴 Detection Engineering",
+          "title": "1347⭐ 151🍴 Detection Engineering",
           "description": ") - Design, build, and operate detective cybersecurity controls.",
           "children": [],
           "repo_info": {
@@ -12427,7 +12427,7 @@
             "open_issues": 13,
             "owner": "infosecB",
             "repo": "awesome-detection-engineering",
-            "stars": 1347,
+            "stars": 1346,
             "topics": [
               "awesome",
               "awesome-list",
@@ -12442,7 +12442,7 @@
         },
         {
           "node_type": "item",
-          "title": "1204⭐ 145🍴 Annual Security Reports",
+          "title": "1205⭐ 145🍴 Annual Security Reports",
           "description": ") - Exploring cybersecurity trends, insights, and challenges.",
           "children": [],
           "repo_info": {
@@ -12452,11 +12452,11 @@
             "id": 470281516,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-09-24T18:12:31Z",
-            "open_issues": 7,
+            "last_commit": "2026-09-25T18:26:35Z",
+            "open_issues": 9,
             "owner": "jacobdjwilson",
             "repo": "awesome-annual-security-reports",
-            "stars": 1205,
+            "stars": 1204,
             "topics": [
               "awesome",
               "awesome-list",
@@ -12531,7 +12531,7 @@
         },
         {
           "node_type": "item",
-          "title": "998⭐ 97🍴 Fuzzing",
+          "title": "999⭐ 97🍴 Fuzzing",
           "description": ") - Automated software testing technique that involves feeding pseudo-randomly generated input data.",
           "children": [],
           "repo_info": {
@@ -12558,7 +12558,7 @@
         },
         {
           "node_type": "item",
-          "title": "642⭐ 125🍴 Prompt Injection",
+          "title": "653⭐ 131🍴 Prompt Injection",
           "description": ") - A type of vulnerability that specifically targets machine learning models.",
           "children": [],
           "repo_info": {
@@ -12569,10 +12569,10 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2026-09-11T11:42:32Z",
-            "open_issues": 11,
+            "open_issues": 12,
             "owner": "Joe-B-Security",
             "repo": "awesome-prompt-injection",
-            "stars": 645,
+            "stars": 655,
             "topics": [
               "awesome",
               "awesome-list"
@@ -12582,7 +12582,7 @@
         },
         {
           "node_type": "item",
-          "title": "629⭐ 59🍴 CI/CD Attacks",
+          "title": "630⭐ 59🍴 CI/CD Attacks",
           "description": ") - Offensive research of systems and processes related to developing and deploying code.",
           "children": [],
           "repo_info": {
@@ -12596,7 +12596,7 @@
             "open_issues": 2,
             "owner": "TupleType",
             "repo": "awesome-cicd-attacks",
-            "stars": 629,
+            "stars": 630,
             "topics": [
               "appsec",
               "awesome",
@@ -12648,7 +12648,7 @@
         },
         {
           "node_type": "item",
-          "title": "261⭐ 38🍴 GDPR",
+          "title": "261⭐ 39🍴 GDPR",
           "description": ") - Regulation on data protection and privacy for all individuals within EU.",
           "children": [],
           "repo_info": {
@@ -12680,7 +12680,7 @@
         },
         {
           "node_type": "item",
-          "title": "246⭐ 22🍴 Suricata",
+          "title": "245⭐ 22🍴 Suricata",
           "description": ") - Intrusion detection/prevention system and network security monitoring engine.",
           "children": [],
           "repo_info": {
@@ -12738,7 +12738,7 @@
         },
         {
           "node_type": "item",
-          "title": "175⭐ 16🍴 Security Card Games",
+          "title": "174⭐ 16🍴 Security Card Games",
           "description": ") - Train your skills and discuss various security topics.",
           "children": [],
           "repo_info": {
@@ -12769,7 +12769,7 @@
         },
         {
           "node_type": "item",
-          "title": "127⭐ 29🍴 OpenID Connect",
+          "title": "128⭐ 29🍴 OpenID Connect",
           "description": ") - Identity standard and authentication protocol built on OAuth 2.0 for user identity assertion.",
           "children": [],
           "repo_info": {
@@ -13003,7 +13003,7 @@
         },
         {
           "node_type": "item",
-          "title": "85⭐ 16🍴 Sitecore",
+          "title": "84⭐ 16🍴 Sitecore",
           "description": ") - .NET digital marketing platform that combines CMS with tools for managing multiple websites.",
           "children": [],
           "repo_info": {
@@ -13109,7 +13109,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "8155⭐ 539🍴 Electronics",
+          "title": "8161⭐ 540🍴 Electronics",
           "description": ") - For electronic engineers and hobbyists.",
           "children": [],
           "repo_info": {
@@ -13123,7 +13123,7 @@
             "open_issues": 37,
             "owner": "kitspace",
             "repo": "awesome-electronics",
-            "stars": 8158,
+            "stars": 8163,
             "topics": [
               "altium",
               "awesome",
@@ -13139,7 +13139,7 @@
         },
         {
           "node_type": "item",
-          "title": "7190⭐ 1092🍴 Robotics",
+          "title": "7199⭐ 1092🍴 Robotics",
           "description": ")",
           "children": [],
           "repo_info": {
@@ -13153,7 +13153,7 @@
             "open_issues": 40,
             "owner": "kiloreux",
             "repo": "awesome-robotics",
-            "stars": 7195,
+            "stars": 7200,
             "topics": [
               "robotics"
             ]
@@ -13162,7 +13162,7 @@
         },
         {
           "node_type": "item",
-          "title": "4515⭐ 521🍴 Internet of Things",
+          "title": "4513⭐ 521🍴 Internet of Things",
           "description": ")",
           "children": [],
           "repo_info": {
@@ -13173,10 +13173,10 @@
             "language": null,
             "license": "MIT",
             "last_commit": "2026-08-10T11:02:29Z",
-            "open_issues": 5,
+            "open_issues": 6,
             "owner": "HQarroum",
             "repo": "awesome-iot",
-            "stars": 4514,
+            "stars": 4513,
             "topics": [
               "awesome",
               "awesome-list",
@@ -13233,7 +13233,7 @@
         },
         {
           "node_type": "item",
-          "title": "1458⭐ 95🍴 Plotters",
+          "title": "1459⭐ 95🍴 Plotters",
           "description": ") - Computer-controlled drawing machines and other visual art robots.",
           "children": [],
           "repo_info": {
@@ -13268,7 +13268,7 @@
         },
         {
           "node_type": "item",
-          "title": "1345⭐ 135🍴 LIDAR",
+          "title": "1346⭐ 134🍴 LIDAR",
           "description": ") - Sensor for measuring distances by illuminating the target with laser light.",
           "children": [],
           "repo_info": {
@@ -13304,7 +13304,7 @@
         },
         {
           "node_type": "item",
-          "title": "1073⭐ 55🍴 Open Hardware",
+          "title": "1075⭐ 54🍴 Open Hardware",
           "description": ") - Open-source hardware projects.",
           "children": [],
           "repo_info": {
@@ -13318,7 +13318,7 @@
             "open_issues": 7,
             "owner": "delftopenhardware",
             "repo": "awesome-open-hardware",
-            "stars": 1072,
+            "stars": 1076,
             "topics": [
               "awesome",
               "awesome-list",
@@ -13359,7 +13359,7 @@
         },
         {
           "node_type": "item",
-          "title": "706⭐ 68🍴 Flying FPV",
+          "title": "707⭐ 68🍴 Flying FPV",
           "description": ") - Open hardware and software related to drones / UAVs.",
           "children": [],
           "repo_info": {
@@ -13373,7 +13373,7 @@
             "open_issues": 5,
             "owner": "Matthias84",
             "repo": "awesome-flying-fpv",
-            "stars": 706,
+            "stars": 707,
             "topics": [
               "aerial",
               "airplanes",
@@ -13392,7 +13392,7 @@
         },
         {
           "node_type": "item",
-          "title": "384⭐ 35🍴 ADS-B",
+          "title": "386⭐ 35🍴 ADS-B",
           "description": ") - Technology broadcasting aircraft's identity, position, and data periodically.",
           "children": [],
           "repo_info": {
@@ -13459,7 +13459,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "17170⭐ 1297🍴 Tools of the Trade",
+          "title": "17172⭐ 1298🍴 Tools of the Trade",
           "description": ") - Tools used by companies on Hacker News.",
           "children": [],
           "repo_info": {
@@ -13473,14 +13473,14 @@
             "open_issues": 20,
             "owner": "cjbarber",
             "repo": "ToolsOfTheTrade",
-            "stars": 17170,
+            "stars": 17172,
             "topics": []
           },
           "first_seen": "2026-08-28T14:10:50.184Z"
         },
         {
           "node_type": "item",
-          "title": "11819⭐ 758🍴 Indie",
+          "title": "11821⭐ 757🍴 Indie",
           "description": ") - Independent developer businesses.",
           "children": [],
           "repo_info": {
@@ -13491,7 +13491,7 @@
             "language": null,
             "license": "NOASSERTION",
             "last_commit": "2024-06-12T21:23:53Z",
-            "open_issues": 111,
+            "open_issues": 112,
             "owner": "mezod",
             "repo": "awesome-indie",
             "stars": 11821,
@@ -13511,7 +13511,7 @@
         },
         {
           "node_type": "item",
-          "title": "7634⭐ 566🍴 Places to Post Your Startup",
+          "title": "7654⭐ 568🍴 Places to Post Your Startup",
           "description": ")",
           "children": [],
           "repo_info": {
@@ -13525,7 +13525,7 @@
             "open_issues": 39,
             "owner": "mmccaff",
             "repo": "PlacesToPostYourStartup",
-            "stars": 7648,
+            "stars": 7654,
             "topics": [
               "awesome",
               "awesome-list",
@@ -13553,7 +13553,7 @@
             "open_issues": 3,
             "owner": "kdeldycke",
             "repo": "awesome-engineering-team-management",
-            "stars": 2605,
+            "stars": 2606,
             "topics": [
               "awesome",
               "awesome-list",
@@ -13581,7 +13581,7 @@
         },
         {
           "node_type": "item",
-          "title": "1827⭐ 358🍴 Developer-First Products",
+          "title": "1827⭐ 357🍴 Developer-First Products",
           "description": ") - Products that target developers as the user.",
           "children": [],
           "repo_info": {
@@ -13628,7 +13628,7 @@
         },
         {
           "node_type": "item",
-          "title": "1370⭐ 62🍴 Engineering Strategy",
+          "title": "1372⭐ 62🍴 Engineering Strategy",
           "description": ") - How to design and execute engineering strategies for tech leadership.",
           "children": [],
           "repo_info": {
@@ -13642,7 +13642,7 @@
             "open_issues": 1,
             "owner": "aleixmorgadas",
             "repo": "awesome-engineering-strategy",
-            "stars": 1371,
+            "stars": 1372,
             "topics": [
               "awesome",
               "awesome-list",
@@ -13655,7 +13655,7 @@
         },
         {
           "node_type": "item",
-          "title": "1346⭐ 108🍴 Billing",
+          "title": "1346⭐ 109🍴 Billing",
           "description": ") - Payments, invoicing, pricing, accounting, marketplace, fraud, and business intelligence.",
           "children": [],
           "repo_info": {
@@ -13669,7 +13669,7 @@
             "open_issues": 2,
             "owner": "kdeldycke",
             "repo": "awesome-billing",
-            "stars": 1346,
+            "stars": 1347,
             "topics": [
               "awesome",
               "awesome-list",
@@ -13697,7 +13697,7 @@
         },
         {
           "node_type": "item",
-          "title": "1266⭐ 52🍴 Open Companies",
+          "title": "1268⭐ 52🍴 Open Companies",
           "description": ")",
           "children": [],
           "repo_info": {
@@ -13711,14 +13711,14 @@
             "open_issues": 12,
             "owner": "opencompany",
             "repo": "awesome-open-company",
-            "stars": 1267,
+            "stars": 1268,
             "topics": []
           },
           "first_seen": "2026-08-28T14:10:50.184Z"
         },
         {
           "node_type": "item",
-          "title": "823⭐ 68🍴 Wardley Maps",
+          "title": "824⭐ 68🍴 Wardley Maps",
           "description": ") - Provides high situational awareness to help improve strategic planning and decision making.",
           "children": [],
           "repo_info": {
@@ -13806,7 +13806,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "48928⭐ 4826🍴 Remote Jobs",
+          "title": "48968⭐ 4823🍴 Remote Jobs",
           "description": ")",
           "children": [],
           "repo_info": {
@@ -13817,10 +13817,10 @@
             "language": null,
             "license": null,
             "last_commit": "2026-09-21T15:00:51Z",
-            "open_issues": 98,
+            "open_issues": 100,
             "owner": "lukasz-madon",
             "repo": "awesome-remote-job",
-            "stars": 48951,
+            "stars": 48973,
             "topics": [
               "awesome",
               "awesome-list",
@@ -13831,7 +13831,7 @@
         },
         {
           "node_type": "item",
-          "title": "5154⭐ 392🍴 Code Review",
+          "title": "5153⭐ 392🍴 Code Review",
           "description": ") - Reviewing code.",
           "children": [],
           "repo_info": {
@@ -13845,7 +13845,7 @@
             "open_issues": 83,
             "owner": "joho",
             "repo": "awesome-code-review",
-            "stars": 5154,
+            "stars": 5153,
             "topics": [
               "awesome",
               "awesome-list",
@@ -13857,7 +13857,7 @@
         },
         {
           "node_type": "item",
-          "title": "3356⭐ 358🍴 Productivity",
+          "title": "3357⭐ 357🍴 Productivity",
           "description": ")",
           "children": [],
           "repo_info": {
@@ -13883,7 +13883,7 @@
         },
         {
           "node_type": "item",
-          "title": "1867⭐ 276🍴 Niche Job Boards",
+          "title": "1869⭐ 278🍴 Niche Job Boards",
           "description": ")",
           "children": [],
           "repo_info": {
@@ -13894,10 +13894,10 @@
             "language": null,
             "license": null,
             "last_commit": "2026-07-29T12:55:40Z",
-            "open_issues": 34,
+            "open_issues": 35,
             "owner": "tramcar",
             "repo": "awesome-job-boards",
-            "stars": 1868,
+            "stars": 1869,
             "topics": [
               "awesome",
               "awesome-list",
@@ -13964,7 +13964,7 @@
         },
         {
           "node_type": "item",
-          "title": "661⭐ 46🍴 Creative Technology",
+          "title": "662⭐ 46🍴 Creative Technology",
           "description": ") - Businesses & groups that specialize in combining computing, design, art, and user experience.",
           "children": [],
           "repo_info": {
@@ -13994,7 +13994,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "3426⭐ 479🍴 PCAPTools",
+          "title": "3429⭐ 478🍴 PCAPTools",
           "description": ")",
           "children": [],
           "repo_info": {
@@ -14008,7 +14008,7 @@
             "open_issues": 14,
             "owner": "caesar0301",
             "repo": "awesome-pcaptools",
-            "stars": 3428,
+            "stars": 3429,
             "topics": []
           },
           "first_seen": "2026-08-28T14:10:50.184Z"
@@ -14046,7 +14046,7 @@
         },
         {
           "node_type": "item",
-          "title": "368⭐ 48🍴 Scapy",
+          "title": "369⭐ 48🍴 Scapy",
           "description": ") - Python-based interactive packet manipulation.",
           "children": [],
           "repo_info": {
@@ -14060,7 +14060,7 @@
             "open_issues": 1,
             "owner": "secdev",
             "repo": "awesome-scapy",
-            "stars": 367,
+            "stars": 369,
             "topics": [
               "awesome",
               "awesome-list",
@@ -14128,7 +14128,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "1356⭐ 284🍴 Bitcoin",
+          "title": "1356⭐ 286🍴 Bitcoin",
           "description": ") - Services and tools for Bitcoin software developers.",
           "children": [],
           "repo_info": {
@@ -14139,7 +14139,7 @@
             "language": null,
             "license": null,
             "last_commit": "2026-09-20T15:12:28Z",
-            "open_issues": 20,
+            "open_issues": 21,
             "owner": "igorbarinov",
             "repo": "awesome-bitcoin",
             "stars": 1356,
@@ -14433,7 +14433,7 @@
         },
         {
           "node_type": "item",
-          "title": "116⭐ 11🍴 ZeroNet",
+          "title": "114⭐ 11🍴 ZeroNet",
           "description": ") - A decentralized web-like network of peer-to-peer users.",
           "children": [],
           "repo_info": {
@@ -14454,42 +14454,6 @@
               "markdown",
               "zeronet",
               "zeronet-site"
-            ]
-          },
-          "first_seen": "2026-08-28T14:10:50.184Z"
-        },
-        {
-          "node_type": "item",
-          "title": "88⭐ 27🍴 Waves",
-          "description": ") - Open source Blockchain platform and development toolset for Web 3.0 apps and decentralized solutions.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Curated list of awesome things for development on Waves blockchain.",
-            "homepage": "https://msmolyakov.github.io/awesome-waves/",
-            "id": 170878625,
-            "language": null,
-            "license": "CC0-1.0",
-            "last_commit": "2020-10-05T14:05:48Z",
-            "open_issues": 1,
-            "owner": "msmolyakov",
-            "repo": "awesome-waves",
-            "stars": 88,
-            "topics": [
-              "blockchain",
-              "cryptocurrency",
-              "dapp",
-              "dapps",
-              "defi",
-              "fintech",
-              "ride",
-              "smart-contract-tools",
-              "smart-contracts",
-              "smartcontracts",
-              "waves",
-              "wavesplatform",
-              "wavesprotocol",
-              "web3"
             ]
           },
           "first_seen": "2026-08-28T14:10:50.184Z"
@@ -14520,6 +14484,42 @@
               "eosio-blockchain",
               "eosio-development",
               "eosio-resources"
+            ]
+          },
+          "first_seen": "2026-08-28T14:10:50.184Z"
+        },
+        {
+          "node_type": "item",
+          "title": "87⭐ 28🍴 Waves",
+          "description": ") - Open source Blockchain platform and development toolset for Web 3.0 apps and decentralized solutions.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Curated list of awesome things for development on Waves blockchain.",
+            "homepage": "https://msmolyakov.github.io/awesome-waves/",
+            "id": 170878625,
+            "language": null,
+            "license": "CC0-1.0",
+            "last_commit": "2020-10-05T14:05:48Z",
+            "open_issues": 1,
+            "owner": "msmolyakov",
+            "repo": "awesome-waves",
+            "stars": 87,
+            "topics": [
+              "blockchain",
+              "cryptocurrency",
+              "dapp",
+              "dapps",
+              "defi",
+              "fintech",
+              "ride",
+              "smart-contract-tools",
+              "smart-contracts",
+              "smartcontracts",
+              "waves",
+              "wavesplatform",
+              "wavesprotocol",
+              "web3"
             ]
           },
           "first_seen": "2026-08-28T14:10:50.184Z"
@@ -14607,7 +14607,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "3988⭐ 565🍴 Healthcare",
+          "title": "3992⭐ 564🍴 Healthcare",
           "description": ") - Open source healthcare software for facilities, providers, developers, policy experts, and researchers.",
           "children": [],
           "repo_info": {
@@ -14618,10 +14618,10 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2026-05-05T10:41:03Z",
-            "open_issues": 73,
+            "open_issues": 72,
             "owner": "kakoni",
             "repo": "awesome-healthcare",
-            "stars": 3990,
+            "stars": 3992,
             "topics": [
               "awesome",
               "awesome-list",
@@ -14633,7 +14633,7 @@
         },
         {
           "node_type": "item",
-          "title": "3646⭐ 210🍴 Mental Health",
+          "title": "3647⭐ 209🍴 Mental Health",
           "description": ") - Awareness and self-care in the software industry.",
           "children": [],
           "repo_info": {
@@ -14841,7 +14841,7 @@
         },
         {
           "node_type": "item",
-          "title": "352⭐ 39🍴 Digital History",
+          "title": "353⭐ 39🍴 Digital History",
           "description": ") - Computer-aided scientific investigation of history.",
           "children": [],
           "repo_info": {
@@ -14851,11 +14851,11 @@
             "id": 209964428,
             "language": "JavaScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-23T11:27:24Z",
-            "open_issues": 8,
+            "last_commit": "2026-09-25T23:22:43Z",
+            "open_issues": 10,
             "owner": "maehr",
             "repo": "awesome-digital-history",
-            "stars": 352,
+            "stars": 353,
             "topics": [
               "archives",
               "awesome",
@@ -15055,7 +15055,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "2416⭐ 248🍴 Visual Regression Testing",
+          "title": "2417⭐ 250🍴 Visual Regression Testing",
           "description": ") - Ensures changes did not break the functionality or style.",
           "children": [],
           "repo_info": {
@@ -15069,7 +15069,7 @@
             "open_issues": 21,
             "owner": "mojoaxel",
             "repo": "awesome-regression-testing",
-            "stars": 2416,
+            "stars": 2417,
             "topics": [
               "awesome",
               "test-automation",
@@ -15081,7 +15081,7 @@
         },
         {
           "node_type": "item",
-          "title": "2380⭐ 440🍴 Testing",
+          "title": "2379⭐ 441🍴 Testing",
           "description": ") - Software testing.",
           "children": [],
           "repo_info": {
@@ -15091,8 +15091,8 @@
             "id": 77133957,
             "language": null,
             "license": "CC0-1.0",
-            "last_commit": "2026-09-24T20:30:33Z",
-            "open_issues": 13,
+            "last_commit": "2026-09-25T20:44:43Z",
+            "open_issues": 9,
             "owner": "TheJambo",
             "repo": "awesome-testing",
             "stars": 2379,
@@ -15109,7 +15109,7 @@
         },
         {
           "node_type": "item",
-          "title": "2181⭐ 366🍴 Quality Assurance Roadmap",
+          "title": "2184⭐ 366🍴 Quality Assurance Roadmap",
           "description": ") - How to start & build a career in software testing.",
           "children": [],
           "repo_info": {
@@ -15123,7 +15123,7 @@
             "open_issues": 9,
             "owner": "fityanos",
             "repo": "awesome-quality-assurance-roadmap",
-            "stars": 2183,
+            "stars": 2184,
             "topics": [
               "api-testing",
               "automation-test",
@@ -15142,7 +15142,7 @@
         },
         {
           "node_type": "item",
-          "title": "1581⭐ 303🍴 Playwright",
+          "title": "1583⭐ 305🍴 Playwright",
           "description": ") - Node.js library to automate Chromium, Firefox and WebKit with a single API.",
           "children": [],
           "repo_info": {
@@ -15153,10 +15153,10 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2026-09-20T02:24:31Z",
-            "open_issues": 10,
+            "open_issues": 12,
             "owner": "mxschmitt",
             "repo": "awesome-playwright",
-            "stars": 1582,
+            "stars": 1583,
             "topics": [
               "awesome",
               "awesome-list",
@@ -15196,7 +15196,7 @@
         },
         {
           "node_type": "item",
-          "title": "807⭐ 213🍴 JMeter",
+          "title": "807⭐ 212🍴 JMeter",
           "description": ") - Load testing and performance measurement tool.",
           "children": [],
           "repo_info": {
@@ -15226,7 +15226,7 @@
         },
         {
           "node_type": "item",
-          "title": "776⭐ 67🍴 k6",
+          "title": "777⭐ 67🍴 k6",
           "description": ") - Open-source, developer-centric performance monitoring and load testing solution.",
           "children": [],
           "repo_info": {
@@ -15285,7 +15285,7 @@
         },
         {
           "node_type": "item",
-          "title": "518⭐ 78🍴 CodeRabbit",
+          "title": "522⭐ 78🍴 CodeRabbit",
           "description": ") - AI-powered code review platform.",
           "children": [],
           "repo_info": {
@@ -15299,7 +15299,7 @@
             "open_issues": 13,
             "owner": "coderabbitai",
             "repo": "awesome-coderabbit",
-            "stars": 520,
+            "stars": 522,
             "topics": [
               "ai",
               "awesome",
@@ -15384,7 +15384,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "509478⭐ 37020🍴 Awesome",
+          "title": "510489⭐ 37087🍴 Awesome",
           "description": ") - Recursion illustrated.",
           "children": [],
           "repo_info": {
@@ -15398,7 +15398,7 @@
             "open_issues": 107,
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 510118,
+            "stars": 510603,
             "topics": [
               "awesome",
               "awesome-list",
@@ -15411,7 +15411,7 @@
         },
         {
           "node_type": "item",
-          "title": "321321⭐ 15084🍴 Self Hosted",
+          "title": "321802⭐ 15097🍴 Self Hosted",
           "description": ")",
           "children": [],
           "repo_info": {
@@ -15421,11 +15421,11 @@
             "id": 36633370,
             "language": null,
             "license": "NOASSERTION",
-            "last_commit": "2026-09-23T17:59:29Z",
+            "last_commit": "2026-09-25T21:05:53Z",
             "open_issues": 0,
             "owner": "awesome-selfhosted",
             "repo": "awesome-selfhosted",
-            "stars": 321602,
+            "stars": 321837,
             "topics": [
               "awesome",
               "awesome-list",
@@ -15441,7 +15441,7 @@
         },
         {
           "node_type": "item",
-          "title": "138085⭐ 14569🍴 Free for Developers",
+          "title": "138526⭐ 14613🍴 Free for Developers",
           "description": ")",
           "children": [],
           "repo_info": {
@@ -15451,11 +15451,11 @@
             "id": 32484381,
             "language": "HTML",
             "license": null,
-            "last_commit": "2026-09-24T19:22:01Z",
-            "open_issues": 13,
+            "last_commit": "2026-09-26T04:08:02Z",
+            "open_issues": 11,
             "owner": "ripienaar",
             "repo": "free-for-dev",
-            "stars": 138355,
+            "stars": 138559,
             "topics": [
               "awesome-list",
               "free-for-developers"
@@ -15465,7 +15465,7 @@
         },
         {
           "node_type": "item",
-          "title": "89533⭐ 8008🍴 Beginner-Friendly Projects",
+          "title": "89595⭐ 8011🍴 Beginner-Friendly Projects",
           "description": ")",
           "children": [],
           "repo_info": {
@@ -15476,10 +15476,10 @@
             "language": null,
             "license": null,
             "last_commit": "2026-07-25T07:00:20Z",
-            "open_issues": 156,
+            "open_issues": 157,
             "owner": "MunGell",
             "repo": "awesome-for-beginners",
-            "stars": 89571,
+            "stars": 89598,
             "topics": [
               "awesome",
               "awesome-list",
@@ -15492,7 +15492,7 @@
         },
         {
           "node_type": "item",
-          "title": "54516⭐ 4751🍴 Claude Code",
+          "title": "54620⭐ 4761🍴 Claude Code",
           "description": ") - Terminal-based AI coding assistant by Anthropic.",
           "children": [],
           "repo_info": {
@@ -15502,11 +15502,11 @@
             "id": 969302809,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-25T06:17:55Z",
-            "open_issues": 1131,
+            "last_commit": "2026-09-26T06:16:13Z",
+            "open_issues": 1142,
             "owner": "hesreallyhim",
             "repo": "awesome-claude-code",
-            "stars": 54582,
+            "stars": 54624,
             "topics": [
               "agent-skills",
               "agentic-code",
@@ -15533,7 +15533,7 @@
         },
         {
           "node_type": "item",
-          "title": "38688⭐ 2041🍴 Software Engineering Blogs",
+          "title": "38706⭐ 2043🍴 Software Engineering Blogs",
           "description": ")",
           "children": [],
           "repo_info": {
@@ -15547,7 +15547,7 @@
             "open_issues": 151,
             "owner": "kilimchoi",
             "repo": "engineering-blogs",
-            "stars": 38695,
+            "stars": 38707,
             "topics": [
               "engineering-blogs",
               "lists",
@@ -15560,7 +15560,7 @@
         },
         {
           "node_type": "item",
-          "title": "27718⭐ 642🍴 Falsehood",
+          "title": "27723⭐ 642🍴 Falsehood",
           "description": ") - Falsehoods programmers believe in.",
           "children": [],
           "repo_info": {
@@ -15574,7 +15574,7 @@
             "open_issues": 4,
             "owner": "kdeldycke",
             "repo": "awesome-falsehood",
-            "stars": 27722,
+            "stars": 27724,
             "topics": [
               "awesome",
               "awesome-list",
@@ -15602,7 +15602,7 @@
         },
         {
           "node_type": "item",
-          "title": "21476⭐ 3957🍴 Readme",
+          "title": "21485⭐ 3957🍴 Readme",
           "description": ")",
           "children": [],
           "repo_info": {
@@ -15616,7 +15616,7 @@
             "open_issues": 1,
             "owner": "matiassingers",
             "repo": "awesome-readme",
-            "stars": 21481,
+            "stars": 21486,
             "topics": [
               "awesome",
               "awesome-list",
@@ -15628,7 +15628,7 @@
         },
         {
           "node_type": "item",
-          "title": "15359⭐ 974🍴 Creative Coding",
+          "title": "15366⭐ 974🍴 Creative Coding",
           "description": ") - Programming something expressive instead of something functional.",
           "children": [],
           "repo_info": {
@@ -15642,7 +15642,7 @@
             "open_issues": 13,
             "owner": "terkelg",
             "repo": "awesome-creative-coding",
-            "stars": 15361,
+            "stars": 15369,
             "topics": [
               "3d-graphics",
               "art",
@@ -15667,7 +15667,7 @@
         },
         {
           "node_type": "item",
-          "title": "15122⭐ 1246🍴 GraphQL",
+          "title": "15124⭐ 1247🍴 GraphQL",
           "description": ")",
           "children": [],
           "repo_info": {
@@ -15681,7 +15681,7 @@
             "open_issues": 1,
             "owner": "chentsulin",
             "repo": "awesome-graphql",
-            "stars": 15123,
+            "stars": 15124,
             "topics": [
               "awesome",
               "awesome-list",
@@ -15704,10 +15704,10 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2026-08-20T15:52:41Z",
-            "open_issues": 13,
+            "open_issues": 14,
             "owner": "mfornos",
             "repo": "awesome-microservices",
-            "stars": 14520,
+            "stars": 14519,
             "topics": [
               "awesome",
               "cloud-computing",
@@ -15720,7 +15720,7 @@
         },
         {
           "node_type": "item",
-          "title": "13534⭐ 1804🍴 Site Reliability Engineering",
+          "title": "13540⭐ 1805🍴 Site Reliability Engineering",
           "description": ")",
           "children": [],
           "repo_info": {
@@ -15734,7 +15734,7 @@
             "open_issues": 112,
             "owner": "dastergon",
             "repo": "awesome-sre",
-            "stars": 13538,
+            "stars": 13563,
             "topics": [
               "alerting",
               "availability",
@@ -15762,7 +15762,7 @@
         },
         {
           "node_type": "item",
-          "title": "12375⭐ 1394🍴 Domain-Driven Design",
+          "title": "12377⭐ 1395🍴 Domain-Driven Design",
           "description": ") - Software development approach for complex needs by connecting the implementation to an evolving model.",
           "children": [],
           "repo_info": {
@@ -15776,7 +15776,7 @@
             "open_issues": 2,
             "owner": "heynickc",
             "repo": "awesome-ddd",
-            "stars": 12376,
+            "stars": 12377,
             "topics": [
               "awesome",
               "awesome-list",
@@ -15787,7 +15787,7 @@
         },
         {
           "node_type": "item",
-          "title": "6418⭐ 472🍴 ChatGPT",
+          "title": "6420⭐ 471🍴 ChatGPT",
           "description": ") - Artificial intelligence chatbot developed by OpenAI.",
           "children": [],
           "repo_info": {
@@ -15801,7 +15801,7 @@
             "open_issues": 6,
             "owner": "sindresorhus",
             "repo": "awesome-chatgpt",
-            "stars": 6419,
+            "stars": 6420,
             "topics": [
               "ai",
               "artificial-intelligence",
@@ -15818,7 +15818,7 @@
         },
         {
           "node_type": "item",
-          "title": "4676⭐ 462🍴 Jupyter",
+          "title": "4677⭐ 462🍴 Jupyter",
           "description": ") - Create and share documents that contain code, equations, visualizations and narrative text.",
           "children": [],
           "repo_info": {
@@ -15853,7 +15853,7 @@
         },
         {
           "node_type": "item",
-          "title": "4414⭐ 472🍴 Data Visualization",
+          "title": "4415⭐ 473🍴 Data Visualization",
           "description": ")",
           "children": [],
           "repo_info": {
@@ -15881,7 +15881,7 @@
         },
         {
           "node_type": "item",
-          "title": "4319⭐ 509🍴 Analytics",
+          "title": "4320⭐ 511🍴 Analytics",
           "description": ")",
           "children": [],
           "repo_info": {
@@ -15902,7 +15902,7 @@
         },
         {
           "node_type": "item",
-          "title": "4300⭐ 732🍴 Bioinformatics",
+          "title": "4303⭐ 734🍴 Bioinformatics",
           "description": ")",
           "children": [],
           "repo_info": {
@@ -15916,7 +15916,7 @@
             "open_issues": 43,
             "owner": "danielecook",
             "repo": "Awesome-Bioinformatics",
-            "stars": 4301,
+            "stars": 4303,
             "topics": [
               "awesome",
               "awesome-list",
@@ -15927,7 +15927,7 @@
         },
         {
           "node_type": "item",
-          "title": "4106⭐ 289🍴 Crypto Currency Tools & Algorithms",
+          "title": "4107⭐ 289🍴 Crypto Currency Tools & Algorithms",
           "description": ") - Digital currency where encryption is used to regulate the generation of units and verify transfers.",
           "children": [],
           "repo_info": {
@@ -15992,7 +15992,7 @@
         },
         {
           "node_type": "item",
-          "title": "3916⭐ 450🍴 REST",
+          "title": "3917⭐ 450🍴 REST",
           "description": ")",
           "children": [],
           "repo_info": {
@@ -16016,7 +16016,7 @@
         },
         {
           "node_type": "item",
-          "title": "3717⭐ 289🍴 Vulkan",
+          "title": "3720⭐ 289🍴 Vulkan",
           "description": ") - Low-overhead, cross-platform 3D graphics and compute API.",
           "children": [],
           "repo_info": {
@@ -16030,7 +16030,7 @@
             "open_issues": 6,
             "owner": "vinjn",
             "repo": "awesome-vulkan",
-            "stars": 3719,
+            "stars": 3720,
             "topics": [
               "amd",
               "arm",
@@ -16068,7 +16068,7 @@
         },
         {
           "node_type": "item",
-          "title": "3535⭐ 152🍴 Userscripts",
+          "title": "3536⭐ 152🍴 Userscripts",
           "description": ") - Enhance your browsing experience.",
           "children": [],
           "repo_info": {
@@ -16110,7 +16110,7 @@
         },
         {
           "node_type": "item",
-          "title": "3384⭐ 287🍴 Discounts for Student Developers",
+          "title": "3385⭐ 287🍴 Discounts for Student Developers",
           "description": ")",
           "children": [],
           "repo_info": {
@@ -16131,7 +16131,7 @@
         },
         {
           "node_type": "item",
-          "title": "3371⭐ 425🍴 No-Login Web Apps",
+          "title": "3372⭐ 431🍴 No-Login Web Apps",
           "description": ") - Web apps that work without login.",
           "children": [],
           "repo_info": {
@@ -16141,11 +16141,11 @@
             "id": 75722692,
             "language": null,
             "license": null,
-            "last_commit": "2026-09-25T03:29:27Z",
-            "open_issues": 137,
+            "last_commit": "2026-09-25T08:32:52Z",
+            "open_issues": 140,
             "owner": "aviaryan",
             "repo": "awesome-no-login-web-apps",
-            "stars": 3372,
+            "stars": 3373,
             "topics": [
               "application",
               "applications",
@@ -16163,7 +16163,7 @@
         },
         {
           "node_type": "item",
-          "title": "3159⭐ 220🍴 Katas",
+          "title": "3157⭐ 220🍴 Katas",
           "description": ")",
           "children": [],
           "repo_info": {
@@ -16198,7 +16198,7 @@
         },
         {
           "node_type": "item",
-          "title": "2912⭐ 183🍴 Free Software",
+          "title": "2914⭐ 182🍴 Free Software",
           "description": ") - Free as in freedom.",
           "children": [],
           "repo_info": {
@@ -16212,7 +16212,7 @@
             "open_issues": 44,
             "owner": "johnjago",
             "repo": "awesome-free-software",
-            "stars": 2913,
+            "stars": 2914,
             "topics": [
               "awesome",
               "awesome-list",
@@ -16228,7 +16228,7 @@
         },
         {
           "node_type": "item",
-          "title": "2894⭐ 207🍴 Software Architecture",
+          "title": "2895⭐ 207🍴 Software Architecture",
           "description": ") - The discipline of designing and building software.",
           "children": [],
           "repo_info": {
@@ -16255,7 +16255,7 @@
         },
         {
           "node_type": "item",
-          "title": "2783⭐ 370🍴 Web Design",
+          "title": "2782⭐ 370🍴 Web Design",
           "description": ") - For digital designers.",
           "children": [],
           "repo_info": {
@@ -16281,7 +16281,7 @@
         },
         {
           "node_type": "item",
-          "title": "2777⭐ 232🍴 Quantified Self",
+          "title": "2778⭐ 233🍴 Quantified Self",
           "description": ") - Self-tracking through technology.",
           "children": [],
           "repo_info": {
@@ -16292,7 +16292,7 @@
             "language": null,
             "license": "NOASSERTION",
             "last_commit": "2026-07-06T15:22:48Z",
-            "open_issues": 50,
+            "open_issues": 51,
             "owner": "woop",
             "repo": "awesome-quantified-self",
             "stars": 2778,
@@ -16323,10 +16323,10 @@
             "language": null,
             "license": null,
             "last_commit": "2026-05-19T11:43:56Z",
-            "open_issues": 21,
+            "open_issues": 20,
             "owner": "emptymalei",
             "repo": "awesome-research",
-            "stars": 2775,
+            "stars": 2774,
             "topics": [
               "awesome",
               "awesome-list",
@@ -16342,7 +16342,7 @@
         },
         {
           "node_type": "item",
-          "title": "2724⭐ 180🍴 Product Design",
+          "title": "2725⭐ 179🍴 Product Design",
           "description": ") - Design a product from the initial concept to production.",
           "children": [],
           "repo_info": {
@@ -16378,7 +16378,7 @@
         },
         {
           "node_type": "item",
-          "title": "2649⭐ 206🍴 Web Archiving",
+          "title": "2650⭐ 205🍴 Web Archiving",
           "description": ") - An effort to preserve the Web for future generations.",
           "children": [],
           "repo_info": {
@@ -16477,8 +16477,8 @@
             "id": 44929620,
             "language": null,
             "license": "CC0-1.0",
-            "last_commit": "2026-09-23T14:06:24Z",
-            "open_issues": 1,
+            "last_commit": "2026-09-25T09:23:02Z",
+            "open_issues": 0,
             "owner": "awesome-mqtt",
             "repo": "awesome-mqtt",
             "stars": 2399,
@@ -16495,7 +16495,7 @@
         },
         {
           "node_type": "item",
-          "title": "2391⭐ 183🍴 Whisper",
+          "title": "2393⭐ 184🍴 Whisper",
           "description": ") - Open-source AI-powered speech recognition system developed by OpenAI.",
           "children": [],
           "repo_info": {
@@ -16509,7 +16509,7 @@
             "open_issues": 7,
             "owner": "sindresorhus",
             "repo": "awesome-whisper",
-            "stars": 2391,
+            "stars": 2393,
             "topics": [
               "ai",
               "artificial-intelligence",
@@ -16552,7 +16552,7 @@
         },
         {
           "node_type": "item",
-          "title": "2011⭐ 237🍴 Continuous Integration and Continuous Delivery",
+          "title": "2011⭐ 238🍴 Continuous Integration and Continuous Delivery",
           "description": ")",
           "children": [],
           "repo_info": {
@@ -16563,7 +16563,7 @@
             "language": null,
             "license": "GPL-2.0",
             "last_commit": "2026-04-14T12:29:54Z",
-            "open_issues": 34,
+            "open_issues": 35,
             "owner": "cicdops",
             "repo": "awesome-ciandcd",
             "stars": 2011,
@@ -16573,7 +16573,7 @@
         },
         {
           "node_type": "item",
-          "title": "1948⭐ 184🍴 Ansible",
+          "title": "1949⭐ 186🍴 Ansible",
           "description": ") - A Python-based, open-source IT configuration management and automation platform.",
           "children": [],
           "repo_info": {
@@ -16634,7 +16634,7 @@
         },
         {
           "node_type": "item",
-          "title": "1846⭐ 248🍴 Transit",
+          "title": "1847⭐ 248🍴 Transit",
           "description": ") – Data standards, APIs, apps, tools, datasets, and research around open source technology of public transit.",
           "children": [],
           "repo_info": {
@@ -16648,7 +16648,7 @@
             "open_issues": 16,
             "owner": "MobilityData",
             "repo": "awesome-transit",
-            "stars": 1846,
+            "stars": 1847,
             "topics": [
               "awesome",
               "awesome-list",
@@ -16703,7 +16703,7 @@
         },
         {
           "node_type": "item",
-          "title": "1740⭐ 237🍴 Economics",
+          "title": "1743⭐ 237🍴 Economics",
           "description": ") - An economist's starter kit.",
           "children": [],
           "repo_info": {
@@ -16717,7 +16717,7 @@
             "open_issues": 14,
             "owner": "antontarasenko",
             "repo": "awesome-economics",
-            "stars": 1742,
+            "stars": 1743,
             "topics": [
               "american-economic-association",
               "awesome",
@@ -16749,7 +16749,7 @@
             "language": null,
             "license": "NOASSERTION",
             "last_commit": "2026-08-08T07:42:44Z",
-            "open_issues": 6,
+            "open_issues": 7,
             "owner": "egeerardyn",
             "repo": "awesome-LaTeX",
             "stars": 1672,
@@ -16759,7 +16759,7 @@
         },
         {
           "node_type": "item",
-          "title": "1629⭐ 54🍴 Scriptable",
+          "title": "1630⭐ 54🍴 Scriptable",
           "description": ") - An iOS app for automation in JavaScript.",
           "children": [],
           "repo_info": {
@@ -16788,7 +16788,7 @@
         },
         {
           "node_type": "item",
-          "title": "1592⭐ 184🍴 Scientific Computing",
+          "title": "1594⭐ 184🍴 Scientific Computing",
           "description": ") - Solving complex scientific problems using computers.",
           "children": [],
           "repo_info": {
@@ -16802,7 +16802,7 @@
             "open_issues": 19,
             "owner": "nschloe",
             "repo": "awesome-scientific-computing",
-            "stars": 1592,
+            "stars": 1594,
             "topics": [
               "awesome",
               "awesome-list",
@@ -16822,7 +16822,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "2542⭐ 217🍴 GeoJSON",
+              "title": "2545⭐ 217🍴 GeoJSON",
               "description": ")",
               "children": [],
               "repo_info": {
@@ -16836,7 +16836,7 @@
                 "open_issues": 1,
                 "owner": "tmcw",
                 "repo": "awesome-geojson",
-                "stars": 2544,
+                "stars": 2545,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -16855,7 +16855,7 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2026-06-19T12:25:07Z",
-            "open_issues": 117,
+            "open_issues": 118,
             "owner": "burningtree",
             "repo": "awesome-json",
             "stars": 1569,
@@ -16948,7 +16948,7 @@
         },
         {
           "node_type": "item",
-          "title": "1457⭐ 54🍴 Naming",
+          "title": "1454⭐ 54🍴 Naming",
           "description": ") - Guides for naming things in computer science.",
           "children": [],
           "repo_info": {
@@ -16962,7 +16962,7 @@
             "open_issues": 0,
             "owner": "gruhn",
             "repo": "awesome-naming",
-            "stars": 1457,
+            "stars": 1454,
             "topics": [
               "awesome",
               "awesome-list",
@@ -17063,7 +17063,7 @@
         },
         {
           "node_type": "item",
-          "title": "1331⭐ 97🍴 IRC",
+          "title": "1332⭐ 97🍴 IRC",
           "description": ") - Open source messaging protocol.",
           "children": [],
           "repo_info": {
@@ -17077,7 +17077,7 @@
             "open_issues": 2,
             "owner": "davisonio",
             "repo": "awesome-irc",
-            "stars": 1331,
+            "stars": 1332,
             "topics": [
               "awesome",
               "awesome-list",
@@ -17088,7 +17088,7 @@
         },
         {
           "node_type": "item",
-          "title": "1314⭐ 68🍴 Colorful",
+          "title": "1315⭐ 68🍴 Colorful",
           "description": ") - Choose your next color scheme.",
           "children": [],
           "repo_info": {
@@ -17225,7 +17225,7 @@
         },
         {
           "node_type": "item",
-          "title": "992⭐ 113🍴 OpenStreetMap",
+          "title": "993⭐ 114🍴 OpenStreetMap",
           "description": ") - An open data mapping project utilized by many apps and devices.",
           "children": [],
           "repo_info": {
@@ -17236,10 +17236,10 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2026-02-23T22:06:05Z",
-            "open_issues": 51,
+            "open_issues": 52,
             "owner": "osmlab",
             "repo": "awesome-openstreetmap",
-            "stars": 992,
+            "stars": 993,
             "topics": [
               "awesome",
               "awesome-list",
@@ -17364,7 +17364,7 @@
         },
         {
           "node_type": "item",
-          "title": "949⭐ 114🍴 CSV",
+          "title": "951⭐ 117🍴 CSV",
           "description": ") - A text file format that stores tabular data and uses a comma to separate values.",
           "children": [],
           "repo_info": {
@@ -17375,7 +17375,7 @@
             "language": "PowerShell",
             "license": "CC0-1.0",
             "last_commit": "2026-06-11T02:43:51Z",
-            "open_issues": 38,
+            "open_issues": 40,
             "owner": "secretGeek",
             "repo": "AwesomeCSV",
             "stars": 951,
@@ -17424,7 +17424,7 @@
         },
         {
           "node_type": "item",
-          "title": "854⭐ 125🍴 Stock Trading",
+          "title": "855⭐ 125🍴 Stock Trading",
           "description": ") - Purchase and sale of equities of publicly traded companies to generate profits.",
           "children": [],
           "repo_info": {
@@ -17512,7 +17512,7 @@
         },
         {
           "node_type": "item",
-          "title": "754⭐ 23🍴 Steam Deck",
+          "title": "756⭐ 24🍴 Steam Deck",
           "description": ") - A handheld gaming computer developed by Valve.",
           "children": [],
           "repo_info": {
@@ -17522,8 +17522,8 @@
             "id": 664563652,
             "language": "TypeScript",
             "license": "CC0-1.0",
-            "last_commit": "2026-09-24T22:46:12Z",
-            "open_issues": 12,
+            "last_commit": "2026-09-25T10:10:54Z",
+            "open_issues": 13,
             "owner": "airscripts",
             "repo": "awesome-steam-deck",
             "stars": 756,
@@ -17571,7 +17571,7 @@
         },
         {
           "node_type": "item",
-          "title": "695⭐ 74🍴 Open Source Supporters",
+          "title": "696⭐ 74🍴 Open Source Supporters",
           "description": ") - Companies that offer their tools and services for free to open source projects.",
           "children": [],
           "repo_info": {
@@ -17585,7 +17585,7 @@
             "open_issues": 0,
             "owner": "zachflower",
             "repo": "awesome-open-source-supporters",
-            "stars": 695,
+            "stars": 696,
             "topics": [
               "awesome",
               "awesome-list",
@@ -17723,7 +17723,7 @@
             "open_issues": 4,
             "owner": "johnjago",
             "repo": "awesome-uncopyright",
-            "stars": 638,
+            "stars": 639,
             "topics": [
               "awesome",
               "awesome-list",
@@ -17826,7 +17826,7 @@
         },
         {
           "node_type": "item",
-          "title": "575⭐ 94🍴 Copilot Agents",
+          "title": "575⭐ 93🍴 Copilot Agents",
           "description": ") - AI pair programming assistant by GitHub that provides code suggestions and completions.",
           "children": [],
           "repo_info": {
@@ -17859,7 +17859,7 @@
         },
         {
           "node_type": "item",
-          "title": "572⭐ 39🍴 Steam",
+          "title": "571⭐ 40🍴 Steam",
           "description": ") - Digital distribution platform.",
           "children": [],
           "repo_info": {
@@ -17873,7 +17873,7 @@
             "open_issues": 8,
             "owner": "scholtzm",
             "repo": "awesome-steam",
-            "stars": 572,
+            "stars": 571,
             "topics": [
               "awesome",
               "awesome-list",
@@ -17917,7 +17917,7 @@
         },
         {
           "node_type": "item",
-          "title": "533⭐ 46🍴 Software Patreons",
+          "title": "534⭐ 46🍴 Software Patreons",
           "description": ") - Fund individual programmers or the development of open source projects.",
           "children": [],
           "repo_info": {
@@ -17931,7 +17931,7 @@
             "open_issues": 3,
             "owner": "uraimo",
             "repo": "awesome-software-patreons",
-            "stars": 533,
+            "stars": 534,
             "topics": [
               "awesome",
               "awesome-list",
@@ -17947,7 +17947,7 @@
         },
         {
           "node_type": "item",
-          "title": "515⭐ 22🍴 Ad-Free",
+          "title": "516⭐ 21🍴 Ad-Free",
           "description": ") - Alternatives without ads.",
           "children": [],
           "repo_info": {
@@ -17961,7 +17961,7 @@
             "open_issues": 0,
             "owner": "johnjago",
             "repo": "awesome-ad-free",
-            "stars": 515,
+            "stars": 516,
             "topics": [
               "ad-free",
               "ads",
@@ -17977,7 +17977,7 @@
         },
         {
           "node_type": "item",
-          "title": "509⭐ 122🍴 Gemini CLI",
+          "title": "509⭐ 126🍴 Gemini CLI",
           "description": ") - Terminal-based AI coding assistant by Google.",
           "children": [],
           "repo_info": {
@@ -17987,7 +17987,7 @@
             "id": 1029161494,
             "language": null,
             "license": "CC0-1.0",
-            "last_commit": "2026-09-24T13:41:43Z",
+            "last_commit": "2026-09-25T19:44:15Z",
             "open_issues": 3,
             "owner": "Piebald-AI",
             "repo": "awesome-gemini-cli",
@@ -18043,7 +18043,7 @@
         },
         {
           "node_type": "item",
-          "title": "439⭐ 88🍴 Amazon Sellers",
+          "title": "438⭐ 88🍴 Amazon Sellers",
           "description": ")",
           "children": [],
           "repo_info": {
@@ -18057,7 +18057,7 @@
             "open_issues": 9,
             "owner": "ScaleLeap",
             "repo": "awesome-amazon-seller",
-            "stars": 439,
+            "stars": 438,
             "topics": [
               "amazon",
               "amazon-seller",
@@ -18162,7 +18162,7 @@
             "id": 290361286,
             "language": null,
             "license": "CC0-1.0",
-            "last_commit": "2026-09-23T19:32:23Z",
+            "last_commit": "2026-09-25T18:18:07Z",
             "open_issues": 3,
             "owner": "APA-Technology-Division",
             "repo": "urban-and-regional-planning-resources",
@@ -18324,7 +18324,7 @@
         },
         {
           "node_type": "item",
-          "title": "269⭐ 116🍴 Calculators",
+          "title": "269⭐ 117🍴 Calculators",
           "description": ") - Tools for every platform.",
           "children": [],
           "repo_info": {
@@ -18335,7 +18335,7 @@
             "language": null,
             "license": "NOASSERTION",
             "last_commit": "2026-03-21T02:21:43Z",
-            "open_issues": 97,
+            "open_issues": 96,
             "owner": "xxczaki",
             "repo": "awesome-calculators",
             "stars": 269,
@@ -18583,7 +18583,7 @@
         },
         {
           "node_type": "item",
-          "title": "193⭐ 39🍴 Translations",
+          "title": "193⭐ 40🍴 Translations",
           "description": ") - The transfer of the meaning of a text from one language to another.",
           "children": [],
           "repo_info": {
@@ -18646,7 +18646,7 @@
         },
         {
           "node_type": "item",
-          "title": "177⭐ 28🍴 Credit Modeling",
+          "title": "178⭐ 28🍴 Credit Modeling",
           "description": ") - Methods for classifying credit applicants into risk classes.",
           "children": [],
           "repo_info": {
@@ -18660,7 +18660,7 @@
             "open_issues": 0,
             "owner": "mourarthur",
             "repo": "awesome-credit-modeling",
-            "stars": 177,
+            "stars": 178,
             "topics": [
               "awesome",
               "awesome-list",
@@ -18813,7 +18813,7 @@
         },
         {
           "node_type": "item",
-          "title": "157⭐ 20🍴 Computational Biology",
+          "title": "158⭐ 20🍴 Computational Biology",
           "description": ") - Computational approaches applied to problems in biology.",
           "children": [],
           "repo_info": {
@@ -19193,7 +19193,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "817⭐ 39🍴 Awesome CLI",
+          "title": "818⭐ 39🍴 Awesome CLI",
           "description": ") - A simple command-line tool to dive into Awesome lists.",
           "children": [],
           "repo_info": {
@@ -19259,7 +19259,7 @@
             "id": 453170792,
             "language": null,
             "license": "CC0-1.0",
-            "last_commit": "2026-09-24T01:42:49Z",
+            "last_commit": "2026-09-26T02:05:09Z",
             "open_issues": 2,
             "owner": "Correia-jpv",
             "repo": "fucking-awesome",
@@ -19283,7 +19283,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-25T07:24:02.412Z",
+    "last_updated": "2026-09-26T07:19:43.994Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 Awesome lists about all kinds of interesting topics. With repository stars⭐ and forks🍴",
@@ -19291,7 +19291,7 @@
       "id": 453170792,
       "language": null,
       "license": "CC0-1.0",
-      "last_commit": "2026-09-24T01:42:49Z",
+      "last_commit": "2026-09-26T02:05:09Z",
       "open_issues": 2,
       "owner": "Correia-jpv",
       "repo": "fucking-awesome",
@@ -19308,7 +19308,7 @@
         "unicorns"
       ]
     },
-    "original_repository_sha": "82a27882a75eea3715fede893fd6e8548b983cb5",
+    "original_repository_sha": "3a8f6705e65120c5b892db82a56d08097445c654",
     "enhanced_repository": "enhansome/fucking-enhansome",
     "enhanced_repository_description": null,
     "title": "Awesome fucking awesome with stars"
